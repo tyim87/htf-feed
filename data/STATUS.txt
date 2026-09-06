@@ -1,0 +1,5 @@
+generated_utc=2026-09-06T10:30:05Z
+symbols_scanned=150
+with_history=132
+survivors=39
+latest_bar=2026-09-04
