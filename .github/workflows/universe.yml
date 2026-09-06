@@ -32,7 +32,7 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install --quiet "yfinance>=0.2.40" pandas numpy
+        run: pip install --quiet -r requirements.txt
 
       - name: Build universe
         env:
