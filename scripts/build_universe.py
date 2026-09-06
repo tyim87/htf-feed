@@ -1,7 +1,3 @@
-def a():
-    if x:
-        return 1
-    return 2
 #!/usr/bin/env python3
 """
 Builds the daily HTF universe digest.
