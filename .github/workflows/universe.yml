@@ -1,0 +1,55 @@
+name: Build HTF universe
+
+# US close is 20:00 UTC (21:00 during DST). This runs at 22:10 UTC, which is
+# 07:10 KST the next morning - comfortably before the 09:00 KST screen.
+on:
+  schedule:
+    - cron: "10 22 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      smoke_test:
+        description: "Only scan the first 150 symbols (fast check)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: universe
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install --quiet "yfinance>=0.2.40" pandas numpy
+
+      - name: Build universe
+        env:
+          SMOKE_TEST: ${{ inputs.smoke_test && '1' || '' }}
+        run: python scripts/build_universe.py
+
+      - name: Show status
+        run: cat data/STATUS.txt
+
+      - name: Commit digest
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/universe.csv data/bars.csv data/STATUS.txt
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "universe: $(date -u +%Y-%m-%d)"
+            git push
+          fi
