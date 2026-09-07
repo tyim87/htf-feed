@@ -91,7 +91,7 @@ def download(tickers: list[str]) -> dict[str, pd.DataFrame]:
     for i in range(0, len(tickers), CHUNK):
         batch = tickers[i:i + CHUNK]
         try:
-            raw = yf.download(batch, period="9mo", interval="1d",
+            raw = yf.download(batch, period="2y", interval="1d",
                               group_by="ticker", auto_adjust=True,
                               threads=True, progress=False)
         except Exception as exc:                       # noqa: BLE001
@@ -262,12 +262,12 @@ def main() -> int:
     uni[cols].to_csv(os.path.join(OUT, "universe.csv"), index=False)
 
     keep = set(uni["ticker"])
-    long = []
-    for t in keep:
-        df = bars[t].tail(130).reset_index()
+
+    def frame(t, df):
+        df = df.reset_index()
         df.columns = [str(c).lower() for c in df.columns]
         dcol = "date" if "date" in df.columns else df.columns[0]
-        long.append(pd.DataFrame({
+        return pd.DataFrame({
             "ticker": t,
             "date": pd.to_datetime(df[dcol]).dt.strftime("%Y-%m-%d"),
             "open": df["open"].round(4),
@@ -275,9 +275,26 @@ def main() -> int:
             "low": df["low"].round(4),
             "close": df["close"].round(4),
             "volume": df["volume"].astype("int64"),
-        }))
-    pd.concat(long, ignore_index=True).to_csv(
-        os.path.join(OUT, "bars.csv"), index=False)
+        })
+
+    daily, weekly = [], []
+    for t in keep:
+        full = bars[t]
+        daily.append(frame(t, full.tail(130)))
+        # Stine's laws are measured on WEEKLY bars and need ~52 of them. A
+        # 130-bar daily file resamples to only ~27 weeks, which made the
+        # Super Laws component silently score noise instead of saying so.
+        wk = full.resample("W-FRI").agg({"Open": "first", "High": "max",
+                                         "Low": "min", "Close": "last",
+                                         "Volume": "sum"}).dropna()
+        weekly.append(frame(t, wk.tail(110)))
+
+    # gzipped: uncompressed these commit ~10MB a day, which becomes
+    # gigabytes of git history inside a year.
+    pd.concat(daily, ignore_index=True).to_csv(
+        os.path.join(OUT, "bars.csv.gz"), index=False, compression="gzip")
+    pd.concat(weekly, ignore_index=True).to_csv(
+        os.path.join(OUT, "weekly.csv.gz"), index=False, compression="gzip")
 
     with open(os.path.join(OUT, "STATUS.txt"), "w") as fh:
         fh.write("generated_utc=%s\n" % time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
