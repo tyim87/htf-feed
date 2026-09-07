@@ -174,8 +174,10 @@ def sector_map(tickers: list[str]) -> dict[str, tuple[str, str, str]]:
     random.Random(_daily_seed()).shuffle(order)
     out: dict[str, tuple[str, str, str]] = {t: ("", "", "") for t in tickers}
 
+    errs: list[str] = []
+
     def one(t):
-        for attempt in range(2):
+        for attempt in range(3):
             try:
                 info = yf.Ticker(t).get_info()
                 # The business summary is the single best theme signal -
@@ -186,17 +188,30 @@ def sector_map(tickers: list[str]) -> dict[str, tuple[str, str, str]]:
                 summary = " ".join(summary.split())
                 return t, (info.get("sector") or "",
                            info.get("industry") or "", summary)
-            except Exception:                          # noqa: BLE001
-                time.sleep(0.5 * (attempt + 1))
+            except Exception as exc:                   # noqa: BLE001
+                if len(errs) < 5:
+                    errs.append("%s -> %r" % (t, exc))
+                time.sleep(1.0 * (attempt + 1))
         return t, ("", "", "")
 
-    with cf.ThreadPoolExecutor(max_workers=8) as ex:
+    # 8 threads against Yahoo's profile endpoint is enough to get the whole
+    # batch throttled, and the failure is SILENT: every name comes back with an
+    # empty sector, industry and summary, the run still reports success, and
+    # the theme layer quietly falls back to matching on company NAME alone.
+    # That is exactly what happened on the first full run - 694 of 800 names
+    # landed in Unclassified. Fewer threads, more retries, and the count is now
+    # published in STATUS.txt so a repeat is visible instead of invisible.
+    with cf.ThreadPoolExecutor(max_workers=4) as ex:
         for t, val in ex.map(one, order):
             out[t] = val
 
-    missing = sum(1 for v in out.values() if not v[0])
-    print("  sector/industry: %d of %d resolved" % (len(out) - missing, len(out)),
-          flush=True)
+    resolved = sum(1 for v in out.values() if v[0] or v[1] or v[2])
+    print("  sector/industry: %d of %d resolved" % (resolved, len(out)), flush=True)
+    if errs:
+        print("  first profile errors:", flush=True)
+        for e in errs:
+            print("    " + e, flush=True)
+    globals()["_SECTOR_RESOLVED"] = resolved
     return out
 
 
@@ -302,6 +317,9 @@ def main() -> int:
         fh.write("with_history=%d\n" % len(bars))
         fh.write("survivors=%d\n" % len(uni))
         fh.write("latest_bar=%s\n" % uni["last_date"].max())
+        # Published so a silent Yahoo throttle can never again leave the theme
+        # layer classifying on company names alone without anyone noticing.
+        fh.write("sector_resolved=%d\n" % globals().get("_SECTOR_RESOLVED", 0))
 
     print("wrote universe.csv (%d rows) and bars.csv" % len(uni))
     return 0
