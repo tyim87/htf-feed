@@ -160,7 +160,7 @@ def metrics(df: pd.DataFrame) -> dict | None:
     )
 
 
-def sector_map(tickers: list[str]) -> dict[str, tuple[str, str]]:
+def sector_map(tickers: list[str]) -> dict[str, tuple[str, str, str]]:
     """
     Sector/industry for the theme layer. Best-effort - never fatal.
 
@@ -172,16 +172,23 @@ def sector_map(tickers: list[str]) -> dict[str, tuple[str, str]]:
     """
     order = list(tickers)
     random.Random(_daily_seed()).shuffle(order)
-    out: dict[str, tuple[str, str]] = {t: ("", "") for t in tickers}
+    out: dict[str, tuple[str, str, str]] = {t: ("", "", "") for t in tickers}
 
     def one(t):
         for attempt in range(2):
             try:
                 info = yf.Ticker(t).get_info()
-                return t, (info.get("sector") or "", info.get("industry") or "")
+                # The business summary is the single best theme signal -
+                # names and industry labels routinely hide what a company
+                # actually sells (Bakkt is crypto, filed as "Software -
+                # Infrastructure"). Truncated to keep the digest small.
+                summary = (info.get("longBusinessSummary") or "")[:400]
+                summary = " ".join(summary.split())
+                return t, (info.get("sector") or "",
+                           info.get("industry") or "", summary)
             except Exception:                          # noqa: BLE001
                 time.sleep(0.5 * (attempt + 1))
-        return t, ("", "")
+        return t, ("", "", "")
 
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
         for t, val in ex.map(one, order):
@@ -244,13 +251,14 @@ def main() -> int:
 
     print("enriching %d survivors with sector/industry ..." % len(uni), flush=True)
     sm = sector_map(uni["ticker"].tolist())
-    uni["sector"] = uni["ticker"].map(lambda t: sm.get(t, ("", ""))[0])
-    uni["industry"] = uni["ticker"].map(lambda t: sm.get(t, ("", ""))[1])
+    uni["sector"] = uni["ticker"].map(lambda t: sm.get(t, ("", "", ""))[0])
+    uni["industry"] = uni["ticker"].map(lambda t: sm.get(t, ("", "", ""))[1])
+    uni["summary"] = uni["ticker"].map(lambda t: sm.get(t, ("", "", ""))[2])
     uni = uni.merge(syms, on="ticker", how="left")
 
     cols = ["ticker", "name", "sector", "industry", "price", "adr", "atr_pct",
             "dollar_vol", "ret_1m", "ret_3m", "ret_6m", "run_90d",
-            "from_52w_high", "rs", "bars", "last_date"]
+            "from_52w_high", "rs", "bars", "last_date", "summary"]
     uni[cols].to_csv(os.path.join(OUT, "universe.csv"), index=False)
 
     keep = set(uni["ticker"])
