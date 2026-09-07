@@ -20,8 +20,11 @@ public symbol directory, the bars from yfinance.
 """
 from __future__ import annotations
 
+import concurrent.futures as cf
+import datetime as _dt
 import io
 import os
+import random
 import sys
 import time
 import urllib.request
@@ -29,6 +32,12 @@ import urllib.request
 import numpy as np
 import pandas as pd
 import yfinance as yf
+
+
+def _daily_seed() -> int:
+    """Stable within a run, different each day - reproducible but not fixed."""
+    return int(_dt.date.today().strftime("%Y%m%d"))
+
 
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
 
@@ -38,7 +47,7 @@ MIN_PRICE = 1.00
 MIN_DOLLAR_VOL = 2_000_000      # 20-day average
 MIN_ADR = 3.5                   # %, the screen's own floor is 4.0
 MIN_RUN_90D = 25.0              # % - needs to have moved to have a pole
-MAX_ROWS = 600                  # cap on what we ship
+MAX_ROWS = 800                  # cap on what we ship
 
 CHUNK = 150
 SLEEP = 1.5
@@ -67,7 +76,17 @@ def nasdaq_symbol_directory() -> pd.DataFrame:
 
 
 def download(tickers: list[str]) -> dict[str, pd.DataFrame]:
-    """Batch-download 6 months of daily bars. Failures are skipped, not fatal."""
+    """
+    Batch-download 6 months of daily bars. Failures are skipped, not fatal.
+
+    The list is SHUFFLED first. Yahoo throttles part-way through a long run, and
+    with the symbol directory in alphabetical order that would silently cost the
+    same names every day - everything from roughly S to Z. Shuffling makes any
+    loss random instead of systematic, so no region of the alphabet is
+    permanently invisible to the screen.
+    """
+    tickers = list(tickers)
+    random.Random(_daily_seed()).shuffle(tickers)
     got: dict[str, pd.DataFrame] = {}
     for i in range(0, len(tickers), CHUNK):
         batch = tickers[i:i + CHUNK]
@@ -142,14 +161,35 @@ def metrics(df: pd.DataFrame) -> dict | None:
 
 
 def sector_map(tickers: list[str]) -> dict[str, tuple[str, str]]:
-    """Sector/industry for the theme layer. Best-effort - never fatal."""
-    out: dict[str, tuple[str, str]] = {}
-    for t in tickers:
-        try:
-            info = yf.Ticker(t).get_info()
-            out[t] = (info.get("sector") or "", info.get("industry") or "")
-        except Exception:                              # noqa: BLE001
-            out[t] = ("", "")
+    """
+    Sector/industry for the theme layer. Best-effort - never fatal.
+
+    Threaded, because this was a sequential loop of up to 800 HTTP calls: slow
+    enough to risk the job timing out, and if Yahoo started throttling part-way
+    the names later in the list lost their sector - which, with an alphabetical
+    list, meant the same names every day landed in "Unclassified" and were
+    invisible to the theme layer. Shuffled for the same reason as download().
+    """
+    order = list(tickers)
+    random.Random(_daily_seed()).shuffle(order)
+    out: dict[str, tuple[str, str]] = {t: ("", "") for t in tickers}
+
+    def one(t):
+        for attempt in range(2):
+            try:
+                info = yf.Ticker(t).get_info()
+                return t, (info.get("sector") or "", info.get("industry") or "")
+            except Exception:                          # noqa: BLE001
+                time.sleep(0.5 * (attempt + 1))
+        return t, ("", "")
+
+    with cf.ThreadPoolExecutor(max_workers=8) as ex:
+        for t, val in ex.map(one, order):
+            out[t] = val
+
+    missing = sum(1 for v in out.values() if not v[0])
+    print("  sector/industry: %d of %d resolved" % (len(out) - missing, len(out)),
+          flush=True)
     return out
 
 
@@ -185,10 +225,16 @@ def main() -> int:
         uni.to_csv(os.path.join(OUT, "universe.csv"), index=False)
         return 1
 
-    # rank by a blunt momentum composite; the screen does the real ranking
-    uni["rs"] = (uni["ret_1m"].replace("", np.nan).astype(float).rank(pct=True) * 0.5
-                 + uni["ret_3m"].replace("", np.nan).astype(float).rank(pct=True) * 0.3
-                 + uni["ret_6m"].replace("", np.nan).astype(float).rank(pct=True) * 0.2)
+    # Rank for the shipping cut. run_90d carries a quarter of the weight because
+    # this decides which names the screen is even allowed to look at, and a
+    # stock deep in a tight flag has a POOR recent return by construction -
+    # that is what a flag is. Ranking on trailing returns alone would drop the
+    # best setups before the geometry engine ever saw them.
+    def pr(col):
+        return uni[col].replace("", np.nan).astype(float).rank(pct=True)
+
+    uni["rs"] = (pr("ret_1m") * 0.30 + pr("ret_3m") * 0.25
+                 + pr("ret_6m") * 0.20 + pr("run_90d") * 0.25)
     uni = uni.sort_values("rs", ascending=False).head(MAX_ROWS)
 
     print("enriching %d survivors with sector/industry ..." % len(uni), flush=True)
