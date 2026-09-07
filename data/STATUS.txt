@@ -1,9 +1,11 @@
-generated_utc=2026-09-07T05:34:45Z
+generated_utc=2026-09-07T06:40:34Z
 symbols_scanned=6955
 with_history=6364
 survivors=800
 latest_bar=2026-09-04
+sector_resolved=798
 insider_status=ok
-insider_rows=14995
+sic_profiles=800
+insider_rows=15001
 insider_buy_rows=947
 names_with_open_market_buys=198
