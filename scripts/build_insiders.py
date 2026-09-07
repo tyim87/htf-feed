@@ -101,15 +101,32 @@ def ticker_to_cik():
     return out
 
 
-def recent_form4s(cik: str, since: dt.date):
+# ticker -> (sicDescription, registered company name), harvested for free from
+# the submissions file we already fetch. See write_profiles() for why.
+PROFILES: dict[str, tuple[str, str]] = {}
+
+
+def recent_form4s(cik: str, since: dt.date, ticker: str = ""):
     """[(filingDate, accessionNumber, primaryDocument)] for Form 4s since since."""
     raw = _throttled_get("https://data.sec.gov/submissions/CIK%s.json" % cik, timeout=45)
     if not raw:
         return []
     try:
-        rec = json.loads(raw).get("filings", {}).get("recent", {})
+        sub = json.loads(raw)
+        rec = sub.get("filings", {}).get("recent", {})
     except Exception:                                   # noqa: BLE001
         return []
+
+    # The same JSON carries the company's SIC description - a real, stable
+    # industry label straight from the registrant's own filings. Free here, and
+    # the only industry source in this pipeline that does not depend on Yahoo
+    # answering.
+    if ticker:
+        sic_desc = (sub.get("sicDescription") or "").strip()
+        cname = (sub.get("name") or "").strip()
+        if sic_desc or cname:
+            with _lock:
+                PROFILES[ticker] = (sic_desc, cname)
     forms = rec.get("form") or []
     dates = rec.get("filingDate") or []
     accs = rec.get("accessionNumber") or []
@@ -225,7 +242,7 @@ def collect(tickers):
 
     def list_one(pair):
         t, cik = pair
-        return t, cik, recent_form4s(cik, since)
+        return t, cik, recent_form4s(cik, since, ticker=t)
 
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as ex:
         for n, (t, cik, f4) in enumerate(ex.map(list_one, pairs), 1):
@@ -259,6 +276,31 @@ def collect(tickers):
     return rows
 
 
+def write_profiles() -> None:
+    """
+    Ships data/profiles.csv - ticker, SIC industry description, registrant name.
+
+    WHY: the theme layer needs to know what a company actually DOES. Its only
+    source was Yahoo's profile endpoint, and when Yahoo throttles the run that
+    source returns empty for every name at once, SILENTLY, leaving themes to be
+    matched against company names alone. On the first full run that put 694 of
+    800 names in "Unclassified" and made the third-priority signal inert.
+
+    SIC descriptions are coarser than a business summary, but they come from
+    the company's own filings, they never rate-limit us (this data arrives in
+    the submissions JSON already fetched above), and they are enough to
+    separate a biotech from a gold miner from a software company.
+    """
+    path = os.path.join(OUT, "profiles.csv")
+    with open(path, "w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=["ticker", "sic_description", "sec_name"])
+        w.writeheader()
+        for t in sorted(PROFILES):
+            sic, nm = PROFILES[t]
+            w.writerow({"ticker": t, "sic_description": sic, "sec_name": nm})
+    print("wrote profiles.csv: %d SIC industry labels" % len(PROFILES), flush=True)
+
+
 def main() -> int:
     os.makedirs(OUT, exist_ok=True)
     uni_path = os.path.join(OUT, "universe.csv")
@@ -279,6 +321,7 @@ def main() -> int:
                 "shares", "price", "value", "shares_after"]
         with open(os.path.join(OUT, "insiders.csv"), "w", newline="") as fh:
             csv.DictWriter(fh, fieldnames=cols).writeheader()
+        write_profiles()
         with open(os.path.join(OUT, "STATUS.txt"), "a") as fh:
             fh.write("insider_status=skipped (SEC_CONTACT secret not set)\n")
         return 0
@@ -300,6 +343,8 @@ def main() -> int:
         for r in rows:
             w.writerow({c: r.get(c, "") for c in cols})
 
+    write_profiles()
+
     buys = sum(1 for r in rows if r["code"] == "P")
     names_with_buys = len({r["ticker"] for r in rows if r["code"] == "P"})
     print("wrote insiders.csv: %d rows (%d open-market buys across %d names)"
@@ -307,6 +352,7 @@ def main() -> int:
 
     with open(os.path.join(OUT, "STATUS.txt"), "a") as fh:
         fh.write("insider_status=ok\n")
+        fh.write("sic_profiles=%d\n" % len(PROFILES))
         fh.write("insider_rows=%d\n" % len(rows))
         fh.write("insider_buy_rows=%d\n" % buys)
         fh.write("names_with_open_market_buys=%d\n" % names_with_buys)
