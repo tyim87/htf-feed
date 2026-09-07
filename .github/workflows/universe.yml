@@ -46,6 +46,7 @@ jobs:
         continue-on-error: true
         env:
           SMOKE_TEST: ${{ inputs.smoke_test && '1' || '' }}
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
         run: python scripts/build_insiders.py
 
       - name: Show status
