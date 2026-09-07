@@ -45,7 +45,11 @@ import xml.etree.ElementTree as ET
 
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
 
-UA = "htf-feed research script (contact: github.com/tyim87/htf-feed)"
+# SEC requires automated traffic to identify itself with a contact email,
+# and returns 403 to anything without one. The address is read from the
+# SEC_CONTACT repository secret so it never appears in this public file.
+SEC_CONTACT = os.environ.get("SEC_CONTACT", "").strip()
+UA = "htf-feed research script %s" % (SEC_CONTACT or "(no contact configured)")
 LOOKBACK_DAYS = 180
 MAX_FORM4_PER_TICKER = 40
 WORKERS = 8
@@ -265,6 +269,20 @@ def main() -> int:
         tickers = [r["ticker"] for r in csv.DictReader(fh) if r.get("ticker")]
     if os.environ.get("SMOKE_TEST"):
         tickers = tickers[:40]
+    if not SEC_CONTACT:
+        # Not an error - just unconfigured. Skip cleanly rather than firing
+        # hundreds of requests SEC will reject with 403.
+        print("SEC_CONTACT secret is not set, so SEC would reject every "
+              "request (403). Skipping insider collection; the screen will "
+              "score insiders as absent.", flush=True)
+        cols = ["ticker", "date", "owner", "role", "title", "code",
+                "shares", "price", "value", "shares_after"]
+        with open(os.path.join(OUT, "insiders.csv"), "w", newline="") as fh:
+            csv.DictWriter(fh, fieldnames=cols).writeheader()
+        with open(os.path.join(OUT, "STATUS.txt"), "a") as fh:
+            fh.write("insider_status=skipped (SEC_CONTACT secret not set)\n")
+        return 0
+
     print("collecting Form 4s for %d tickers ..." % len(tickers), flush=True)
 
     rows = collect(tickers)
@@ -288,6 +306,7 @@ def main() -> int:
           % (len(rows), buys, names_with_buys))
 
     with open(os.path.join(OUT, "STATUS.txt"), "a") as fh:
+        fh.write("insider_status=ok\n")
         fh.write("insider_rows=%d\n" % len(rows))
         fh.write("insider_buy_rows=%d\n" % buys)
         fh.write("names_with_open_market_buys=%d\n" % names_with_buys)
