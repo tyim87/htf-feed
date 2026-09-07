@@ -1,8 +1,5 @@
-generated_utc=2026-09-07T03:25:48Z
+generated_utc=2026-09-07T03:45:21Z
 symbols_scanned=150
 with_history=131
 survivors=33
 latest_bar=2026-09-04
-insider_rows=0
-insider_buy_rows=0
-names_with_open_market_buys=0
