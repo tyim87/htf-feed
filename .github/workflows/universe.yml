@@ -39,6 +39,11 @@ jobs:
           SMOKE_TEST: ${{ inputs.smoke_test && '1' || '' }}
         run: python scripts/build_universe.py
 
+      - name: Collect insider filings (SEC EDGAR)
+        env:
+          SMOKE_TEST: ${{ inputs.smoke_test && '1' || '' }}
+        run: python scripts/build_insiders.py
+
       - name: Show status
         run: cat data/STATUS.txt
 
@@ -46,7 +51,9 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/universe.csv data/bars.csv data/STATUS.txt
+          git rm -q --cached --ignore-unmatch data/bars.csv
+          rm -f data/bars.csv
+          git add -A data/
           if git diff --staged --quiet; then
             echo "no changes"
           else
