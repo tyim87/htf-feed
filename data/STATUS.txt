@@ -1,9 +1,9 @@
-generated_utc=2026-09-07T06:40:34Z
+generated_utc=2026-09-07T22:36:12Z
 symbols_scanned=6955
 with_history=6364
 survivors=800
 latest_bar=2026-09-04
-sector_resolved=798
+sector_resolved=0
 insider_status=ok
 sic_profiles=800
 insider_rows=15001
