@@ -51,8 +51,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git rm -q --cached --ignore-unmatch data/bars.csv
-          rm -f data/bars.csv
           git add -A data/
           if git diff --staged --quiet; then
             echo "no changes"
