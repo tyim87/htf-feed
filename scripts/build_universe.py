@@ -201,6 +201,11 @@ def main() -> int:
     print("  %d symbols" % len(syms), flush=True)
 
     tickers = syms["ticker"].tolist()
+    # Shuffle BEFORE the smoke-test slice. Slicing first made every smoke
+    # run scan the same 150 alphabetically-first symbols - which is exactly
+    # how a full-market screen ends up looking like it only knows tickers
+    # beginning with A.
+    random.Random(_daily_seed()).shuffle(tickers)
     if os.environ.get("SMOKE_TEST"):
         tickers = tickers[:CHUNK]
 
