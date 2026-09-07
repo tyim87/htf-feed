@@ -1,1 +1,483 @@
 ticker,date,owner,role,title,code,shares,price,value,shares_after
+APPN,2026-05-13,Dorsey Mark,officer,Chief Revenue Officer,P,5220.0,19.13,99858.6,13986.0
+APPN,2026-05-13,Dorsey Mark,officer,Chief Revenue Officer,P,7.0,19.15,134.05,13993.0
+APPN,2026-06-08,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,50000.0,24.13,1206500.0,1769144.0
+APPN,2026-07-07,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,37515.0,24.61,923244.15,1731629.0
+APPN,2026-07-07,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,12485.0,25.07,312998.95,1719144.0
+APPN,2026-08-07,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,2580.0,31.66,81682.8,1716564.0
+APPN,2026-08-07,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,1609.0,33.09,53241.81,1714955.0
+APPN,2026-08-07,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,9264.0,34.34,318125.76,1705691.0
+APPN,2026-08-07,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,31547.0,34.79,1097520.13,1674144.0
+ATLC,2026-06-26,McCamey William,officer,Chief Financial Officer,S,10000.0,109.45,1094500.0,137410.0
+ATLC,2026-06-26,Howard Jeffrey A.,"director, officer",President & CEO,S,10000.0,109.45,1094500.0,673265.0
+ATLC,2026-06-29,HANNA FRANK J III,10% owner,,S,1005.0,105.0,105525.0,3797067.0
+ATLC,2026-06-29,HANNA DAVID G,"director, officer, 10% owner",Executive Chairman,S,1005.0,105.0,105525.0,283387.0
+ATLC,2026-06-29,Saunders Mitchell,officer,Chief Accounting Officer,S,10000.0,102.2,1022000.0,46273.0
+ATLC,2026-06-30,McCamey William,officer,Chief Financial Officer,S,10000.0,103.01,1030100.0,127410.0
+ATLC,2026-06-30,Howard Jeffrey A.,"director, officer",President & CEO,S,10000.0,103.01,1030100.0,663265.0
+ATLC,2026-06-30,HANNA FRANK J III,10% owner,,S,8319.0,103.08,857522.52,3788748.0
+ATLC,2026-06-30,HANNA DAVID G,"director, officer, 10% owner",Executive Chairman,S,8319.0,103.08,857522.52,275068.0
+ATLC,2026-07-01,HANNA FRANK J III,10% owner,,S,15676.0,104.26,1634379.76,3773072.0
+ATLC,2026-07-01,HANNA DAVID G,"director, officer, 10% owner",Executive Chairman,S,15676.0,104.26,1634379.76,259392.0
+AUGO,2026-05-27,Sousa Mauad Bruno,director,,S,9652.0,75.62,729884.24,567321.0
+AUGO,2026-05-28,Sousa Mauad Bruno,director,,S,32356.0,76.98,2490764.88,534965.0
+AUGO,2026-05-29,Sousa Mauad Bruno,director,,S,100000.0,77.48,7748000.0,434965.0
+AUGO,2026-06-03,Sousa Mauad Bruno,director,,P,2800.0,64.95,181860.0,437765.0
+AUGO,2026-06-22,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,6323.0,65.22,412386.06,434305.0
+AUGO,2026-06-26,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,22367.0,65.27,1459894.09,411938.0
+AUGO,2026-06-30,Dos Santos Cardoso Joao Kleber,officer,CFO and Corporate Secretary,S,8565.0,61.08,523150.2,169546.0
+AUGO,2026-06-30,Dos Santos Cardoso Joao Kleber,officer,CFO and Corporate Secretary,S,50510.0,62.08,3135660.8,119036.0
+AUGO,2026-06-30,Dos Santos Cardoso Joao Kleber,officer,CFO and Corporate Secretary,S,925.0,62.9,58182.5,118111.0
+AUGO,2026-07-01,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,2300.0,65.0,149500.0,409638.0
+AUGO,2026-07-02,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,19010.0,65.23,1240022.3,390628.0
+AUGO,2026-08-07,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,50000.0,70.1,3505000.0,340628.0
+AUGO,2026-08-07,Dos Santos Cardoso Joao Kleber,officer,CFO and Corporate Secretary,S,10000.0,70.03,700300.0,108111.0
+AUGO,2026-08-10,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,50000.0,75.02,3751000.0,290628.0
+AUGO,2026-08-17,Sousa Mauad Bruno,director,,P,11000.0,78.93,868230.0,448765.0
+AUGO,2026-08-17,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,1400.0,80.0,112000.0,289228.0
+AUGO,2026-08-17,Dos Santos Cardoso Joao Kleber,officer,CFO and Corporate Secretary,S,2066.0,80.0,165280.0,106045.0
+AUGO,2026-08-19,Rosa Luvizotto Glauber,officer,Chief Operating Officer,S,64713.0,80.2,5189982.6,224515.0
+AUGO,2026-08-19,Dos Santos Cardoso Joao Kleber,officer,CFO and Corporate Secretary,S,7934.0,80.12,635672.08,98111.0
+AUGO,2026-08-19,Sousa Mauad Bruno,director,,S,280000.0,81.67,22867600.0,168765.0
+AUGO,2026-08-20,Sousa Mauad Bruno,director,,S,125000.0,86.0,10750000.0,43765.0
+AUGO,2026-08-21,Sousa Mauad Bruno,director,,S,222652.0,88.11,19617867.72,71113.0
+AUGO,2026-08-24,Sousa Mauad Bruno,director,,S,120757.0,88.45,10680956.65,75356.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,P,26018.0,82.5743,2148418.14,191374.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,P,61552.0,83.5822,5144651.57,252926.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,P,38430.0,84.3175,3240321.52,291356.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,P,126000.0,89.36,11259360.0,417356.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,S,9410.0,84.415,794345.15,407946.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,S,36300.0,85.2855,3095863.65,371646.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,S,8201.0,86.5039,709418.48,363445.0
+AUGO,2026-08-28,Sousa Mauad Bruno,director,,S,103589.0,87.4672,9060639.78,259856.0
+AUGO,2026-08-31,Sousa Mauad Bruno,director,,P,10.0,79.89,798.9,290866.0
+AUGO,2026-08-31,Sousa Mauad Bruno,director,,S,127500.0,81.2,10353000.0,163366.0
+AUGO,2026-09-01,Sousa Mauad Bruno,director,,P,1.0,81.1,81.1,170592.0
+BKKT,2026-03-27,D'Annunzio Marc,officer,General Counsel and Secretary,S,6422.0,8.55,54908.1,111411.0
+BKKT,2026-03-30,D'Annunzio Marc,officer,General Counsel and Secretary,S,5342.0,7.0788,37814.95,106069.0
+BKKT,2026-04-06,Baes Nicholas,officer,Chief Operating Officer,S,711.0,7.56,5375.16,101312.0
+BKKT,2026-04-28,Alexander Karen,officer,Chief Financial Officer,S,4684.0,9.13,42764.92,55771.0
+BKKT,2026-04-28,Baes Nicholas,officer,Chief Operating Officer,S,2352.0,9.13,21473.76,106266.0
+BKKT,2026-04-28,D'Annunzio Marc,officer,General Counsel & Secretary,S,3789.0,9.13,34593.57,114050.0
+BKKT,2026-04-28,D'Annunzio Marc,officer,General Counsel & Secretary,S,3991.0,8.6,34322.6,110059.0
+BKKT,2026-05-15,ALFRED MICHAEL,director,,P,365000.0,8.34,3044100.0,405000.0
+BKKT,2026-05-18,ALFRED MICHAEL,director,,P,220000.0,8.2,1804000.0,625000.0
+BKKT,2026-06-09,ALFRED MICHAEL,director,,P,180000.0,7.71,1387800.0,805000.0
+BKKT,2026-06-10,ALFRED MICHAEL,director,,P,100000.0,7.83,783000.0,905000.0
+BKKT,2026-06-25,Henderson Joseph Sean-Walsh,officer,Chief Accounting Officer,S,349.0,7.93,2767.57,13048.0
+BKKT,2026-06-25,D'Annunzio Marc,officer,General Counsel & Secretary,S,1562.0,7.93,12386.66,110174.0
+BKKT,2026-06-25,Baes Nicholas,officer,Chief Operating Officer,S,1562.0,7.93,12386.66,105375.0
+BKKT,2026-06-25,Alexander Karen,officer,Chief Financial Officer,S,1907.0,7.93,15122.51,54199.0
+BKKT,2026-06-26,D'Annunzio Marc,officer,General Counsel & Secretary,S,1357.0,7.71,10462.47,108817.0
+BKKT,2026-07-15,D'Annunzio Marc,officer,General Counsel & Secretary,S,539.0,8.44,4549.16,108278.0
+BKKT,2026-07-15,Alexander Karen,officer,Chief Financial Officer,S,657.0,8.44,5545.08,53542.0
+BKKT,2026-07-15,Henderson Joseph Sean-Walsh,officer,Chief Accounting Officer,S,94.0,8.33,783.02,12954.0
+BKKT,2026-08-18,ALFRED MICHAEL,director,,P,296567.0,7.12,2111557.04,1201567.0
+BLMN,2026-03-11,Lal Rohit,director,,P,10000.0,5.69,56900.0,30156.085
+CAKE,2018-03-12,Ames Edie A,director,,P,500.0,49.51,24755.0,13000.0
+CAKE,2026-03-10,May Scarlett,officer,"EVP, GENERAL COUNSEL",S,5206.0,62.9482,327708.33,25715.0
+CAKE,2026-05-01,OVERTON DAVID,"director, officer",CHAIRMAN AND C.E.O.,S,104000.0,61.02,6346080.0,3079779.0
+CAKE,2026-06-02,CAPPELLO ALEXANDER L,director,,S,2490.0,64.9,161601.0,6171.0
+CAKE,2026-07-30,CAPPELLO ALEXANDER L,director,,S,2095.0,101.5,212642.5,4076.0
+CAKE,2026-07-30,Hanscom Ashley W,officer,PRINCIPAL ACCOUNTING OFFICER,S,3500.0,100.0,350000.0,7541.0
+CAKE,2026-07-30,Clark Matthew Eliot,officer,"EXEC VP, CFO",S,68900.0,99.3,6841770.0,45109.0
+CAKE,2026-07-31,CAPPELLO ALEXANDER L,director,,S,100.0,103.04,10304.0,3976.0
+CAKE,2026-07-31,May Scarlett,officer,"EVP, GENERAL COUNSEL",S,7978.0,102.66,819021.48,18241.0
+CAKE,2026-08-03,CAPPELLO ALEXANDER L,director,,S,59.0,104.2,6147.8,3917.0
+CAKE,2026-08-04,CAPPELLO ALEXANDER L,director,,S,64.0,106.08,6789.12,3853.0
+CAKE,2026-08-05,OVERTON DAVID,"director, officer",CHAIRMAN AND C.E.O.,S,94145.0,106.27,10004789.15,89805.0
+CAKE,2026-08-10,Gordon David M,officer,PRESIDENT,S,16866.0,109.98,1854922.68,41959.0
+CAKE,2026-08-10,Gordon David M,officer,PRESIDENT,S,15084.0,110.08,1660446.72,26875.0
+CAKE,2026-08-10,Ames Edie A,director,,S,3000.0,106.95,320850.0,10000.0
+CAKE,2026-08-17,Meyer Janice L.,director,,S,1958.0,109.3573,214121.59,21251.0
+CATX,2026-08-31,"Lantheus Alpha Therapy, LLC",10% owner,,S,78145.0,3.143,245609.73,11599194.0
+CATX,2026-08-31,"Lantheus Holdings, Inc.",10% owner,,S,78145.0,3.143,245609.73,11599194.0
+CATX,2026-09-01,"Lantheus Alpha Therapy, LLC",10% owner,,S,35769.0,3.1193,111574.24,11563425.0
+CATX,2026-09-01,"Lantheus Holdings, Inc.",10% owner,,S,35769.0,3.1193,111574.24,11563425.0
+CATX,2026-09-02,"Lantheus Alpha Therapy, LLC",10% owner,,S,42129.0,3.1147,131219.2,11521296.0
+CDNA,2026-04-16,Hanna John Walter JR,"director, officer",President and CEO,S,10282.0,21.12,217155.84,676475.0
+CDNA,2026-05-05,Novack Jeffrey Adam,officer,Secretary and General Counsel,S,2688.0,20.6775,55581.12,113924.0
+CDNA,2026-05-14,TORRES ARTHUR A,director,,S,4086.0,20.9735,85697.72,45149.0
+CDNA,2026-05-15,TORRES ARTHUR A,director,,S,6484.0,19.8917,128977.78,38665.0
+CDNA,2026-06-04,Hanna John Walter JR,"director, officer",President and CEO,S,4835.0,24.001,116044.84,671640.0
+CDNA,2026-06-11,Hanna John Walter JR,"director, officer",President and CEO,S,21998.0,24.0223,528442.56,649642.0
+CDNA,2026-06-15,Hanna John Walter JR,"director, officer",President and CEO,S,17683.0,24.0274,424876.51,631959.0
+CDNA,2026-06-15,Valantine Hannah,director,,S,12103.0,23.1123,279728.17,36686.0
+CDNA,2026-06-26,Hanna John Walter JR,"director, officer",President and CEO,S,100.0,29.0,2900.0,661959.0
+CDNA,2026-06-29,Hanna John Walter JR,"director, officer",President and CEO,S,39900.0,29.244,1166835.6,661959.0
+CDNA,2026-07-16,Hanna John Walter JR,"director, officer",President and CEO,S,50000.0,36.1141,1805705.0,721448.0
+CDNA,2026-07-16,Hanna John Walter JR,"director, officer",President and CEO,S,68000.0,39.0137,2652931.6,653448.0
+CDNA,2026-07-16,Valantine Hannah,director,,S,28679.0,36.1445,1036588.12,36786.0
+CDNA,2026-07-16,Valantine Hannah,director,,S,100.0,36.55,3655.0,36686.0
+CDNA,2026-08-04,COURNOYER CHRISTINE,director,,S,16000.0,46.9358,750972.8,42943.0
+CDNA,2026-08-04,Goldberg Michael,director,,S,44700.0,47.0581,2103497.07,61738.0
+CDNA,2026-08-05,Bickerstaff George,director,,S,20000.0,46.285,925700.0,134061.0
+CDNA,2026-08-05,Novack Jeffrey Adam,officer,Secretary and General Counsel,S,2188.0,46.1492,100974.45,106575.0
+CDNA,2026-08-05,Novack Jeffrey Adam,officer,Secretary and General Counsel,S,500.0,46.75,23375.0,106075.0
+CMRC,2026-05-26,Lentz Daniel,officer,CFO & COO,S,6840.0,2.9086,19894.82,480145.0
+CMRC,2026-07-01,Lentz Daniel,officer,CFO & COO,S,1544.0,2.96,4570.24,475262.0
+CMRC,2026-08-24,Lentz Daniel,officer,CFO & COO,S,797.0,2.22,1769.34,472741.0
+EWTX,2026-03-27,Donovan Joanne M.,officer,CMO,S,9623.0,30.9778,298099.37,16332.0
+EWTX,2026-03-27,Donovan Joanne M.,officer,CMO,S,6735.0,30.9778,208635.48,9597.0
+EWTX,2026-03-31,Donovan Joanne M.,officer,CMO,S,21338.0,32.1168,685308.28,9597.0
+EWTX,2026-04-01,Donovan Joanne M.,officer,CMO,S,28662.0,32.3109,926095.02,9597.0
+EWTX,2026-05-04,Donovan Joanne M.,officer,CMO,S,5230.0,31.2931,163662.91,4367.0
+EWTX,2026-05-05,Donovan Joanne M.,officer,CMO,S,50000.0,38.568,1928400.0,4367.0
+EWTX,2026-07-01,Russell Alan J,"director, officer",Chief Scientific Officer,S,130352.0,39.406,5136650.91,94203.0
+EWTX,2026-07-01,Russell Alan J,"director, officer",Chief Scientific Officer,S,69648.0,39.4089,2744751.07,24555.0
+EWTX,2026-08-12,Donovan Joanne M.,officer,CMO,S,2839.0,43.784,124302.78,15227.0
+EWTX,2026-08-12,Donovan Joanne M.,officer,CMO,S,2779.0,43.7073,121462.59,12448.0
+EWTX,2026-08-12,Donovan Joanne M.,officer,CMO,S,104.0,44.4253,4620.23,12344.0
+EWTX,2026-08-12,Donovan Joanne M.,officer,CMO,S,800.0,44.5175,35614.0,11544.0
+EWTX,2026-08-12,Russell Alan J,"director, officer",Chief Scientific Officer,S,3238.0,43.6775,141427.74,34129.0
+EWTX,2026-08-12,Russell Alan J,"director, officer",Chief Scientific Officer,S,2273.0,43.6759,99275.32,31856.0
+EWTX,2026-08-12,Russell Alan J,"director, officer",Chief Scientific Officer,S,390.0,44.46,17339.4,31466.0
+EWTX,2026-08-12,MOORE JOHN R,officer,General Counsel,S,2439.0,43.8081,106847.96,20274.0
+EWTX,2026-08-12,MOORE JOHN R,officer,General Counsel,S,59.0,44.4142,2620.44,20215.0
+EWTX,2026-08-12,MOORE JOHN R,officer,General Counsel,S,99.0,44.5019,4405.69,20116.0
+EWTX,2026-08-12,MOORE JOHN R,officer,General Counsel,S,2419.0,43.7985,105948.57,17697.0
+EWTX,2026-08-12,Derakhshan Behrad,officer,Chief Business Officer,S,2171.0,43.7934,95075.47,34755.0
+EWTX,2026-08-12,Derakhshan Behrad,officer,Chief Business Officer,S,304.0,44.5018,13528.55,34451.0
+EWTX,2026-08-12,Derakhshan Behrad,officer,Chief Business Officer,S,150.0,44.4433,6666.49,34301.0
+EWTX,2026-08-12,Derakhshan Behrad,officer,Chief Business Officer,S,2475.0,43.6984,108153.54,31826.0
+EWTX,2026-08-12,KOCH KEVIN,"director, officer",President and CEO,S,8782.0,43.6408,383253.51,61677.0
+EWTX,2026-08-12,KOCH KEVIN,"director, officer",President and CEO,S,8276.0,43.6582,361315.26,53401.0
+EWTX,2026-08-12,KOCH KEVIN,"director, officer",President and CEO,S,913.0,44.33,40473.29,52488.0
+EWTX,2026-08-13,Donovan Joanne M.,officer,CMO,S,2919.0,43.4065,126703.57,8625.0
+FICO,2026-07-29,Manolis Eva,director,,S,967.0,1400.0,1353800.0,498.0
+FLO,2026-04-01,McMullian Ryals,"director, officer",Chairman and CEO,S,209000.0,8.0349,1679294.1,813380.0
+FLO,2026-06-08,SCAGLIONE DIEGO ANTHONY,officer,Chief Financial Officer,P,5000.0,7.5084,37542.0,194180.0
+GLND,2026-05-04,BAQAR HASSAN,director,,P,45000.0,2.9,130500.0,0.0
+GLND,2026-05-04,SWETS LARRY G JR,director,,P,50000.0,2.98,149000.0,475000.0
+GLND,2026-05-06,SWETS LARRY G JR,director,,P,25000.0,2.79,69750.0,500000.0
+GLND,2026-05-08,Furlan Melanie Sue,director,,P,33330.0,3.02,100656.6,48104.0
+GLND,2026-05-21,SWETS LARRY G JR,director,,P,20000.0,2.6576,53152.0,545000.0
+GLND,2026-06-02,SWETS LARRY G JR,director,,P,15000.0,3.047,45705.0,560000.0
+GLND,2026-06-08,SWETS LARRY G JR,director,,P,10000.0,2.7699,27699.0,570000.0
+GLND,2026-06-25,SWETS LARRY G JR,director,,P,15000.0,2.5572,38358.0,585000.0
+GLXY,2026-05-21,DAFFEY MICHAEL D,director,,S,171076.0,28.655,4902182.78,1584343.0
+GLXY,2026-05-21,DAFFEY MICHAEL D,director,,S,78924.0,29.029,2291084.8,1505419.0
+GLXY,2026-05-22,DAFFEY MICHAEL D,director,,S,160765.0,28.6599,4607508.82,1594654.0
+GLXY,2026-05-22,DAFFEY MICHAEL D,director,,S,89235.0,29.2669,2611631.82,1505419.0
+GLXY,2026-06-09,Rico Robert Daniel,officer,Chief Accounting Officer,S,19000.0,31.623,600837.0,51934.0
+GLXY,2026-06-15,Rico Robert Daniel,officer,Chief Accounting Officer,S,19000.0,34.224,650256.0,44934.0
+GLXY,2026-08-06,Rico Robert Daniel,officer,Chief Accounting Officer,S,9095.0,19.66,178807.7,64428.0
+GLXY,2026-08-10,BANDROWCZAK STEVEN JOHN,director,,P,5100.0,19.63,100113.0,39186.0
+GLXY,2026-08-12,DEASON DOUGLAS R,director,,P,12000.0,21.536,258432.0,71000.0
+GPRK,2026-04-20,PARK JAMES FRANKLIN,"director, 10% owner",,S,100000.0,8.829,882900.0,912118.0
+GPRK,2026-08-10,PARK JAMES FRANKLIN,director,,S,120000.0,9.65,1158000.0,792118.0
+HCC,2026-06-02,Gant Kelli K.,officer,See remarks,S,20000.0,110.0,2200000.0,67775.0
+HCC,2026-08-19,Chopin Brian M,officer,CHIEF ACCOUNTING OFFICER,S,3232.0,104.02,336192.64,21110.0
+HCC,2026-08-19,SCHELLER WALTER J,"director, officer",CHIEF EXECUTIVE OFFICER,S,50000.0,105.0,5250000.0,317793.0
+HCC,2026-08-19,Williams Stephen D.,director,,S,4800.0,104.23,500304.0,30303.0
+HCC,2026-08-24,SCHELLER WALTER J,"director, officer",CHIEF EXECUTIVE OFFICER,S,50000.0,110.0,5500000.0,267793.0
+IOT,2026-05-20,Eltoukhy Adam,officer,SEE REMARKS,S,4393.0,30.1266,132346.15,469385.0
+IOT,2026-05-20,Eltoukhy Adam,officer,SEE REMARKS,S,1080.0,30.5315,32974.02,468305.0
+IOT,2026-05-26,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,10611.0,30.3975,322547.87,504445.0
+IOT,2026-05-26,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,59608.0,31.243,1862332.74,444837.0
+IOT,2026-05-26,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,3676.0,30.4154,111807.01,11524.0
+IOT,2026-05-26,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,6924.0,31.245,216340.38,4600.0
+IOT,2026-05-26,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,3606.0,30.4324,109739.23,63994.0
+IOT,2026-05-26,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,20235.0,31.2413,632167.71,43759.0
+IOT,2026-05-26,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,10636.0,30.4037,323373.75,351192.0
+IOT,2026-05-26,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,59500.0,31.2435,1858988.25,291692.0
+IOT,2026-05-26,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,3600.0,30.4051,109458.36,11600.0
+IOT,2026-05-26,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,7000.0,31.2421,218694.7,4600.0
+IOT,2026-05-26,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,3684.0,30.4241,112082.38,63916.0
+IOT,2026-05-26,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,20114.0,31.2416,628393.54,43802.0
+IOT,2026-05-27,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,76510.0,29.7203,2273900.15,368327.0
+IOT,2026-05-27,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,30190.0,30.6252,924574.79,338137.0
+IOT,2026-05-27,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,17481.0,30.1433,526935.03,26278.0
+IOT,2026-05-27,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,3978.0,30.8764,122826.32,22300.0
+IOT,2026-05-27,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,77007.0,29.718,2288494.03,214685.0
+IOT,2026-05-27,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,30512.0,30.6195,934262.18,184173.0
+IOT,2026-05-27,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,17475.0,30.1364,526633.59,26327.0
+IOT,2026-05-27,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,4027.0,30.871,124317.52,22300.0
+IOT,2026-05-28,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,4415.0,30.2921,133739.62,333722.0
+IOT,2026-05-28,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTVE OFFICER,S,26666.0,31.3635,836339.09,307056.0
+IOT,2026-05-28,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,4394.0,30.2773,133038.46,179779.0
+IOT,2026-05-28,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,25951.0,31.3528,813636.51,153828.0
+IOT,2026-06-05,Phillips Dominic,officer,SEE REMARKS,S,14747.0,35.0725,517214.16,934375.0
+IOT,2026-06-05,Phillips Dominic,officer,SEE REMARKS,S,4000.0,36.227,144908.0,930375.0
+IOT,2026-06-05,Phillips Dominic,officer,SEE REMARKS,S,700.0,36.8898,25822.86,929675.0
+IOT,2026-06-05,Phillips Dominic,officer,SEE REMARKS,S,100.0,38.2,3820.0,929575.0
+IOT,2026-06-08,Andreessen Marc L,director,,S,531914.0,34.046,18109544.04,3981060.0
+IOT,2026-06-08,Andreessen Marc L,director,,S,35711.0,34.7344,1240400.16,3945349.0
+IOT,2026-06-08,Andreessen Marc L,director,,S,202.0,35.5,7171.0,3945147.0
+IOT,2026-06-09,Andreessen Marc L,director,,S,210126.0,33.3683,7011547.41,3735021.0
+IOT,2026-06-09,Andreessen Marc L,director,,S,190605.0,34.1554,6510190.02,3544416.0
+IOT,2026-06-09,Andreessen Marc L,director,,S,174269.0,34.9945,6098456.52,3370147.0
+IOT,2026-06-10,Andreessen Marc L,director,,S,168806.0,32.8286,5541664.65,3201341.0
+IOT,2026-06-10,Andreessen Marc L,director,,S,331194.0,34.1094,11296828.62,2870147.0
+IOT,2026-06-11,Andreessen Marc L,director,,S,468751.0,32.1791,15083985.3,2401396.0
+IOT,2026-06-11,Andreessen Marc L,director,,S,144909.0,32.5575,4717874.77,2256487.0
+IOT,2026-06-15,Kirchhoff Benjamin Louis,officer,CHIEF ACCOUNTING OFFICER,S,2549.0,33.74,86003.26,167269.0
+IOT,2026-06-15,Chadwick Jonathan,director,,S,9500.0,33.4332,317615.4,44365.0
+IOT,2026-06-15,Chadwick Jonathan,director,,S,500.0,34.216,17108.0,43865.0
+IOT,2026-06-22,Eltoukhy Adam,officer,SEE REMARKS,S,1614.0,32.2117,51989.68,425080.0
+IOT,2026-06-29,Eltoukhy Adam,officer,SEE REMARKS,S,2039.0,32.08,65411.12,425080.0
+IOT,2026-07-01,Phillips Dominic,officer,SEE REMARKS,S,12065.0,33.3223,402033.55,836100.0
+IOT,2026-07-01,Phillips Dominic,officer,SEE REMARKS,S,17909.0,33.3238,596795.93,1078600.0
+IOT,2026-07-06,Eltoukhy Adam,officer,SEE REMARKS,S,3653.0,37.0,135161.0,425080.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,152358.0,36.5623,5570558.9,1615313.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,32728.0,37.3065,1220967.13,1582585.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,3819.0,38.2894,146227.22,1578766.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,6770.0,36.5768,247624.94,97830.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,2930.0,37.7626,110644.42,94900.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,900.0,38.3489,34514.01,94000.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,33841.0,36.7105,1242320.03,418459.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,10059.0,37.312,375321.41,408400.0
+IOT,2026-07-07,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,1400.0,38.2957,53613.98,407000.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,154842.0,36.565,5661797.73,1811953.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,30676.0,37.3033,1144316.03,1781277.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,4507.0,38.2836,172544.19,1776770.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,6600.0,36.5695,241358.7,98000.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,2900.0,37.7084,109354.36,95100.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,1100.0,38.3473,42182.03,94000.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,33489.0,36.7078,1229307.51,418811.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,10586.0,37.3203,395072.7,408225.0
+IOT,2026-07-07,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,1225.0,38.3198,46941.75,407000.0
+IOT,2026-07-08,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,17495.0,35.0423,613065.04,1561271.0
+IOT,2026-07-08,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,1600.0,35.6384,57021.44,1559671.0
+IOT,2026-07-08,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,15575.0,35.0279,545559.54,1761195.0
+IOT,2026-07-08,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,2400.0,35.6248,85499.52,1758795.0
+IOT,2026-07-15,Kirchhoff Benjamin Louis,officer,CHIEF ACCOUNTING OFFICER,S,2549.0,37.82,96403.18,163760.0
+IOT,2026-07-20,Kirchhoff Benjamin Louis,officer,CHIEF ACCOUNTING OFFICER,S,960.0,37.7,36192.0,162800.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,111489.0,36.4285,4061377.04,1448182.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,29597.0,37.6208,1113462.82,1418585.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,5631.0,38.2382,215319.3,1412954.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,9700.0,37.7369,366047.93,84300.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,900.0,38.3556,34520.04,83400.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,33237.0,36.4811,1212522.32,373763.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,10440.0,37.6495,393060.78,363323.0
+IOT,2026-07-21,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,1623.0,38.2496,62079.1,361700.0
+IOT,2026-07-21,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,111153.0,36.4272,4048992.56,1647642.0
+IOT,2026-07-21,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,30379.0,37.6264,1143052.41,1617263.0
+IOT,2026-07-21,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,5116.0,38.2542,195708.49,1612147.0
+IOT,2026-07-21,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,10600.0,37.7894,400567.64,83400.0
+IOT,2026-07-21,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,33353.0,36.4829,1216814.16,373647.0
+IOT,2026-07-21,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,10242.0,37.6472,385582.62,363405.0
+IOT,2026-07-21,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,1705.0,38.2426,65203.63,361700.0
+IOT,2026-07-22,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,53436.0,33.7372,1802781.02,1359518.0
+IOT,2026-07-22,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,7847.0,34.805,273114.84,1351671.0
+IOT,2026-07-22,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,53378.0,33.7352,1800717.51,1558769.0
+IOT,2026-07-22,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,7924.0,34.7866,275649.02,1550845.0
+IOT,2026-07-22,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,50.0,35.54,1777.0,1550795.0
+IOT,2026-07-27,Eltoukhy Adam,officer,SEE REMARKS,S,2214.0,34.4392,76248.39,426519.0
+IOT,2026-07-27,Eltoukhy Adam,officer,SEE REMARKS,S,1439.0,35.7302,51415.76,425080.0
+IOT,2026-07-28,Eltoukhy Adam,officer,SEE REMARKS,S,3653.0,37.0,135161.0,425080.0
+IOT,2026-08-03,Phillips Dominic,officer,SEE REMARKS,S,11110.0,37.5833,417550.46,836700.0
+IOT,2026-08-03,Phillips Dominic,officer,SEE REMARKS,S,600.0,38.396,23037.6,836100.0
+IOT,2026-08-03,Phillips Dominic,officer,SEE REMARKS,S,17003.0,37.5786,638948.94,1049887.0
+IOT,2026-08-03,Phillips Dominic,officer,SEE REMARKS,S,905.0,38.3672,34722.32,1048982.0
+IOT,2026-08-04,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,3641.0,37.612,136945.29,1348030.0
+IOT,2026-08-04,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,77590.0,38.4029,2979681.01,1270440.0
+IOT,2026-08-04,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,1640.0,37.6836,61801.1,81760.0
+IOT,2026-08-04,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,8960.0,38.1655,341962.88,72800.0
+IOT,2026-08-04,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,2100.0,37.7579,79291.59,359600.0
+IOT,2026-08-04,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,25546.0,38.417,981400.68,334054.0
+IOT,2026-08-04,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,3605.0,37.6087,135579.36,1547190.0
+IOT,2026-08-04,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,77678.0,38.4033,2983091.54,1469512.0
+IOT,2026-08-04,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,1400.0,37.6504,52710.56,82000.0
+IOT,2026-08-04,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,9200.0,38.1537,351014.04,72800.0
+IOT,2026-08-04,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,2319.0,37.7792,87609.96,359381.0
+IOT,2026-08-04,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,25352.0,38.4189,973995.95,334029.0
+IOT,2026-08-05,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,65775.0,38.6048,2539230.72,1204665.0
+IOT,2026-08-05,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,3904.0,39.3096,153464.68,1200761.0
+IOT,2026-08-05,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,16273.0,38.5657,627579.64,317781.0
+IOT,2026-08-05,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,1381.0,39.367,54365.83,316400.0
+IOT,2026-08-05,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,65819.0,38.6116,2541376.9,1403693.0
+IOT,2026-08-05,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,3631.0,39.3118,142741.15,1400062.0
+IOT,2026-08-05,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,16669.0,38.5818,643120.02,317360.0
+IOT,2026-08-05,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,960.0,39.3654,37790.78,316400.0
+IOT,2026-08-06,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,56690.0,37.8859,2147751.67,1144071.0
+IOT,2026-08-06,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,400.0,38.2713,15308.52,1143671.0
+IOT,2026-08-06,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,57267.0,37.8883,2169749.28,1342795.0
+IOT,2026-08-17,Kirchhoff Benjamin Louis,officer,CHIEF ACCOUNTING OFFICER,S,2625.0,39.31,103188.75,160175.0
+IOT,2026-08-18,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,85002.0,39.9108,3392497.82,1058669.0
+IOT,2026-08-18,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,10946.0,40.4421,442679.23,1047723.0
+IOT,2026-08-18,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,9700.0,40.0703,388681.91,63100.0
+IOT,2026-08-18,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,900.0,40.6047,36544.23,62200.0
+IOT,2026-08-18,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,25706.0,39.9288,1026409.73,290694.0
+IOT,2026-08-18,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,3201.0,40.4487,129476.29,287493.0
+IOT,2026-08-18,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,87448.0,39.9195,3490880.44,1255347.0
+IOT,2026-08-18,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,8967.0,40.4842,363021.82,1246380.0
+IOT,2026-08-18,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,7400.0,39.9676,295760.24,65400.0
+IOT,2026-08-18,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,3200.0,40.4473,129431.36,62200.0
+IOT,2026-08-18,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,26363.0,39.9382,1052890.77,290037.0
+IOT,2026-08-18,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,2600.0,40.4865,105264.9,287437.0
+IOT,2026-08-18,Kirchhoff Benjamin Louis,officer,CHIEF ACCOUNTING OFFICER,S,989.0,39.5,39065.5,159186.0
+IOT,2026-08-19,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,49625.0,39.6059,1965442.79,998098.0
+IOT,2026-08-19,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,27061.0,40.3804,1092734.0,971037.0
+IOT,2026-08-19,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,15752.0,40.1799,632913.78,271741.0
+IOT,2026-08-19,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,641.0,40.6608,26063.57,271100.0
+IOT,2026-08-19,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,48341.0,39.5868,1913665.5,1198039.0
+IOT,2026-08-19,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,28687.0,40.3688,1158059.77,1169352.0
+IOT,2026-08-19,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,15892.0,40.1811,638558.04,271545.0
+IOT,2026-08-19,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,445.0,40.6995,18111.28,271100.0
+IOT,2026-08-20,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,35266.0,39.4286,1390489.01,935771.0
+IOT,2026-08-20,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,100.0,40.08,4008.0,935671.0
+IOT,2026-08-20,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,34557.0,39.4352,1362762.21,1134795.0
+IOT,2026-08-25,Eltoukhy Adam,officer,SEE REMARKS,S,6876.0,39.82,273802.32,425080.0
+KSS,2026-03-31,Steinmetz Mari,officer,"Sr. EVP, Chief People Officer",S,107.0,12.65,1353.55,246120.0
+KSS,2026-04-01,Steinmetz Mari,officer,"Sr. EVP, Chief People Officer",S,1847.0,13.01,24029.47,244273.0
+KSS,2026-04-06,Steinmetz Mari,officer,"Sr. EVP, Chief People Officer",S,112.0,12.98,1453.76,244338.0
+KSS,2026-04-15,Steinmetz Mari,officer,"Sr. EVP, Chief People Officer",S,351.0,13.51,4742.01,243254.0
+KSS,2026-07-16,Steinmetz Mari,officer,"Sr. EVP, Chief People Officer",S,53.0,17.17,910.01,243119.0
+KSS,2026-08-03,Raymond Christie,officer,"Sr. EVP, Chief Marketing Off.",S,15000.0,20.0,300000.0,261720.0
+KSS,2026-08-03,Kent Jennifer J.,officer,"Sr. EVP, CLO & Corp. Sec.",S,22942.0,20.0,458840.0,234452.0
+LIF,2026-04-01,COGHLAN JOHN PHILIP,director,,S,4000.0,41.32,165280.0,36431.0
+LIF,2026-04-13,Prober Charles J.,director,,S,7930.0,37.27,295551.1,105456.0
+LIF,2026-04-16,Hulls Chris,director,,S,16105.0,45.51,732938.55,399809.0
+LIF,2026-04-16,Antonoff Lauren,"director, officer",Chief Executive Officer,S,2716.0,45.231,122847.4,309781.0
+LIF,2026-05-01,COGHLAN JOHN PHILIP,director,,S,3736.0,44.12,164832.32,32695.0
+LIF,2026-05-01,COGHLAN JOHN PHILIP,director,,S,264.0,44.67,11792.88,32431.0
+LIF,2026-05-13,Prober Charles J.,director,,S,7930.0,40.44,320689.2,105456.0
+LIF,2026-05-28,Hulls Chris,director,,S,16379.0,40.34,660728.86,403485.0
+LIF,2026-06-01,COGHLAN JOHN PHILIP,director,,S,3796.0,43.95,166834.2,28635.0
+LIF,2026-06-01,COGHLAN JOHN PHILIP,director,,S,204.0,44.64,9106.56,28431.0
+LIF,2026-06-15,Prober Charles J.,director,,S,7930.0,46.07,365335.1,109911.0
+LIF,2026-06-18,Hulls Chris,director,,S,16042.0,47.07,755096.94,406899.0
+LIF,2026-06-29,Morin Brit,director,,S,4655.0,55.0,256025.0,25975.0
+LIF,2026-07-01,COGHLAN JOHN PHILIP,director,,S,3798.0,56.04,212839.92,24633.0
+LIF,2026-07-01,COGHLAN JOHN PHILIP,director,,S,202.0,56.57,11427.14,24431.0
+LIF,2026-07-13,Prober Charles J.,director,,S,7930.0,53.05,420686.5,109911.0
+LIF,2026-07-16,Hulls Chris,director,,S,14345.0,55.74,799590.3,419554.0
+LIF,2026-08-03,COGHLAN JOHN PHILIP,director,,S,1400.0,54.66,76524.0,23031.0
+LIF,2026-08-03,COGHLAN JOHN PHILIP,director,,S,2600.0,54.9,142740.0,20431.0
+LIF,2026-08-04,Morin Brit,director,,S,10701.0,60.0,642060.0,20157.0
+LIF,2026-08-04,Hulls Chris,director,,S,17020.0,63.08,1073621.6,429534.0
+LIF,2026-08-04,Hulls Chris,director,,S,9980.0,63.77,636424.6,419554.0
+LIF,2026-08-10,Morin Brit,director,,S,15582.0,65.0,1012830.0,14340.0
+LIF,2026-08-13,Prober Charles J.,director,,S,7930.0,48.59,385318.7,109930.0
+LIF,2026-08-18,Hulls Chris,director,,S,231434.0,46.78,10826482.52,400622.0
+LIF,2026-08-18,Hulls Chris,director,,S,18566.0,47.58,883370.28,382056.0
+LIF,2026-08-25,Synge James,director,,S,5833.0,45.05,262776.65,219160.0
+LIF,2026-08-26,Synge James,director,,S,27466.0,44.31,1217018.46,191694.0
+LIF,2026-09-01,COGHLAN JOHN PHILIP,director,,S,4000.0,41.97,167880.0,16431.0
+MEC,2026-05-07,Reddy Jagadeesh A,"director, officer",President & CEO,S,10332.0,25.72,265739.04,169851.0
+MEC,2026-05-07,Reddy Jagadeesh A,"director, officer",President & CEO,S,11464.0,26.11,299325.04,158387.0
+MEC,2026-05-21,Nichols Craig D,officer,"SVP, Operations & Supply Chain",S,4000.0,23.24,92960.0,146.0
+MEC,2026-05-26,Raber Ryan F,officer,"EVP - Strategy, Sales & Mktg",S,20000.0,26.0,520000.0,86970.0
+MEC,2026-06-01,Reddy Jagadeesh A,"director, officer",President & CEO,S,17942.0,30.0001,538261.79,140445.0
+MEC,2026-06-08,Reddy Jagadeesh A,"director, officer",President & CEO,S,1300.0,35.0077,45510.01,139793.0
+MEC,2026-06-11,Reddy Jagadeesh A,"director, officer",President & CEO,S,15688.0,35.0474,549823.61,124105.0
+MEC,2026-08-06,Leuba Sean P,officer,"SVP, GC & Secretary",S,12855.0,25.44,327031.2,6633.0
+MIAX,2026-07-02,Teekell Judson Gray,director,,S,3000.0,40.0,120000.0,75251.0
+MIAX,2026-07-02,Eckert Kurt M.,director,,S,5250.0,39.35,206587.5,149612.0
+MIAX,2026-07-02,Comly Barbara J.,officer,"EVP, GC & Corporate Secretary",S,28000.0,41.22,1154160.0,882984.0
+MIAX,2026-07-02,Schafer Douglas M. JR,officer,EVP and CIO,S,48000.0,41.22,1978560.0,387414.0
+MIAX,2026-07-06,Gallagher Thomas P.,"director, officer",Chairman & CEO,S,41772.0,42.09,1758183.48,1723275.0
+MIAX,2026-07-06,Jayabalan Harish,officer,"EVP, CISO and CRO",S,20000.0,42.12,842400.0,78065.0
+MIAX,2026-07-06,Deitzel Edward,officer,"EVP, CRO, CCO MIAX Exchanges",S,11000.0,42.04,462440.0,119601.0
+MIAX,2026-07-06,Brown Shelly,officer,"EVP, Chief Strategy Officer",S,16000.0,42.13,674080.0,353990.0
+MIAX,2026-07-07,Gallagher Thomas P.,"director, officer",Chairman & CEO,S,28228.0,42.27,1193197.56,1723275.0
+MIAX,2026-07-13,Comly Barbara J.,officer,"EVP, GC & Corporate Secretary",S,28000.0,41.98,1175440.0,882984.0
+MIAX,2026-07-13,Gallagher Thomas P.,"director, officer",Chairman & CEO,S,70000.0,42.52,2976400.0,1723275.0
+MIAX,2026-07-15,Schwarzkopf Cynthia,director,,S,5000.0,42.0,210000.0,88545.0
+MIAX,2026-08-04,Eckert Kurt M.,director,,S,1063.0,45.8,48685.4,149612.0
+MIAX,2026-08-04,Teekell Judson Gray,director,,S,3000.0,45.79,137370.0,72251.0
+MIAX,2026-08-04,Jayabalan Harish,officer,"EVP, CISO and CRO",S,20000.0,45.9,918000.0,78065.0
+MIAX,2026-08-04,Comly Barbara J.,officer,"EVP, GC & Corporate Secretary",S,44445.0,45.69,2030692.05,882984.0
+MIAX,2026-08-04,Deitzel Edward,officer,"EVP, CRO, CCO MIAX Exchanges",S,11000.0,45.78,503580.0,119601.0
+MIAX,2026-08-04,Schafer Douglas M. JR,officer,EVP and CIO,S,48000.0,45.71,2194080.0,387414.0
+MIAX,2026-08-04,Gallagher Thomas P.,"director, officer",Chairman & CEO,S,48334.0,45.69,2208380.46,1723275.0
+MIAX,2026-08-17,Schwarzkopf Cynthia,director,,S,5000.0,42.85,214250.0,88545.0
+MIAX,2026-08-17,Emmons Lance,officer,EVP and CFO,S,35000.0,42.83,1499050.0,86538.0
+MIAX,2026-08-19,Gallagher Thomas P.,"director, officer",Chairman & CEO,S,149700.0,41.13,6157161.0,1423275.0
+MIAX,2026-09-02,Comly Barbara J.,officer,"EVP, GC & Corporate Secretary",S,44445.0,40.49,1799578.05,839564.0
+MIAX,2026-09-02,Schafer Douglas M. JR,officer,EVP and CIO,S,48000.0,40.48,1943040.0,387414.0
+MIAX,2026-09-02,Teekell Judson Gray,director,,S,5545.0,41.58,230561.1,81000.0
+MIAX,2026-09-02,Teekell Judson Gray,director,,S,3000.0,40.89,122670.0,69251.0
+MIAX,2026-09-03,Gallagher Thomas P.,"director, officer",Chairman & CEO,S,47000.0,42.43,1994210.0,1423275.0
+MIAX,2026-09-03,Deitzel Edward,officer,"EVP, CRO, CCO MIAX Exchanges",S,11000.0,42.21,464310.0,119601.0
+NOW,2026-05-14,Sands Anita M,director,,S,16445.0,90.143,1482401.64,30090.0
+NOW,2026-05-14,Chamberlain Paul Edward,director,,S,1500.0,87.23,130845.0,44930.0
+NOW,2026-05-18,Fipps Paul,officer,"President, Global Customer Ops",S,1048.0,98.51,103238.48,12071.88
+NOW,2026-05-28,Briggs Teresa,director,,S,1595.0,108.7,173376.5,11010.0
+NOW,2026-08-13,Chamberlain Paul Edward,director,,S,1500.0,125.6,188400.0,46690.0
+NOW,2026-08-27,Chamberlain Paul Edward,director,,S,2700.0,135.5004,365851.08,43990.0
+NOW,2026-08-28,Canney Jacqueline P,officer,Chief People & AI Enblmt. Off.,S,7847.0,138.0,1082886.0,30042.0
+NOW,2026-08-31,Fipps Paul,officer,"President, Global Customer Ops",S,2034.0,147.8747,300777.14,18305.1822
+PAHC,2026-03-13,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,5280.0,48.91,258244.8,96200.0
+PAHC,2026-03-17,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,5280.0,51.659,272759.52,90920.0
+PAHC,2026-03-18,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,4311.0,51.798,223301.18,86609.0
+PAHC,2026-03-18,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,3598.0,53.0348,190819.21,83011.0
+PAHC,2026-03-18,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,2651.0,53.6436,142209.18,80360.0
+PAHC,2026-03-19,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1939.0,51.7841,100409.37,78421.0
+PAHC,2026-03-19,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,4977.0,52.7864,262717.91,73444.0
+PAHC,2026-03-19,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,124.0,53.24,6601.76,73320.0
+PAHC,2026-03-24,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,6523.0,52.8772,344917.98,66797.0
+PAHC,2026-03-24,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,517.0,53.5886,27705.31,66280.0
+PAHC,2026-03-25,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1572.0,55.2822,86903.62,64708.0
+PAHC,2026-03-25,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,4916.0,56.0041,275316.16,59792.0
+PAHC,2026-03-25,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,552.0,56.8584,31385.84,59240.0
+PAHC,2026-03-26,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,6760.0,56.7852,383867.95,52480.0
+PAHC,2026-03-26,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,280.0,57.1702,16007.66,52200.0
+PAHC,2026-03-30,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,6423.0,53.5415,343897.05,45777.0
+PAHC,2026-03-30,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,617.0,54.309,33508.65,45160.0
+PAHC,2026-03-31,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,6609.0,53.8662,356001.72,38551.0
+PAHC,2026-03-31,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,431.0,54.3533,23426.27,38120.0
+PAHC,2026-04-14,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,6548.0,59.0338,386553.32,31572.0
+PAHC,2026-04-14,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,492.0,59.6924,29368.66,31080.0
+PAHC,2026-04-15,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,2623.0,56.2691,147593.85,28457.0
+PAHC,2026-04-15,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,3618.0,57.2099,206985.42,24839.0
+PAHC,2026-04-15,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,799.0,58.1126,46431.97,24040.0
+PAHC,2026-04-16,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,5190.0,54.5552,283141.49,118850.0
+PAHC,2026-04-16,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1850.0,54.8759,101520.42,117000.0
+PAHC,2026-04-21,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1625.0,55.3501,89943.91,115375.0
+PAHC,2026-04-21,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,5415.0,56.1656,304136.72,109960.0
+PAHC,2026-04-22,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,7040.0,54.2876,382184.7,102920.0
+PAHC,2026-04-23,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,6619.0,54.0651,357856.9,96301.0
+PAHC,2026-04-23,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,421.0,54.5582,22969.0,95880.0
+PAHC,2026-04-28,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1652.0,55.096,91018.59,94228.0
+PAHC,2026-04-28,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,4591.0,56.0607,257374.67,89637.0
+PAHC,2026-04-28,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,797.0,56.6896,45181.61,88840.0
+PAHC,2026-04-29,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,4002.0,52.7005,210907.4,84838.0
+PAHC,2026-04-29,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,3038.0,53.2078,161645.3,81800.0
+PAHC,2026-04-30,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,5805.0,52.6473,305617.58,75995.0
+PAHC,2026-04-30,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1235.0,53.3179,65847.61,74760.0
+PAHC,2026-05-05,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,6264.0,55.7265,349070.8,68496.0
+PAHC,2026-05-05,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,776.0,56.365,43739.24,67720.0
+PAHC,2026-05-06,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,5634.0,57.1752,322125.08,62086.0
+PAHC,2026-05-06,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1406.0,58.1257,81724.73,60680.0
+PAHC,2026-05-07,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1350.0,47.5908,64247.58,59330.0
+PAHC,2026-05-07,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,1149.0,48.3074,55505.2,58181.0
+PAHC,2026-05-07,BENDHEIM JACK,"director, officer, 10% owner",President and CEO,S,2029.0,49.1942,99815.03,56152.0
+PAHC,2026-05-29,CORCORAN E THOMAS,director,,P,10000.0,31.77,317700.0,41459.0
+QNST,2026-06-15,Wong Gregory,officer,CFO,S,22057.0,12.19,268874.83,400682.0
+QNST,2026-07-01,Wong Gregory,officer,CFO,S,10338.0,15.0,155070.0,390344.0
+QNST,2026-08-07,Wong Gregory,officer,CFO,S,26296.0,20.09,528286.64,521883.0
+QNST,2026-08-07,Valenti Douglas,"director, officer",Chief Executive Officer,S,751631.0,20.5,15408435.5,996278.0
+QNST,2026-08-11,Ahmed Asmau,director,,S,5000.0,20.79,103950.0,59979.0
+QNST,2026-08-12,Ahmed Asmau,director,,S,10000.0,20.43,204300.0,49979.0
+QNST,2026-08-14,Ahmed Asmau,director,,S,15000.0,20.85,312750.0,34979.0
+QNST,2026-08-17,Ahmed Asmau,director,,S,10000.0,20.3,203000.0,24979.0
+QNST,2026-08-18,Wong Gregory,officer,CFO,S,11704.0,20.44,239229.76,481786.0
+QTWO,2026-03-09,Price Jonathan,officer,Chief Financial Officer,S,8680.0,51.35,445718.0,188455.0
+QTWO,2026-03-09,Coleman Kirk L,officer,Chief Business Officer,S,10849.0,51.35,557096.15,251808.0
+QTWO,2026-03-09,Flake Matthew P,"director, officer",Chief Executive Officer,S,20613.0,51.35,1058477.55,483202.0
+QTWO,2026-03-09,Mukkamala Himagiri K,officer,Chief Operating Officer,S,1343.0,51.35,68963.05,92910.0
+QTWO,2026-03-11,Kerr Michael S,officer,General Counsel,S,2071.0,50.33,104233.43,45156.0
+QTWO,2026-03-11,Breeden John E,officer,Chief Delivery Officer,S,8924.0,50.34,449234.16,75312.0
+QTWO,2026-03-11,Rutledge Kimberly Anne,officer,Chief People Officer,S,3187.0,50.37,160529.19,80551.0
+QTWO,2026-05-14,Kerr Michael S,officer,General Counsel,S,397.0,44.98,17857.06,81375.0
+QTWO,2026-06-01,Coleman Kirk L,officer,Chief Business Officer,S,20894.0,49.5,1034253.0,298366.0
+QTWO,2026-06-10,Coleman Kirk L,officer,Chief Business Officer,S,3603.0,43.48,156658.44,329658.0
+QTWO,2026-08-10,Rutledge Kimberly Anne,officer,Chief People Officer,S,10000.0,63.07,630700.0,113913.0
+QTWO,2026-08-13,Price Jonathan,officer,Chief Financial Officer,S,77180.0,65.71,5071497.8,207633.0
+SAIC,2026-04-09,Attili Srinivas,officer,"EVP, Civilian",P,100.0,94.96,9496.0,17656.0
+SSMR,2026-06-05,Ospraie Real Assets Fund LP,10% owner,,S,555555.0,13.5,7499992.5,24758995.0
+SSMR,2026-06-05,SHEPSTON MICHELLE H,officer,General Counsel,P,5000.0,13.5,67500.0,5000.0
+SSMR,2026-06-05,SHEPSTON MICHELLE H,officer,General Counsel,P,65.0,13.5,877.5,65.0
+SSMR,2026-06-05,White Heather Eileen,"director, officer",Chief Executive Officer,P,2000.0,13.5,27000.0,2000.0
+SSMR,2026-06-05,Radford Lawrence P,director,,P,2500.0,13.5,33750.0,11429.0
+SSMR,2026-06-05,Groh Douglas,director,,P,10000.0,13.5,135000.0,143929.0
+SSMR,2026-06-05,El-Erian Anna,director,,P,40000.0,13.5,540000.0,48929.0
+SWIM,2026-05-19,Cline James E,director,,P,50000.0,4.84,242000.0,100000.0
+SWIM,2026-05-20,Gloe Oliver C.,officer,CHIEF FINANCIAL OFFICER,P,15050.0,4.9,73745.0,540758.0
+TECX,2026-04-01,Ruddy Marcella K.,officer,Chief Medical Officer,S,1000.0,31.05,31050.0,68747.0
+TECX,2026-05-04,Ruddy Marcella K.,officer,Chief Medical Officer,S,1065.0,30.0,31950.0,67682.0
+TECX,2026-06-30,McNamara Peter,officer,Chief Scientific Officer,S,172.0,35.0,6020.0,55285.0
+TECX,2026-08-12,McNamara Peter,officer,Chief Scientific Officer,S,43.0,35.0,1505.0,55285.0
+TECX,2026-08-25,McNamara Peter,officer,Chief Scientific Officer,S,43.0,36.52,1570.36,55285.0
