@@ -39,7 +39,11 @@ jobs:
           SMOKE_TEST: ${{ inputs.smoke_test && '1' || '' }}
         run: python scripts/build_universe.py
 
+      # Insider collection must never take down the price feed. If SEC
+      # blocks or rate-limits us, the run still publishes bars and
+      # universe.csv; the screen then scores insiders as simply absent.
       - name: Collect insider filings (SEC EDGAR)
+        continue-on-error: true
         env:
           SMOKE_TEST: ${{ inputs.smoke_test && '1' || '' }}
         run: python scripts/build_insiders.py
