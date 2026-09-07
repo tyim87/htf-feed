@@ -55,6 +55,7 @@ KEEP_CODES = {"P", "S"}
 
 _lock = threading.Lock()
 _last = [0.0]
+_errors = []
 
 
 def _throttled_get(url: str, timeout: int = 30):
@@ -64,19 +65,18 @@ def _throttled_get(url: str, timeout: int = 30):
         if wait > 0:
             time.sleep(wait)
         _last[0] = time.time()
-    req = urllib.request.Request(url, headers={
-        "User-Agent": UA,
-        "Accept-Encoding": "gzip, deflate",
-        "Host": url.split("/")[2],
-    })
+    # No Accept-Encoding: urllib does NOT transparently decompress, so
+    # asking for gzip/deflate and mishandling the reply is exactly how the
+    # first version silently returned an empty CIK map and produced a run
+    # with zero insider rows that still reported success.
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            raw = r.read()
-            if r.headers.get("Content-Encoding") == "gzip":
-                import gzip
-                raw = gzip.decompress(raw)
-            return raw
-    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, OSError):
+            return r.read()
+    except Exception as exc:                            # noqa: BLE001
+        with _lock:
+            if len(_errors) < 6:
+                _errors.append("%s -> %r" % (url.split("?")[0][:72], exc))
         return None
 
 
@@ -209,7 +209,10 @@ def collect(tickers):
     cikmap = ticker_to_cik()
     print("  ticker->CIK map: %d symbols" % len(cikmap), flush=True)
     if not cikmap:
-        return []
+        print("  FAILED to load the SEC ticker->CIK map. Errors:", file=sys.stderr)
+        for e in _errors:
+            print("    " + e, file=sys.stderr)
+        return None
 
     pairs = [(t, cikmap[t]) for t in tickers if t in cikmap]
     print("  %d of %d universe names matched a CIK" % (len(pairs), len(tickers)), flush=True)
@@ -265,6 +268,10 @@ def main() -> int:
     print("collecting Form 4s for %d tickers ..." % len(tickers), flush=True)
 
     rows = collect(tickers)
+    if rows is None:
+        # Fail loudly. A silent empty insiders.csv would quietly drop the
+        # screen's second-heaviest signal while everything looked green.
+        return 1
     rows.sort(key=lambda r: (r["ticker"], r.get("date") or ""))
 
     cols = ["ticker", "date", "owner", "role", "title", "code",
