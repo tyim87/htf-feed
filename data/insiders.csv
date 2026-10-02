@@ -1,4 +1,11 @@
 ticker,date,owner,role,title,code,shares,price,value,shares_after
+AAMI,2026-05-04,Hart Richard Jonathan,officer,CLO and CAO,S,88792.0,66.8747,5937938.36,85071.0
+AAMI,2026-05-04,Hart Richard Jonathan,officer,CLO and CAO,S,11208.0,67.7269,759083.1,73863.0
+AAMI,2026-06-17,PAULSON & CO. INC.,10% owner,,S,1900000.0,77.25,146775000.0,5843282.0
+AAMI,2026-08-03,Wiater Christina,officer,PAO,S,7978.0,86.6082,690960.22,17636.0
+AAMI,2026-08-03,Wiater Christina,officer,PAO,S,17389.0,87.4922,1521401.87,247.0
+AAMI,2026-08-03,Wiater Christina,officer,PAO,S,3.0,88.11,264.33,244.0
+AAMI,2026-08-04,Wiater Christina,officer,PAO,S,244.0,92.355,22534.62,0.0
 AAOI,2026-05-11,Murry Stefan J.,officer,Chief Financial Officer,S,4000.0,159.5254,638101.6,266126.0
 AAOI,2026-05-19,Yeh Shu-Hua (Joshua),officer,*** See Remarks,S,39154.0,173.26,6783822.04,462430.0
 AAOI,2026-05-19,Murry Stefan J.,officer,Chief Financial Officer,S,33000.0,173.26,5717580.0,451906.0
@@ -35,19 +42,6 @@ ABSI,2026-06-30,Szela Mary T,director,,P,12900.0,11.54,148866.0,21300.0
 ABTC,2026-06-15,Busch Richard,director,,P,450000.0,0.87,391500.0,1848975.0
 ABTC,2026-08-05,Mateen Justin,director,,P,144543.0,6.3964,924554.85,329859.0
 ABTC,2026-08-06,Mateen Justin,director,,P,162438.0,6.1873,1005052.64,492297.0
-ACHR,2026-05-15,Muniz Thomas Paul,officer,CHIEF TECHNOLOGY OFFICER,S,44740.0,6.0611,271173.61,1554153.0
-ACHR,2026-05-15,Lentell Eric,officer,Chief Legal & Strategy Officer,S,39967.0,6.0611,242243.98,189253.0
-ACHR,2026-05-18,Rungta Harsh,officer,Chief Accounting Officer,S,12414.0,5.9527,73896.82,87210.0
-ACHR,2026-05-18,Muniz Thomas Paul,officer,CHIEF TECHNOLOGY OFFICER,S,91839.0,5.9527,546690.02,1462314.0
-ACHR,2026-05-18,Lentell Eric,officer,Chief Legal & Strategy Officer,S,48169.0,5.9527,286735.61,141084.0
-ACHR,2026-05-18,Gupta Priya,officer,Interim CFO,S,9860.0,5.9527,58693.62,189050.0
-ACHR,2026-06-11,Lentell Eric,officer,Chief Legal & Strategy Officer,S,3754.0,4.9984,18763.99,137330.0
-ACHR,2026-08-17,Lyon Benjamin,officer,"President, Aircraft OEM",S,50188.0,6.4128,321845.61,45359.0
-ACHR,2026-08-17,Rungta Harsh,officer,Chief Accounting Officer,S,13880.0,6.4128,89009.66,110847.0
-ACHR,2026-08-17,Gupta Priya,officer,Interim CFO,S,10015.0,6.4128,64224.19,202784.0
-ACHR,2026-08-17,Lentell Eric,officer,Chief Legal & Strategy Officer,S,52762.0,6.4128,338352.15,185011.0
-ACHR,2026-08-20,Lentell Eric,officer,Chief Strategy Officer,S,100000.0,6.31,631000.0,85011.0
-ACHR,2026-09-21,Lyon Benjamin,officer,"President, Aircraft OEM",S,45359.0,5.43,246299.37,0.0
 ACHV,2026-08-19,Stewart Richard Alistair,director,,S,20626.0,8.493,175176.62,208249.0
 ACLS,2026-05-06,Low Russell,"director, officer",PRESIDENT AND CEO,S,7468.0,156.75,1170609.0,123570.0
 ACLS,2026-05-12,Mahoney Robert John,officer,EVP Global Operations,S,2258.0,161.0,363538.0,12759.0
@@ -834,6 +828,19 @@ ALGM,2026-05-22,Coleman Troy,officer,"SVP, General Manager, Products",S,4500.0,4
 ALGM,2026-06-03,Madormo Richard,officer,"SVP, Worldwide Sales",S,5000.0,52.72,263600.0,69687.0
 ALGM,2026-08-10,Hagen Erin,officer,"SVP, CHRO",S,2285.0,44.39,101431.15,31052.0
 ALGM,2026-08-17,Raubacher Jennie,director,,S,1000.0,45.32,45320.0,13976.0
+ALLT,2026-05-01,Charash Inbar,officer,General Counsel,S,556.0,7.4,4114.4,28564.0
+ALLT,2026-05-18,Shteiman Mark,officer,Chief Product Officer,S,3000.0,7.13,21390.0,230000.0
+ALLT,2026-05-19,Shteiman Mark,officer,Chief Product Officer,S,5000.0,7.32,36600.0,225000.0
+ALLT,2026-05-20,Grossman Boaz,officer,Senior Vice President R&D,S,5000.0,7.37,36850.0,192000.0
+ALLT,2026-05-21,Shteiman Mark,officer,Chief Product Officer,S,5000.0,7.39,36950.0,220000.0
+ALLT,2026-05-22,Shteiman Mark,officer,Chief Product Officer,S,6000.0,7.58,45480.0,214000.0
+ALLT,2026-06-01,Lelah Noam,officer,SVP Customer Success & Ops,S,21000.0,8.48,178080.0,176250.0
+ALLT,2026-06-15,Shteiman Mark,officer,Chief Product Officer,S,2000.0,7.5,15000.0,212000.0
+ALLT,2026-08-03,Charash Inbar,officer,General Counsel,S,556.0,7.7972,4335.24,28008.0
+ALLT,2026-08-06,Harari Eyal David,officer,Chief Executive Officer,S,29111.0,7.639,222378.93,1099118.0
+ALLT,2026-08-18,Groner Gili,officer,Chief Human Resources Officer,S,26666.0,7.8582,209546.76,59467.0
+ALLT,2026-08-21,Grossman Boaz,officer,Senior Vice President R&D,S,6000.0,7.45,44700.0,186000.0
+ALLT,2026-08-28,Grossman Boaz,officer,Senior Vice President R&D,S,4000.0,7.8,31200.0,182000.0
 ALNT,2026-08-10,WARZALA RICHARD S,"director, officer",Chief Executive Officer,S,17028.0,112.8144,1921003.6,1552078.0
 ALNT,2026-08-10,WARZALA RICHARD S,"director, officer",Chief Executive Officer,S,18176.0,113.5167,2063279.54,1533902.0
 ALNT,2026-08-10,WARZALA RICHARD S,"director, officer",Chief Executive Officer,S,33944.0,113.9591,3868227.69,1499958.0
@@ -1095,6 +1102,26 @@ AMPL,2026-06-01,Liu Curtis,"director, officer, 10% owner",Chief Technology Offic
 AMPL,2026-06-12,Wong Catherine,director,,S,7453.0,6.7865,50579.78,111462.0
 AMPL,2026-09-04,Crook Nathaniel Glenn,officer,Chief Commercial Officer,S,300000.0,12.9925,3897750.0,1622696.0
 AMPL,2026-09-10,Skates Spenser,"director, officer, 10% owner",CEO and President,S,185000.0,12.3006,2275611.0,0.0
+AMRC,2026-05-15,STAVROPOULOS NICKOLAS,director,,S,1355.0,34.0,46070.0,14111.0
+AMRC,2026-05-18,Miller Jennifer L,director,,S,7642.0,32.13,245537.46,24469.0
+AMRC,2026-05-18,Miller Jennifer L,director,,S,2358.0,32.73,77177.34,22111.0
+AMRC,2026-05-19,WISNESKI FRANCIS V JR,director,,S,10000.0,30.29,302900.0,25232.0
+AMRC,2026-05-29,WISNESKI FRANCIS V JR,director,,S,5000.0,36.12,180600.0,25232.0
+AMRC,2026-08-07,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,5000.0,25.95,129750.0,993597.0
+AMRC,2026-08-10,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,1000.0,25.27,25270.0,994597.0
+AMRC,2026-08-10,Cox Brian C,director,,P,39700.0,25.07,995279.0,39700.0
+AMRC,2026-08-11,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,1000.0,25.9,25900.0,995597.0
+AMRC,2026-08-21,Cox Brian C,director,,P,4625.0,21.64,100085.0,44325.0
+AMRC,2026-08-24,Miller Jennifer L,director,,P,2000.0,20.96,41920.0,34546.0
+AMRC,2026-08-24,Sutton Joseph W.,director,,P,9700.0,20.87,202439.0,80246.0
+AMRC,2026-08-24,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,5000.0,20.91,104550.0,1000597.0
+AMRC,2026-08-25,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,938.0,21.6,20260.8,1001535.0
+AMRC,2026-08-25,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,4062.0,22.03,89485.86,1005597.0
+AMRC,2026-08-26,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,1000.0,21.92,21920.0,1006597.0
+AMRC,2026-08-27,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,4000.0,22.84,91360.0,1010597.0
+AMRC,2026-08-28,Sakellaris George P,"director, officer, 10% owner",Chief Executive Officer,P,3000.0,22.13,66390.0,1013597.0
+AMRC,2026-09-15,Chiplock Mark,officer,"EVP, CFO & CAO",S,476.0,22.46,10690.96,2815.0
+AMRC,2026-09-15,Maltezos Louis P,officer,Co-President,S,592.0,22.46,13296.32,33628.0
 AMRX,2026-05-11,Autor Deborah M.,director,,S,34819.0,12.94,450557.86,93660.0
 AMRX,2026-08-11,Daly Jason B.,officer,"EVP, Chief Legal Officer",S,6613.0,17.7,117050.1,245171.0
 AMRX,2026-08-12,Shah Nikita,officer,Executive Vice President,S,146403.0,17.51,2563516.53,253390.0
@@ -1130,6 +1157,9 @@ ANL,2026-09-22,Ji Ping,director,,S,5000.0,16.63,83150.0,131667.0
 ANL,2026-09-29,Ji Ping,director,,S,214.0,15.77,3374.78,131453.0
 ANL,2026-09-30,Ji Ping,director,,S,5000.0,16.03,80150.0,126453.0
 ANL,2026-09-30,Ji Ping,director,,S,5000.0,15.95,79750.0,121453.0
+ANRO,2026-09-29,Smith Nicholas Conrad,officer,PRESIDENT AND CFO,S,110830.0,26.5826,2946149.56,24060.0
+ANRO,2026-09-30,Smith Nicholas Conrad,officer,PRESIDENT AND CFO,S,23170.0,25.7786,597290.16,24946.0
+ANRO,2026-09-30,Smith Nicholas Conrad,officer,PRESIDENT AND CFO,S,886.0,26.87,23806.82,24060.0
 AOSL,2026-04-14,Liang Yifan,officer,CFO and Corp Secretary,S,7391.0,29.0,214339.0,297754.0
 AOSL,2026-04-14,Liang Yifan,officer,CFO and Corp Secretary,S,7939.0,30.0,238170.0,289815.0
 AOSL,2026-04-14,Liang Yifan,officer,CFO and Corp Secretary,S,11187.0,32.0002,357986.24,278628.0
@@ -1534,6 +1564,14 @@ APPN,2026-08-07,Calkins Matthew W,"director, officer, 10% owner",CEO and Preside
 APPN,2026-09-08,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,23888.0,34.73,829630.24,1650256.0
 APPN,2026-09-08,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,19116.0,35.58,680147.28,1631140.0
 APPN,2026-09-08,Calkins Matthew W,"director, officer, 10% owner",CEO and President,S,1996.0,37.07,73991.72,1629144.0
+AQST,2026-05-15,Barber Daniel,officer,President and CEO,S,8257.0,4.2889,35413.45,660574.0
+AQST,2026-06-15,Barber Daniel,officer,President and CEO,S,25000.0,4.1604,104010.0,635574.0
+AQST,2026-06-23,Krop Julie,director,,S,25000.0,5.0157,125392.5,0.0
+AQST,2026-07-15,Barber Daniel,officer,President and CEO,S,4631.0,4.0344,18683.31,630943.0
+AQST,2026-07-16,Barber Daniel,officer,President and CEO,S,20369.0,4.0016,81508.59,610574.0
+AQST,2026-08-17,Barber Daniel,"director, officer",President and CEO,S,25000.0,4.2867,107167.5,585574.0
+AQST,2026-09-09,Korczynski Sherry,officer,Chief Commercial Officer,S,8750.0,5.22,45675.0,235689.0
+AQST,2026-09-15,Barber Daniel,"director, officer",President and CEO,S,25000.0,4.8195,120487.5,652317.0
 ARDT,2026-06-05,DeMichiei Robert,director,,P,11260.0,8.73,98299.8,35564.0
 ARDT,2026-06-05,LUMSDAINE ALFRED,officer,Chief Financial Officer,P,10000.0,8.81,88100.0,329183.0
 ARHS,2026-09-08,Doody Alton F III,director,,S,3500.0,8.47,29645.0,87113.0
@@ -1620,6 +1658,7 @@ ASAN,2026-09-21,Rogers Daniel Mark,"director, officer",Chief Executive Officer,S
 ASAN,2026-09-22,Colendich Katie Marie,officer,"GC, Corporate Secretary",S,8474.0,9.77,82790.98,161689.0
 ASAN,2026-09-22,Rogers Daniel Mark,"director, officer",Chief Executive Officer,S,150175.0,9.1277,1370752.35,1474719.0
 ASAN,2026-09-23,Megji Aziz,officer,Chief Financial Officer,S,3224.0,9.2637,29866.17,726721.0
+ASAN,2026-09-30,Colendich Katie Marie,officer,"GC, Corporate Secretary",S,6318.0,8.6508,54655.75,155371.0
 ASO,2026-04-16,Tweedy Jeffrey C.,director,,S,4000.0,60.0,240000.0,7835.0
 ASO,2026-07-16,Tweedy Jeffrey C.,director,,S,1200.0,48.0,57600.0,10567.0
 ASO,2026-09-14,Johnson Samuel J,officer,President,S,25580.0,53.95,1380041.0,107164.0
@@ -1798,42 +1837,6 @@ AVAH,2026-08-20,Reisz Edwin C.,officer,Chief Administrative Officer,S,50000.0,11
 AVAH,2026-08-21,"J.H. Whitney Equity Partners VII, LLC",10% owner,,S,2250000.0,11.5,25875000.0,12315892.0
 AVAH,2026-08-21,WILLIAMS ROBERT M JR,10% owner,,S,2250000.0,11.5,25875000.0,12315892.0
 AVAH,2026-08-21,VIGANO PAUL R,10% owner,,S,2250000.0,11.5,25875000.0,12315892.0
-AVO,2024-09-18,Gonzalez Luis A,"director, 10% owner",,S,61408.0,13.3157,817690.51,7148233.0
-AVO,2024-09-19,Gonzalez Luis A,"director, 10% owner",,S,72424.0,13.5309,979961.9,7075809.0
-AVO,2024-09-20,Gonzalez Luis A,"director, 10% owner",,S,67344.0,13.5266,910935.35,7008465.0
-AVO,2026-06-11,Pack Jay A,director,,P,25281.0,11.03,278849.43,429246.0
-AVO,2026-06-11,Pack Jay A,director,,P,12169.0,11.04,134345.76,12169.0
-AVO,2026-06-12,Taylor Bruce C.,director,,P,10000.0,11.14,111400.0,755505.0
-AVO,2026-06-12,Taylor Bruce C.,director,,P,155842.0,11.16,1739196.72,155842.0
-AVO,2026-06-15,Pack Jay A,director,,P,110719.0,11.34,1255553.46,539965.0
-AVO,2026-06-15,Pack Jay A,director,,P,77831.0,11.34,882603.54,90000.0
-AVO,2026-06-15,Taylor Bruce C.,director,,P,300000.0,11.29,3387000.0,455842.0
-AVO,2026-06-16,Taylor Bruce C.,director,,P,13590.0,11.4,154926.0,469432.0
-AVO,2026-06-17,Taylor Bruce C.,director,,P,286410.0,11.27,3227840.7,755842.0
-AVO,2026-06-22,Taylor Bruce C.,director,,P,29717.0,11.36,337585.12,785559.0
-AVO,2026-06-23,Taylor Bruce C.,director,,P,70283.0,11.25,790683.75,855842.0
-AVO,2026-06-29,Giles Bryan E,officer,CHIEF FINANCIAL OFFICER,S,5000.0,12.13,60650.0,146931.0
-AVO,2026-06-30,Pack Jay A,director,,P,40000.0,12.1,484000.0,579965.0
-AVO,2026-07-06,Globalharvest Holdings Venture Ltd,10% owner,,P,650415.0,12.73,8279782.95,11191352.0
-AVO,2026-07-07,Globalharvest Holdings Venture Ltd,10% owner,,P,491865.0,13.4,6590991.0,11683217.0
-AVO,2026-07-08,Globalharvest Holdings Venture Ltd,10% owner,,P,687222.0,13.42,9222519.24,12370439.0
-AVO,2026-07-09,Globalharvest Holdings Venture Ltd,10% owner,,P,592957.0,13.28,7874468.96,12963396.0
-AVO,2026-09-11,Barnard Stephen J,"director, officer",Executive Chairman,S,15000.0,13.1,196500.0,35062.0
-AVO,2026-09-14,Barnard Stephen J,"director, officer",Executive Chairman,S,34777.0,13.02,452796.54,1750017.0
-AVO,2026-09-14,Barnard Stephen J,"director, officer",Executive Chairman,S,31719.0,13.01,412664.19,1753075.0
-AVO,2026-09-18,Barnard Stephen J,"director, officer",Executive Chairman,S,35062.0,12.54,439677.48,0.0
-AVO,2026-09-18,Barnard Stephen J,"director, officer",Executive Chairman,S,500.0,13.0,6500.0,1749517.0
-AVO,2026-09-21,Barnard Stephen J,"director, officer",Executive Chairman,S,54332.0,13.01,706859.32,1695185.0
-AVO,2026-09-21,Barnard Stephen J,"director, officer",Executive Chairman,S,57026.0,13.01,741908.26,1696049.0
-AVO,2026-09-24,Barnard Stephen J,"director, officer",Executive Chairman,S,10391.0,13.0,135083.0,1684794.0
-AVO,2026-09-24,Barnard Stephen J,"director, officer",Executive Chairman,S,11255.0,13.0,146315.0,1684794.0
-AVPT,2026-07-14,Brown Brian Michael,"director, officer",Chief Legal Officer,S,8369.0,13.0,108797.0,851295.0
-AVPT,2026-07-15,Brown Brian Michael,"director, officer",Chief Legal Officer,S,31631.0,13.18,416896.58,819664.0
-AVPT,2026-07-28,Brown Brian Michael,"director, officer",Chief Legal Officer,S,4824.0,13.08,63097.92,814840.0
-AVPT,2026-07-29,Brown Brian Michael,"director, officer",Chief Legal Officer,S,5176.0,13.06,67598.56,809664.0
-AVPT,2026-08-24,Brown Brian Michael,"director, officer",Chief Legal Officer,S,10000.0,13.3,133000.0,444604.0
-AVPT,2026-08-27,Brown Brian Michael,"director, officer",Chief Legal Officer,S,60000.0,14.2,852000.0,384604.0
-AVPT,2026-09-23,Brown Brian Michael,"director, officer",Chief Legal Officer,S,10000.0,13.07,130700.0,374604.0
 AVT,2026-05-05,GALLAGHER PHILIP R,"director, officer",Chief Executive Officer,S,23920.0,82.92,1983446.4,145003.0
 AVT,2026-05-22,JACOBSON KENNETH A,officer,Chief Financial Officer,S,12000.0,85.26,1023120.0,40968.0
 AVT,2026-08-12,GALLAGHER PHILIP R,"director, officer",Chief Executive Officer,S,31900.0,98.46,3140874.0,188923.0
@@ -1855,6 +1858,8 @@ AXTI,2026-06-15,CHEN JESSE,director,,S,6172.0,115.2437,711284.12,50275.0
 AXTI,2026-06-15,CHANG DAVID C,director,,S,8333.0,111.1715,926392.11,65165.0
 AXTI,2026-08-07,LEBLANC LEONARD J,director,,S,2000.0,88.315,176630.0,117129.0
 AXTI,2026-08-17,LEBLANC LEONARD J,director,,S,4000.0,96.0701,384280.4,113129.0
+AZTA,2026-05-18,Cornog William L,director,,P,10000.0,16.38,163800.0,19703.0
+AZTA,2026-07-31,Starr Ephraim,officer,"SVP, Gen Counsel & Secretary",P,335.0,24.1676,8096.15,68728.0
 BAND,2026-05-04,Asbill Richard Brandon,officer,General Counsel,S,20000.0,44.1454,882908.0,27613.0
 BAND,2026-05-04,Agarwal Devesh,officer,Chief Operating Officer,S,10258.0,45.0241,461857.22,101156.0
 BAND,2026-05-04,Bottorff Rebecca,"director, officer",Chief People Officer,S,9425.0,45.3036,426986.43,50535.0
@@ -1960,6 +1965,8 @@ BB,2026-07-09,Armstrong-Owen Jennifer,officer,Sr VP & Chief People Officer,S,329
 BB,2026-07-09,Kurtz Philip S.,officer,CLO & Corp. Secretary,S,6414.0,11.07,71002.98,125158.0
 BB,2026-07-09,Foote Tim,officer,Chief Financial Officer,S,8235.0,10.92,89926.2,73535.0
 BB,2026-07-14,Kurtz Philip S.,officer,CLO & Corp. Secretary,S,30000.0,11.32,339600.0,95158.0
+BB,2026-09-30,Kurtz Philip S.,officer,CLO & Corp. Secretary,S,30000.0,9.14,274200.0,65158.0
+BB,2026-10-01,Foote Tim,officer,Chief Financial Officer,S,16672.0,9.14,152382.08,56863.0
 BBCP,2026-06-09,Stevens Brent M,"director, 10% owner",,S,50000.0,10.6454,532270.0,747155.0
 BBCP,2026-06-10,Stevens Brent M,"director, 10% owner",,S,50000.0,10.5288,526440.0,697155.0
 BBCP,2026-06-11,Humphries Iain,"director, officer",CFO and Secretary,S,96955.0,10.7915,1046289.88,377812.0
@@ -1994,10 +2001,6 @@ BBNX,2026-09-22,Jones Christy,director,,S,6430.0,23.0,147890.0,19564.0
 BDSX,2026-08-10,SCHULER JACK W,10% owner,,P,13900.0,24.2467,337029.13,527110.0
 BDSX,2026-08-11,SCHULER JACK W,10% owner,,P,13700.0,24.0081,328910.97,540810.0
 BDSX,2026-08-12,SCHULER JACK W,10% owner,,P,15000.0,24.4661,366991.5,555810.0
-BE,2026-04-14,SODERBERG SHAWN MARIE,officer,See Remarks,S,30000.0,204.23,6126900.0,165732.0
-BE,2026-04-14,Chitoori Satish,officer,Chief Operations Officer,S,20000.0,204.23,4084600.0,212365.0
-BE,2026-04-15,SODERBERG SHAWN MARIE,officer,See Remarks,S,25000.0,225.13,5628250.0,140732.0
-BE,2026-04-29,SODERBERG SHAWN MARIE,officer,See Remarks,S,35000.0,279.0,9765000.0,341731.0
 BE,2026-05-07,BUSH MARY K,director,,S,25000.0,266.96,6674000.0,108524.0
 BE,2026-05-13,Kurzymski Maciej,officer,Chief Accounting Officer,S,6229.0,293.36,1827339.44,81945.0
 BE,2026-05-14,Chitoori Satish,officer,Chief Operations Officer,S,2111.0,288.24,608474.64,210254.0
@@ -2020,15 +2023,7 @@ BE,2026-09-16,Joshi Aman,officer,Chief Commercial Officer,S,3601.0,269.94,972053
 BE,2026-09-16,Kurzymski Maciej,officer,Chief Accounting Officer,S,2295.0,268.42,616023.9,77391.0
 BE,2026-09-16,SODERBERG SHAWN MARIE,officer,See Remarks,S,2870.0,270.07,775100.9,126500.0
 BE,2026-09-16,Chitoori Satish,officer,Chief Operations Officer,S,2870.0,270.06,775072.2,202494.0
-BELFB,2026-06-01,Kozlovsky Suzanne,officer,Global Head of People,S,33.0,266.98,8810.34,12250.0
-BELFB,2026-06-01,Kozlovsky Suzanne,officer,Global Head of People,S,92.0,269.68,24810.56,12158.0
-BELFB,2026-06-01,Kozlovsky Suzanne,officer,Global Head of People,S,310.0,270.51,83858.1,11848.0
-BELFB,2026-06-01,Kozlovsky Suzanne,officer,Global Head of People,S,46.0,271.56,12491.76,11802.0
-BELFB,2026-06-01,Kozlovsky Suzanne,officer,Global Head of People,S,214.0,272.42,58297.88,11588.0
-BELFB,2026-06-01,Kozlovsky Suzanne,officer,Global Head of People,S,36.0,274.91,9896.76,11552.0
-BELFB,2026-08-12,GILBERT PETER E,director,,S,500.0,292.12,146060.0,750.0
-BELFB,2026-09-02,Vellucci Vincent,director,,S,393.0,243.61,95738.73,8434.0
-BELFB,2026-09-14,Vellucci Vincent,director,,S,1000.0,235.15,235150.0,7434.0
+BE,2026-10-01,Joshi Aman,officer,Chief Commercial Officer,S,8437.0,277.17,2338483.29,147092.0
 BETA,2026-05-07,Hunter Mark William,officer,CHIEF ACCOUNTING OFFICER,S,370.0,18.1216,6704.99,14355.0
 BETA,2026-05-07,Dunkiel Brian,officer,SEE REMARKS,S,9684.0,18.1216,175489.57,132241.0
 BETA,2026-05-07,Churchill David Lawrence,"director, officer",CHIEF TECHNOLOGY OFFICER,S,18981.0,18.1216,343966.09,552647.0
@@ -2073,6 +2068,9 @@ BETA,2026-09-02,Stone Michael Robert,director,,P,13125.0,19.1855,251809.69,17929
 BETA,2026-09-24,Clark Kyle,"director, officer",SEE REMARKS,S,10000.0,23.0444,230444.0,5225936.0
 BETA,2026-09-25,Clark Kyle,"director, officer",SEE REMARKS,S,10000.0,24.1498,241498.0,5215936.0
 BETA,2026-09-26,Clark Kyle,"director, officer",SEE REMARKS,S,10000.0,23.3197,233197.0,5205936.0
+BETA,2026-09-29,Clark Kyle,"director, officer",SEE REMARKS,S,10000.0,22.6205,226205.0,5195936.0
+BETA,2026-09-30,Clark Kyle,"director, officer",SEE REMARKS,S,10000.0,22.6304,226304.0,5185936.0
+BETA,2026-10-01,Clark Kyle,"director, officer",SEE REMARKS,S,10000.0,22.0027,220027.0,5175936.0
 BFLY,2026-04-16,Cashman Steve,officer,Chief Business Officer,S,200000.0,5.222,1044400.0,2177386.0
 BFLY,2026-04-29,Cashman Steve,officer,Chief Business Officer,S,147518.0,4.909,724165.86,2029868.0
 BFLY,2026-05-01,Carlson Megan,officer,"CAO and SVP, Finance",S,110422.0,4.749,524394.08,507209.0
@@ -2516,6 +2514,8 @@ BNED,2026-09-22,SHAR JONATHAN,officer,CEO,S,30000.0,11.04,331200.0,325285.0
 BNED,2026-09-23,Luster Gary,officer,"SVP,  Chief Accounting Officer",S,2267.0,11.2,25390.4,29667.0
 BNGO,2026-08-21,Luderer Albert,"director, officer",Interim Chief Executive,P,4000.0,1.215,4860.0,4000.0
 BNGO,2026-09-04,Luderer Albert,"director, officer",Interim Chief Executive,P,4000.0,1.2112,4844.8,8000.0
+BOBS,2026-05-08,BARTON WILLIAM G,"director, officer",See Remarks,P,22150.0,13.56,300354.0,22150.0
+BOBS,2026-05-12,BARTON WILLIAM G,"director, officer",See Remarks,P,200.0,12.17,2434.0,700.0
 BRKR,2026-04-15,Munch Mark,officer,EXEC VP&PRES BRUKER NANO INC.,S,2000.0,39.9,79800.0,128443.0
 BRKR,2026-05-15,Munch Mark,officer,EXEC VP&PRES BRUKER NANO INC.,S,2000.0,43.9,87800.0,128443.0
 BRKR,2026-06-15,Munch Mark,officer,EXEC VP&PRES BRUKER NANO INC.,S,2000.0,54.76,109520.0,128443.0
@@ -2640,6 +2640,9 @@ CBLL,2026-09-08,Foehr David,officer,"Senior VP, Finance and PAO",S,7500.0,24.25,
 CBLL,2026-09-08,Woo Raymond,officer,Chief Technology Officer,S,4887.0,24.33,118900.71,203118.0
 CBLL,2026-09-15,Chao Xingjuan,"director, officer",President and CEO,S,20846.0,25.03,521775.38,746345.0
 CBLL,2026-09-15,Blumberg Scott,officer,Chief Financial Officer,S,846.0,25.0,21150.0,146600.0
+CBLL,2026-10-01,Woo Raymond,officer,Chief Technology Officer,S,4887.0,24.38,119145.06,203118.0
+CBOE,2026-05-18,Froetscher Janet P,director,,S,1223.0,358.09,437944.07,13807.0
+CBOE,2026-08-12,Froetscher Janet P,director,,S,937.0,278.95,261376.15,12870.0
 CBRL,2026-10-01,Roberts Donna,officer,"SVP, Chief HR Officer",S,3500.0,52.08,182280.0,43702.0
 CCSI,2026-06-02,HEALY ELAINE,director,,S,4000.0,34.27,137080.0,27658.0
 CCSI,2026-08-12,Sullivan Jeffrey Alan,officer,Chief Technology Officer,S,5400.0,37.7,203580.0,114968.0
@@ -2729,9 +2732,6 @@ CDNS,2026-09-10,Brennan Ita M,director,,S,14.0,286.4686,4010.56,7830.0
 CDNS,2026-09-10,Brennan Ita M,director,,S,6.0,287.79,1726.74,7824.0
 CDNS,2026-09-15,Cunningham Paul,officer,Sr. Vice President,S,2000.0,277.12,554240.0,121793.0
 CDTG,2026-08-21,HRT FINANCIAL LP,10% owner,,S,2052.0,1.36,2790.72,9039.0
-CDW,2026-05-18,LEAHY CHRISTINE A,"director, officer",See Remarks,P,4830.0,103.395,499397.85,193356.67
-CDW,2026-05-27,NELMS DAVID W,director,,P,18000.0,111.43,2005740.0,51025.12
-CDW,2026-08-07,CONNELLY ELIZABETH H.,officer,See Remarks,S,26695.0,137.62,3673765.9,34215.46
 CECO,2026-04-29,WALLMAN RICHARD F,director,,P,10000.0,73.25,732500.0,229909.0
 CECO,2026-04-29,WALLMAN RICHARD F,director,,P,5000.0,73.798,368990.0,85500.0
 CECO,2026-05-01,Nanda Munish,director,,S,11218.0,74.0012,830145.46,62031.0
@@ -3134,6 +3134,7 @@ CLOV,2026-09-15,Soares Karen,officer,Chief Legal Officer,S,6846.0,4.78,32723.88,
 CLOV,2026-09-15,Reynoso Jamie L.,officer,"CEO,  Medicare Advantage",S,9273.0,4.78,44324.94,2805367.0
 CLOV,2026-09-16,OLDAKOWSKI JOSEPH FRANK,officer,VP OF FINANCE AND CONTROLLER,S,3170.0,4.64,14708.8,275897.0
 CLOV,2026-09-17,Reynoso Jamie L.,officer,"CEO,  Medicare Advantage",S,1921.0,4.56,8759.76,2803446.0
+CLOV,2026-10-01,Toy Andrew,"director, officer",Chief Executive Officer,S,318806.0,4.19,1335797.14,9140510.0
 CLS,2026-05-19,Wilson Michael Max,director,,S,4168.0,333.31,1389236.08,24718.0
 CLS,2026-06-15,MIONIS ROBERT,"director, officer",Chief Executive Officer,S,1420.0,394.58,560303.6,198964.0
 CLS,2026-06-15,MIONIS ROBERT,"director, officer",Chief Executive Officer,S,2983.0,395.92,1181029.36,195981.0
@@ -3288,8 +3289,7 @@ CLSK,2026-08-14,Monnig Taylor,officer,"CTO, COO",S,54.0,11.51,621.54,169176.0
 CLSK,2026-09-04,Monnig Taylor,officer,"CTO, COO",S,4513.0,12.6089,56903.97,258969.0
 CLSK,2026-09-08,Monnig Taylor,officer,"CTO, COO",S,13216.0,13.3371,176263.11,236114.0
 CLSK,2026-09-08,Monnig Taylor,officer,"CTO, COO",S,12033.0,13.3371,160485.32,319918.0
-CLYM,2026-06-29,Brennan Aoife,"director, officer",President and CEO,S,30902.0,13.17,406979.34,87731.0
-CLYM,2026-09-15,Thomas Stephen Basil,director,,S,100000.0,13.6682,1366820.0,467969.0
+CLSK,2026-10-01,Monnig Taylor,officer,"CTO, COO",S,3335.0,12.3303,41121.55,336810.0
 CMCL,2026-05-13,Ndlovu July,director,,P,15000.0,24.81,372150.0,229089.0
 CMCL,2026-05-18,Ndlovu July,director,,S,20000.0,17.19,343800.0,229089.0
 CMCL,2026-06-11,Gapare Victor,"director, 10% owner",,P,11750.0,18.7,219725.0,2455122.0
@@ -3485,6 +3485,18 @@ CORT,2026-09-15,WILSON JAMES N,director,,S,6800.0,110.2698,749834.64,1067743.0
 CORT,2026-09-15,WILSON JAMES N,director,,S,400.0,110.8363,44334.52,1067343.0
 CORT,2026-09-15,WILSON JAMES N,director,,S,2800.0,111.7039,312770.92,1064543.0
 CORT,2026-09-16,Vieira Roberto Wandenkolk,officer,"President, Oncology",S,296.0,100.82,29842.72,3946.0
+CRAI,2026-05-19,Yellin Jonathan D,officer,EVP AND GENERAL COUNSEL,S,250.0,146.3663,36591.57,15247.0
+CRAI,2026-05-19,Yellin Jonathan D,officer,EVP AND GENERAL COUNSEL,S,400.0,147.445,58978.0,14847.0
+CRAI,2026-05-19,Yellin Jonathan D,officer,EVP AND GENERAL COUNSEL,S,1600.0,148.0,236800.0,13247.0
+CRAI,2026-07-16,Tookes Heather,director,,S,124.0,173.31,21490.44,2817.0
+CRAI,2026-07-23,Tookes Heather,director,,S,88.0,165.9,14599.2,3718.0
+CRAI,2026-08-25,Yellin Jonathan D,officer,EVP AND GENERAL COUNSEL,S,543.0,172.3039,93561.02,12860.0
+CRAI,2026-08-25,Yellin Jonathan D,officer,EVP AND GENERAL COUNSEL,S,1307.0,173.3354,226549.37,11553.0
+CRAI,2026-08-25,Yellin Jonathan D,officer,EVP AND GENERAL COUNSEL,S,400.0,174.2592,69703.68,11153.0
+CRAI,2026-08-31,Maleh Paul A,"director, officer",PRESIDENT AND CEO,S,2348.0,172.0589,403994.3,108702.0
+CRAI,2026-08-31,Maleh Paul A,"director, officer",PRESIDENT AND CEO,S,4852.0,173.0412,839595.9,103850.0
+CRAI,2026-08-31,Maleh Paul A,"director, officer",PRESIDENT AND CEO,S,268.0,174.1276,46666.2,103582.0
+CRAI,2026-08-31,Maleh Paul A,"director, officer",PRESIDENT AND CEO,S,32.0,174.7834,5593.07,103550.0
 CRCL,2026-06-09,Neville Patrick Sean,director,,S,47306.0,81.26,3844085.56,4712.0
 CRCL,2026-06-09,Neville Patrick Sean,director,,S,2694.0,82.05,221042.7,2018.0
 CRCL,2026-06-10,Razzaghi Hossein,officer,Chief Commercial Officer,S,34623.0,78.85,2730023.55,666404.0
@@ -3607,7 +3619,6 @@ CRCL,2026-09-08,Allaire Jeremy,"director, officer",Chairman and CEO,S,595.0,98.5
 CRCL,2026-09-08,Allaire Jeremy,"director, officer",Chairman and CEO,S,184.0,99.4,18289.6,60350.0
 CRCL,2026-09-08,Allaire Jeremy,"director, officer",Chairman and CEO,S,36.0,100.34,3612.24,60314.0
 CRCL,2026-09-08,Chandhok Nikhil,officer,Chief Product & Tech. Officer,S,26666.0,100.4,2677266.4,722480.0
-CRDO,2026-06-04,Laufman James,officer,"Chief Legal Officer, Secretary",S,5000.0,222.81,1114050.0,186230.0
 CRDO,2026-06-05,Brennan William Joseph,"director, officer",Pres & Chief Executive Officer,S,5713.0,206.4031,1179180.91,416598.0
 CRDO,2026-06-05,Brennan William Joseph,"director, officer",Pres & Chief Executive Officer,S,2231.0,207.4662,462857.09,414367.0
 CRDO,2026-06-05,Brennan William Joseph,"director, officer",Pres & Chief Executive Officer,S,2813.0,208.6496,586931.32,411554.0
@@ -3894,6 +3905,7 @@ CRDO,2026-09-29,Cheng Chi Fung,"director, officer",Chief Technology Officer,S,29
 CRDO,2026-09-29,Cheng Chi Fung,"director, officer",Chief Technology Officer,S,1591.0,196.2563,312243.77,5664997.0
 CRDO,2026-09-29,Cheng Chi Fung,"director, officer",Chief Technology Officer,S,1500.0,197.2113,295816.95,5663497.0
 CRDO,2026-09-29,Cheng Chi Fung,"director, officer",Chief Technology Officer,S,1100.0,198.6145,218475.95,5662397.0
+CRDO,2026-10-01,Lam Yat Tung,"director, officer",Chief Operating Officer,S,50000.0,205.2175,10260875.0,2254169.0
 CRSR,2026-08-13,Kim Sarah Mears,director,,S,8874.0,13.6902,121486.83,22458.0
 CRWD,2026-07-30,Kurtz George,"director, officer",PRESIDENT AND CEO,S,360.0,178.72,64339.2,8103184.0
 CRWD,2026-07-30,Kurtz George,"director, officer",PRESIDENT AND CEO,S,862.0,180.22,155349.64,8102322.0
@@ -4381,30 +4393,6 @@ CRWD,2026-09-29,Kurtz George,"director, officer",PRESIDENT AND CEO,S,3355.0,259.
 CRWD,2026-09-29,Kurtz George,"director, officer",PRESIDENT AND CEO,S,2163.0,260.41,563266.83,7573586.0
 CRWD,2026-09-29,Kurtz George,"director, officer",PRESIDENT AND CEO,S,842.0,261.49,220174.58,7572744.0
 CRWD,2026-09-29,Kurtz George,"director, officer",PRESIDENT AND CEO,S,1240.0,262.42,325400.8,7571504.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,107538.0,107.64,11575390.32,3975372.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,61199.0,108.16,6619283.84,3914173.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,367433.0,107.64,39550488.12,17208727.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,209134.0,108.16,22619933.44,16999593.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,184794.0,107.64,19891226.16,1788988.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,105180.0,108.16,11376268.8,1683808.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,50906.0,107.64,5479521.84,961967.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,28986.0,108.16,3135125.76,932981.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,4979.0,107.64,535939.56,233215.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,2834.0,108.16,306525.44,230381.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,107386.0,107.64,11559029.04,3571844.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,61114.0,108.16,6610090.24,3510730.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,147418.0,107.64,15868073.52,4354193.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,83914.0,108.16,9076138.24,4270279.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,44878.0,107.64,4830667.92,794289.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,25541.0,108.16,2762514.56,768748.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,157192.0,107.64,16920146.88,6633456.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,89470.0,108.16,9677075.2,6543986.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,101877.0,107.64,10966040.28,1949966.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,57980.0,108.16,6271116.8,1891986.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,78040.0,107.64,8400225.6,1954824.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,44421.0,108.16,4804575.36,1910403.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,16352.0,107.64,1760129.28,644347.0
-CRWV,2026-08-12,Magnetar Financial LLC,10% owner,,S,9305.0,108.16,1006428.8,635042.0
 CRWV,2026-08-13,Magnetar Financial LLC,10% owner,,S,26085.0,107.75,2810658.75,3888088.0
 CRWV,2026-08-13,Magnetar Financial LLC,10% owner,,S,121028.0,110.98,13431687.44,3767060.0
 CRWV,2026-08-13,Magnetar Financial LLC,10% owner,,S,29301.0,115.61,3387488.61,3737759.0
@@ -4655,6 +4643,18 @@ CRWV,2026-09-22,Agrawal Nitin,officer,Chief Financial Officer,S,25772.0,86.4397,
 CRWV,2026-09-22,Agrawal Nitin,officer,Chief Financial Officer,S,16193.0,87.2102,1412194.77,139896.0
 CRWV,2026-09-22,Agrawal Nitin,officer,Chief Financial Officer,S,6500.0,88.3962,574575.3,133396.0
 CRWV,2026-09-22,Agrawal Nitin,officer,Chief Financial Officer,S,800.0,89.015,71212.0,132596.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,89338.0,85.8577,7670355.2,597791.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,74072.0,86.5695,6412376.0,523719.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,12712.0,87.6469,1114167.39,511007.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,10719.0,88.717,950957.52,500288.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,12054.0,89.8102,1082572.15,488234.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,1105.0,90.2553,99732.11,487129.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,48103.0,85.8577,4130012.94,59589.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,39883.0,86.5696,3452655.36,19706.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,6847.0,87.6469,600118.32,12859.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,5773.0,88.717,512163.24,7086.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,6491.0,89.8102,582958.01,595.0
+CRWV,2026-09-29,Intrator Michael N,"director, officer, 10% owner",CEO and President,S,595.0,90.2553,53701.9,0.0
 CSHR,2026-09-16,Masters Daniel,"director, 10% owner",,S,60790.0,4.7919,291299.6,21731825.0
 CSHR,2026-09-17,Masters Daniel,"director, 10% owner",,S,60790.0,5.0576,307451.5,21671035.0
 CSHR,2026-09-18,Masters Daniel,"director, 10% owner",,S,60790.0,5.3866,327451.41,21610245.0
@@ -4783,6 +4783,14 @@ CSTL,2026-09-21,MAETZOLD DEREK J,"director, officer",Pres. & Chief Exec. Officer
 CSTL,2026-09-21,MAETZOLD DEREK J,"director, officer",Pres. & Chief Exec. Officer,S,2718.0,35.334,96037.81,9550.0
 CSTL,2026-09-29,Juvenal Tobin W,officer,Chief Commercial Officer,S,5543.0,35.498,196765.41,53041.0
 CSTL,2026-09-30,Juvenal Tobin W,officer,Chief Commercial Officer,S,1034.0,34.2,35362.8,52007.0
+CTSH,2026-06-15,Kerdman Alina,officer,"SVP, Controller & CAO",S,133.0,51.7,6876.1,990.0
+CTSH,2026-07-01,Kerdman Alina,officer,"SVP, Controller & CAO",S,137.0,39.82,5455.34,992.0
+CTSH,2026-08-03,Kim John Sunshin,officer,"CLO, CAO & Corporate Secretary",S,2500.0,57.05,142625.0,40392.0
+CTSH,2026-08-03,Dalal Jatin P,officer,Chief Financial Officer,S,12000.0,55.764,669168.0,46111.0
+CTSH,2026-08-31,Kerdman Alina,officer,"SVP, Controller & CAO",S,144.0,63.34,9120.96,848.0
+CTSH,2026-09-02,Kim John Sunshin,officer,"CLO, CAO & Corporate Secretary",S,2500.0,63.3723,158430.75,39909.0
+CTSH,2026-09-14,Kerdman Alina,officer,"SVP, Controller & CAO",S,134.0,62.4,8361.6,1129.0
+CTSH,2026-09-30,Kerdman Alina,officer,"SVP, Controller & CAO",S,139.0,56.88,7906.32,1124.0
 CUE,2026-08-12,Lin Shao-Lee,"director, officer",Chief Executive Officer,S,34225.0,26.99,923732.75,730028.0
 CUE,2026-08-12,Lin Shao-Lee,"director, officer",Chief Executive Officer,S,5775.0,27.75,160256.25,724253.0
 CUE,2026-08-13,Ray Sumita,officer,Chief Legal Compliance Officer,S,2383.0,29.37,69988.71,124991.0
@@ -4850,9 +4858,101 @@ CXW,2026-08-26,PRANN JOHN R JR,director,,S,3098.0,34.0,105332.0,5000.0
 CXW,2026-08-26,Grande Anthony L,officer,"EVP, Chief Development Officer",S,12564.0,33.85,425291.4,144782.0
 CXW,2026-09-01,"Carter, Cole G.",officer,Chief Administrative Officer,S,12500.0,32.44,405500.0,178383.0
 CXW,2026-09-11,Swenson Daren,officer,"EVP, Chief Corr & Reentry Ofcr",S,20000.0,34.85,697000.0,142666.0
+CXW,2026-10-01,"Carter, Cole G.",officer,Chief Administrative Officer,S,12500.0,32.02,400250.0,165883.0
 CYPH,2026-08-26,Dietz Thomas John,director,,S,20000.0,1.72,34400.0,132500.0
 CYPH,2026-09-23,Martin Patricia A.,director,,S,50000.0,3.86,193000.0,118750.0
 CYPH,2026-09-25,Oei Khing Djien,director,,S,168750.0,3.92,661500.0,0.0
+DASH,2026-06-10,Still Ashley,director,,S,1164.0,153.58,178767.12,2685.0
+DASH,2026-06-24,Fang Andy,director,,S,5000.0,180.0,900000.0,0.0
+DASH,2026-06-26,Brown Shona L,director,,S,582.0,177.06,103048.92,31156.0
+DASH,2026-07-01,Fang Andy,director,,S,627.0,183.423,115006.22,4373.0
+DASH,2026-07-01,Fang Andy,director,,S,544.0,184.63,100438.72,3829.0
+DASH,2026-07-01,Fang Andy,director,,S,3729.0,185.232,690730.13,100.0
+DASH,2026-07-01,Fang Andy,director,,S,100.0,189.21,18921.0,0.0
+DASH,2026-07-02,Tang Stanley,director,,S,2986.0,189.748,566587.53,20139.0
+DASH,2026-07-02,Tang Stanley,director,,S,7206.0,190.634,1373708.6,12933.0
+DASH,2026-07-02,Tang Stanley,director,,S,10824.0,191.716,2075133.98,2109.0
+DASH,2026-07-02,Tang Stanley,director,,S,2009.0,192.418,386567.76,100.0
+DASH,2026-07-02,Tang Stanley,director,,S,100.0,193.44,19344.0,0.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,1900.0,183.359,348382.1,269638.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,1700.0,184.46,313582.0,267938.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,1900.0,185.655,352744.5,266038.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,2105.0,186.638,392872.99,263933.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,3887.0,187.64,729356.68,260046.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,2100.0,188.379,395595.9,257946.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,1435.0,189.631,272120.48,256511.0
+DASH,2026-07-08,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,4068.0,193.21,785978.28,252443.0
+DASH,2026-08-03,Tang Stanley,director,,S,1671.0,200.0,334200.0,40218.0
+DASH,2026-08-03,Tang Stanley,director,,S,900.0,198.986,179087.4,66793.0
+DASH,2026-08-03,Tang Stanley,director,,S,35723.0,200.089,7147779.35,31070.0
+DASH,2026-08-03,Tang Stanley,director,,S,22680.0,200.94,4557319.2,8390.0
+DASH,2026-08-03,Tang Stanley,director,,S,5690.0,201.903,1148828.07,2700.0
+DASH,2026-08-03,Tang Stanley,director,,S,2600.0,203.005,527813.0,100.0
+DASH,2026-08-03,Tang Stanley,director,,S,100.0,203.64,20364.0,0.0
+DASH,2026-08-03,Fang Andy,director,,S,300.0,198.91,59673.0,19700.0
+DASH,2026-08-03,Fang Andy,director,,S,16300.0,200.047,3260766.1,3400.0
+DASH,2026-08-03,Fang Andy,director,,S,2500.0,201.377,503442.5,900.0
+DASH,2026-08-03,Fang Andy,director,,S,800.0,202.345,161876.0,100.0
+DASH,2026-08-03,Fang Andy,director,,S,100.0,203.39,20339.0,0.0
+DASH,2026-08-06,Fang Andy,director,,S,15000.0,215.0,3225000.0,0.0
+DASH,2026-08-13,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,1017.0,213.67,217302.39,252443.0
+DASH,2026-08-20,Tang Stanley,director,,S,2160.0,220.624,476547.84,38058.0
+DASH,2026-08-20,Lee Gordon S,officer,CHIEF ACCOUNTING OFFICER,S,2911.0,220.624,642236.46,86536.0
+DASH,2026-08-20,Adarkar Prabir,officer,PRESIDENT AND COO,S,17126.0,220.624,3778406.62,941950.0
+DASH,2026-08-20,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,19505.0,220.624,4303271.12,232938.0
+DASH,2026-08-20,Sherringham Tia,officer,GENERAL COUNSEL AND SECRETARY,S,7689.0,220.624,1696377.94,120527.0
+DASH,2026-08-20,Yandell Keith,officer,CHIEF BUSINESS OFFICER,S,7962.0,220.624,1756608.29,122872.0
+DASH,2026-08-20,Fang Andy,director,,S,1591.0,220.624,351012.78,42598.0
+DASH,2026-08-21,Tang Stanley,director,,S,9999.0,225.0,2249775.0,35887.0
+DASH,2026-08-21,Tang Stanley,director,,S,72367.0,225.165,16294515.55,10361.0
+DASH,2026-08-24,Xu Tony,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,29567.0,230.004,6800528.27,1500.0
+DASH,2026-08-24,Lee Gordon S,officer,CHIEF ACCOUNTING OFFICER,S,2204.0,222.03,489354.12,84332.0
+DASH,2026-08-24,Sherringham Tia,officer,GENERAL COUNSEL AND SECRETARY,S,200.0,221.03,44206.0,120327.0
+DASH,2026-08-24,Sherringham Tia,officer,GENERAL COUNSEL AND SECRETARY,S,100.0,222.22,22222.0,120227.0
+DASH,2026-08-24,Sherringham Tia,officer,GENERAL COUNSEL AND SECRETARY,S,100.0,224.81,22481.0,120127.0
+DASH,2026-08-24,Sherringham Tia,officer,GENERAL COUNSEL AND SECRETARY,S,500.0,227.836,113918.0,119627.0
+DASH,2026-08-24,Sherringham Tia,officer,GENERAL COUNSEL AND SECRETARY,S,1265.0,229.08,289786.2,118362.0
+DASH,2026-08-24,Sherringham Tia,officer,GENERAL COUNSEL AND SECRETARY,S,100.0,229.94,22994.0,118262.0
+DASH,2026-08-24,Tang Stanley,director,,S,10134.0,225.0,2280150.0,10361.0
+DASH,2026-08-25,Adarkar Prabir,officer,PRESIDENT AND COO,S,2413.0,227.749,549558.34,983087.0
+DASH,2026-08-25,Adarkar Prabir,officer,PRESIDENT AND COO,S,3298.0,229.31,756264.38,979789.0
+DASH,2026-08-25,Adarkar Prabir,officer,PRESIDENT AND COO,S,4600.0,230.443,1060037.8,975189.0
+DASH,2026-08-25,Adarkar Prabir,officer,PRESIDENT AND COO,S,20744.0,231.462,4801447.73,954445.0
+DASH,2026-08-25,Adarkar Prabir,officer,PRESIDENT AND COO,S,10995.0,232.292,2554050.54,943450.0
+DASH,2026-08-25,Adarkar Prabir,officer,PRESIDENT AND COO,S,11339.0,233.484,2647475.08,932111.0
+DASH,2026-08-25,Adarkar Prabir,officer,PRESIDENT AND COO,S,1900.0,234.245,445065.5,930211.0
+DASH,2026-08-25,Xu Tony,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,3767.0,230.0,866410.0,1500.0
+DASH,2026-09-01,Fang Andy,director,,S,2721.0,225.754,614276.63,12279.0
+DASH,2026-09-01,Fang Andy,director,,S,1927.0,226.746,436939.54,10352.0
+DASH,2026-09-01,Fang Andy,director,,S,2552.0,227.919,581649.29,7800.0
+DASH,2026-09-01,Fang Andy,director,,S,3900.0,228.818,892390.2,3900.0
+DASH,2026-09-01,Fang Andy,director,,S,1983.0,230.035,456159.4,1917.0
+DASH,2026-09-01,Fang Andy,director,,S,1417.0,230.823,327076.19,500.0
+DASH,2026-09-01,Fang Andy,director,,S,500.0,232.231,116115.5,0.0
+DASH,2026-09-01,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,2827.0,225.833,638429.89,231128.0
+DASH,2026-09-01,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,1700.0,226.813,385582.1,229428.0
+DASH,2026-09-01,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,2647.0,228.021,603571.59,226781.0
+DASH,2026-09-01,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,3353.0,228.884,767448.05,223428.0
+DASH,2026-09-01,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,3117.0,230.007,716931.82,220311.0
+DASH,2026-09-01,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,1800.0,230.835,415503.0,218511.0
+DASH,2026-09-01,Inukonda Ravi,officer,CHIEF FINANCIAL OFFICER,S,600.0,232.196,139317.6,217911.0
+DASH,2026-09-01,Xu Tony,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,16667.0,230.002,3833443.33,1500.0
+DASH,2026-09-02,Tang Stanley,director,,S,2500.0,223.601,559002.5,38696.0
+DASH,2026-09-02,Tang Stanley,director,,S,2265.0,224.512,508519.68,36431.0
+DASH,2026-09-02,Tang Stanley,director,,S,8277.0,225.747,1868507.92,28154.0
+DASH,2026-09-02,Tang Stanley,director,,S,15522.0,226.52,3516043.44,12632.0
+DASH,2026-09-02,Tang Stanley,director,,S,2271.0,227.229,516037.06,10361.0
+DASH,2026-09-04,Lee Gordon S,officer,CHIEF ACCOUNTING OFFICER,S,413.0,221.5,91479.5,83919.0
+DASH,2026-09-17,Yandell Keith,officer,CHIEF BUSINESS OFFICER,S,2184.0,200.76,438459.84,120688.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,1638.0,178.538,292445.24,928573.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,1900.0,179.436,340928.4,926673.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,1500.0,180.677,271015.5,925173.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,1900.0,181.61,345059.0,923273.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,1200.0,182.773,219327.6,922073.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,300.0,183.647,55094.1,921773.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,100.0,184.49,18449.0,921673.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,100.0,188.95,18895.0,921573.0
+DASH,2026-09-28,Adarkar Prabir,officer,PRESIDENT AND COO,S,100.0,190.38,19038.0,921473.0
 DAVE,2026-06-02,Beilman Kyle,officer,CFO and COO and Secretary,S,49.0,277.23,13584.27,200228.0
 DAVE,2026-06-02,Beilman Kyle,officer,CFO and COO and Secretary,S,4073.0,275.0,1120075.0,196155.0
 DAVE,2026-06-02,Wilk Jason,"director, officer",Chief Executive Officer,S,80.0,277.49,22199.2,308344.0
@@ -4860,6 +4960,8 @@ DAVE,2026-06-02,Wilk Jason,"director, officer",Chief Executive Officer,S,104.0,2
 DAVE,2026-06-02,Wilk Jason,"director, officer",Chief Executive Officer,S,8290.0,275.01,2279832.9,299950.0
 DAVE,2026-06-04,Preston Dan,director,,S,275.0,247.65,68103.75,5466.0
 DAVE,2026-06-05,Preston Dan,director,,S,275.0,259.83,71453.25,5191.0
+DBGI,2026-06-02,DAVIS JOHN HILBURN IV,"director, officer",CEO,P,70127.0287,0.7001,49095.93,70128.0287
+DBGI,2026-06-10,DAVIS JOHN HILBURN IV,"director, officer",CEO,P,618333.0,1.13,698716.29,688461.0
 DBI,2026-06-10,Turner Mary,officer,EVP;Pres DesignerBrands Canada,S,34708.0,6.9966,242837.99,601.0
 DBI,2026-09-11,Haley Mark,officer,"SVP, Controller & PAO",S,1800.0,6.0128,10823.04,17698.0
 DBI,2026-09-14,Haley Mark,officer,"SVP, Controller & PAO",S,17698.0,6.3678,112697.32,0.0
@@ -4869,8 +4971,6 @@ DBX,2026-05-15,Peacock Karen,director,,S,4000.0,26.5047,106018.8,17295.0
 DBX,2026-05-18,Houston Andrew,"director, officer, 10% owner",Chief Executive Officer,S,30332.0,27.5,834130.0,0.0
 DBX,2026-05-18,Moore Andrew William,director,,S,3706.0,27.2727,101072.63,4737.0
 DBX,2026-05-18,Moore Andrew William,director,,S,4737.0,27.8047,131710.86,0.0
-DBX,2026-05-18,Yoon William T,officer,Chief Legal Officer,S,3201.0,27.2826,87331.6,370992.0
-DBX,2026-05-18,Yoon William T,officer,Chief Legal Officer,S,4029.0,27.8,112006.2,366963.0
 DBX,2026-06-01,Schubach Sarah Elizabeth,officer,Chief Accounting Officer,S,1305.0,27.66,36096.3,129815.0
 DBX,2026-06-02,Alkarmi Ashraf,"director, officer",Co-CEO,S,22700.0,27.8633,632496.91,1080746.0
 DBX,2026-06-15,Schubach Sarah Elizabeth,officer,Chief Accounting Officer,S,1306.0,26.9,35131.4,128509.0
@@ -4891,6 +4991,7 @@ DBX,2026-09-10,Houston Andrew,"director, officer, 10% owner",Co-CEO,S,59368.0,35
 DBX,2026-09-10,Tennenbaum Ross,officer,Chief Financial Officer,S,97558.0,35.0172,3416208.0,690666.0
 DBX,2026-09-11,Alkarmi Ashraf,"director, officer",Co-CEO,S,28800.0,35.5366,1023454.08,1004081.0
 DBX,2026-09-15,Schubach Sarah Elizabeth,officer,Chief Accounting Officer,S,2025.0,36.78,74479.5,134834.0
+DBX,2026-09-30,Schubach Sarah Elizabeth,officer,Chief Accounting Officer,S,2025.0,32.54,65893.5,132809.0
 DC,2026-04-15,QUARTERMAIN ROBERT,"director, officer",CHIEF EXECUTIVE OFFICER,S,13448.0,5.61,75443.28,8031364.0
 DC,2026-05-18,Grafton Jennifer S,director,,S,15511.0,5.56,86241.16,144560.0
 DC,2026-05-28,KENNER TODD J,director,,P,17921.0,5.6,100357.6,17921.0
@@ -5285,7 +5386,6 @@ DELL,2026-09-11,"Silver Lake Technology Investors IV, L.P.","director, 10% owner
 DELL,2026-09-11,"Silver Lake Technology Investors IV, L.P.","director, 10% owner",,S,23.0,565.63,13009.49,46.0
 DELL,2026-09-11,"Silver Lake Technology Investors IV, L.P.","director, 10% owner",,S,15.0,566.65,8499.75,31.0
 DELL,2026-09-11,"Silver Lake Technology Investors IV, L.P.","director, 10% owner",,S,31.0,567.45,17590.95,0.0
-DELL,2026-09-11,Trizzino Peter,officer,"President, Global Sales",S,37735.0,560.16,21137637.6,69074.0
 DELL,2026-09-14,"Silver Lake Technology Investors V, L.P.","director, 10% owner",,S,46.0,530.67,24410.82,205.0
 DELL,2026-09-14,"Silver Lake Technology Investors V, L.P.","director, 10% owner",,S,68.0,531.63,36150.84,138.0
 DELL,2026-09-14,"Silver Lake Technology Investors V, L.P.","director, 10% owner",,S,26.0,532.62,13848.12,112.0
@@ -5641,11 +5741,6 @@ DFTX,2026-09-25,Barrow Robert,"director, officer",Chief Executive Officer,S,3155
 DFTX,2026-09-25,Wiley Matthew T.,officer,Chief Commercial Officer,S,3097.0,36.57,113257.29,359036.0
 DFTX,2026-09-25,Sullivan Mark,officer,Chief Legal Officer,S,14051.0,36.57,513845.07,494228.0
 DFTX,2026-09-25,Roberts Brandi,officer,Chief Financial Officer,S,3377.0,36.57,123496.89,394528.0
-DGII,2026-05-11,Schneider Terrence G.,officer,"VP, SUPPLY CHAIN",S,14182.0,65.6095,930473.93,26759.0
-DGII,2026-05-13,Sampsell David H.,officer,"VP, CORP. DEV, GC & CORP. SEC.",S,6375.507,65.11,415109.26,18364.0
-DGII,2026-05-26,Freeland James E.,officer,"VP, Chief Information Officer",S,450.0,67.9999,30599.95,19219.0591
-DGII,2026-06-02,Loch James J.,officer,"SR VP, CFO AND TREASURER",S,97637.0,69.4225,6778204.63,169951.763
-DGII,2026-06-02,Loch James J.,officer,"SR VP, CFO AND TREASURER",S,2363.0,70.3078,166137.33,167588.763
 DGXX,2026-04-08,Amar Alec,"director, officer",President,S,25700.0,2.26,58082.0,1341449.0
 DGXX,2026-05-01,Amar Alec,"director, officer",President,S,27500.0,3.56,97900.0,1368949.0
 DGXX,2026-08-19,Amar Michel,"director, officer, 10% owner",Chief Executive Officer,P,20000.0,3.6,72000.0,1699885.0
@@ -5766,6 +5861,7 @@ DOCS,2026-08-13,Sitaram Siddharth,officer,Chief Accounting Officer,S,1770.0,24.9
 DOCS,2026-08-25,Wampler Kira Scherer,director,,S,2000.0,24.95,49900.0,19839.0
 DOCS,2026-09-01,Wampler Kira Scherer,director,,S,2000.0,26.33,52660.0,27923.0
 DOCS,2026-09-15,Sitaram Siddharth,officer,Chief Accounting Officer,S,2077.0,26.02,54043.54,96045.0
+DOCS,2026-09-30,Yang Watkin Phoebe L.,director,,S,1290.0,26.71,34455.9,24744.0
 DOCU,2026-06-22,Chatwani Robert,officer,"President General Mgr, Growth",S,9222.0,42.64,393226.08,79485.0
 DOCU,2026-06-22,Chatwani Robert,officer,"President General Mgr, Growth",S,6680.0,43.52,290713.6,72805.0
 DOCU,2026-07-01,Hansen Paula,officer,Chief Revenue Officer,S,6000.0,45.54,273240.0,89972.0
@@ -5857,29 +5953,6 @@ DSP,2026-08-11,MADDEN LARRY,officer,Chief Financial Officer,S,26020.0,13.0263,33
 DSP,2026-08-11,MADDEN LARRY,officer,Chief Financial Officer,S,1431.0,13.6758,19570.07,398371.0
 DSP,2026-09-16,MADDEN LARRY,officer,Chief Financial Officer,S,17042.0,12.5152,213284.04,357313.0
 DSP,2026-09-18,MADDEN LARRY,officer,Chief Financial Officer,S,14602.0,12.1035,176735.31,342711.0
-DSX,2026-05-14,DIANA SHIPPING INC.,10% owner,,S,50000.0,24.74,1237000.0,6363151.0
-DSX,2026-05-14,DIANA SHIPPING INC.,10% owner,,S,8603.0,25.01,215161.03,6354548.0
-DSX,2026-05-15,DIANA SHIPPING INC.,10% owner,,S,50000.0,24.59,1229500.0,6304548.0
-DSX,2026-05-18,DIANA SHIPPING INC.,10% owner,,S,20000.0,24.45,489000.0,6284548.0
-DSX,2026-05-18,DIANA SHIPPING INC.,10% owner,,S,20000.0,24.49,489800.0,6264548.0
-DSX,2026-08-21,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.93,2019750.0,6189548.0
-DSX,2026-08-21,DIANA SHIPPING INC.,10% owner,,S,375000.0,26.59,9971250.0,5814548.0
-DSX,2026-08-24,DIANA SHIPPING INC.,10% owner,,S,75000.0,27.22,2041500.0,5739548.0
-DSX,2026-08-24,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.94,2020500.0,5664548.0
-DSX,2026-08-24,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.65,1998750.0,5589548.0
-DSX,2026-08-24,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.54,1990500.0,5514548.0
-DSX,2026-08-24,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.5,1987500.0,5439548.0
-DSX,2026-08-24,DIANA SHIPPING INC.,10% owner,,S,375000.0,26.74,10027500.0,5064548.0
-DSX,2026-08-25,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.62,1996500.0,4989548.0
-DSX,2026-08-25,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.52,1989000.0,4914548.0
-DSX,2026-08-25,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.5,1987500.0,4839548.0
-DSX,2026-08-25,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.51,1988250.0,4764548.0
-DSX,2026-08-25,DIANA SHIPPING INC.,10% owner,,S,348256.0,26.56,9249679.36,4416292.0
-DSX,2026-08-27,DIANA SHIPPING INC.,10% owner,,S,8427.0,26.13,220197.51,4407865.0
-DSX,2026-08-28,DIANA SHIPPING INC.,10% owner,,S,2280.0,26.0,59280.0,4405585.0
-DSX,2026-09-01,DIANA SHIPPING INC.,10% owner,,S,125000.0,26.02,3252500.0,4280585.0
-DSX,2026-09-02,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.64,1998000.0,4205585.0
-DSX,2026-09-02,DIANA SHIPPING INC.,10% owner,,S,75000.0,26.73,2004750.0,4130585.0
 DUOL,2026-05-15,Chen Stephen C.,officer,General Counsel,S,820.0,112.16,91971.2,54784.0
 DUOL,2026-05-15,Glance Natalie,officer,Chief Engineering Officer,S,1929.0,112.16,216356.64,176761.0
 DUOL,2026-05-15,Meese Robert,officer,Chief Business Officer,S,1420.0,112.16,159267.2,170745.0
@@ -6074,6 +6147,50 @@ EMBC,2026-08-12,Elguicze Jacob,officer,SVP and CFO,P,20000.0,4.668,93360.0,30913
 EMBC,2026-08-12,Mann Jeffrey Z,officer,"Pres, Pharm Svc&Prod Mgmt, CLO",P,20000.0,4.99,99800.0,262915.028
 EMBC,2026-08-12,HOMBACH ROBERT J.,director,,P,45000.0,4.9744,223848.0,109587.208
 EMBC,2026-09-04,Morris Milton Mayo,director,,S,6293.0,5.875,36971.38,53828.34
+ENR,2026-04-08,"Aqua Capital, Ltd.",10% owner,,P,14372.0,17.4683,251054.41,7019372.0
+ENR,2026-04-14,"Aqua Capital, Ltd.",10% owner,,P,1643.0,18.9,31052.7,7021015.0
+ENR,2026-04-15,"Aqua Capital, Ltd.",10% owner,,P,4200.0,18.8517,79177.14,7025215.0
+ENR,2026-05-20,"Aqua Capital, Ltd.",10% owner,,P,81609.0,16.1774,1320221.44,7106824.0
+ENR,2026-05-21,"Aqua Capital, Ltd.",10% owner,,P,43380.0,16.8123,729317.57,7150204.0
+ENR,2026-05-22,"Aqua Capital, Ltd.",10% owner,,P,11790.0,17.9029,211075.19,7161994.0
+ENR,2026-06-01,"Aqua Capital, Ltd.",10% owner,,P,38006.0,18.2085,692032.25,7200000.0
+ENR,2026-06-03,"Aqua Capital, Ltd.",10% owner,,P,35686.0,18.4427,658146.19,7235686.0
+ENR,2026-06-17,"Aqua Capital, Ltd.",10% owner,,P,14000.0,19.9979,279970.6,7249686.0
+ENR,2026-06-17,"Aqua Capital, Ltd.",10% owner,,P,10314.0,20.217,208518.14,7260000.0
+ENR,2026-06-18,"Aqua Capital, Ltd.",10% owner,,P,20000.0,21.541,430820.0,7280000.0
+ENR,2026-06-18,"Aqua Capital, Ltd.",10% owner,,P,20000.0,21.5351,430702.0,7300000.0
+ENR,2026-06-22,"Aqua Capital, Ltd.",10% owner,,P,20000.0,21.101,422020.0,7320000.0
+ENR,2026-06-22,"Aqua Capital, Ltd.",10% owner,,P,20000.0,21.0906,421812.0,7340000.0
+ENR,2026-07-07,"Aqua Capital, Ltd.",10% owner,,P,40000.0,20.8098,832392.0,7380000.0
+ENR,2026-07-08,"Aqua Capital, Ltd.",10% owner,,P,40000.0,20.2458,809832.0,7420000.0
+ENR,2026-07-09,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.3435,406870.0,7440000.0
+ENR,2026-07-10,"Aqua Capital, Ltd.",10% owner,,P,40000.0,20.6675,826700.0,7480000.0
+ENR,2026-07-13,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.1823,403646.0,7500000.0
+ENR,2026-07-13,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.2495,404990.0,7520000.0
+ENR,2026-07-14,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.1261,402522.0,7540000.0
+ENR,2026-07-14,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.0672,401344.0,7560000.0
+ENR,2026-07-14,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.4165,408330.0,7580000.0
+ENR,2026-07-15,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.5373,410746.0,7600000.0
+ENR,2026-07-15,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.6426,412852.0,7620000.0
+ENR,2026-07-16,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.8505,417010.0,7640000.0
+ENR,2026-07-16,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.8574,417148.0,7660000.0
+ENR,2026-07-17,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.5084,410168.0,7680000.0
+ENR,2026-07-17,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.4606,409212.0,7700000.0
+ENR,2026-07-20,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.0876,401752.0,7720000.0
+ENR,2026-07-20,"Aqua Capital, Ltd.",10% owner,,P,20000.0,19.9389,398778.0,7740000.0
+ENR,2026-07-20,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.047,400940.0,7760000.0
+ENR,2026-07-21,"Aqua Capital, Ltd.",10% owner,,P,20000.0,19.7719,395438.0,7780000.0
+ENR,2026-07-21,"Aqua Capital, Ltd.",10% owner,,P,20000.0,19.8431,396862.0,7800000.0
+ENR,2026-07-21,"Aqua Capital, Ltd.",10% owner,,P,20000.0,19.6689,393378.0,7820000.0
+ENR,2026-07-22,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.6214,412428.0,7840000.0
+ENR,2026-07-22,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.9558,419116.0,7860000.0
+ENR,2026-07-22,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.6709,413418.0,7880000.0
+ENR,2026-07-23,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.084,401680.0,7900000.0
+ENR,2026-07-23,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.3675,407350.0,7920000.0
+ENR,2026-07-23,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.2942,405884.0,7940000.0
+ENR,2026-07-24,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.9326,418652.0,7960000.0
+ENR,2026-07-24,"Aqua Capital, Ltd.",10% owner,,P,20000.0,21.0866,421732.0,7980000.0
+ENR,2026-07-24,"Aqua Capital, Ltd.",10% owner,,P,20000.0,20.9348,418696.0,8000000.0
 ENTG,2026-04-07,Blachier Olivier,officer,"SVP, Chief Strategy Officer",S,275.0,115.57,31781.75,34896.95
 ENTG,2026-04-07,Colella Joseph,officer,SVP and General Counsel,S,1592.0,115.57,183987.44,50121.45
 ENTG,2026-04-14,LOY BERTRAND,"director, officer",Executive Chair,S,17396.0,140.22,2439267.12,227527.0
@@ -6117,6 +6234,122 @@ EQPT,2026-09-02,Schlacks William J.,"director, officer",Founder & President,P,10
 EQPT,2026-09-02,Schlacks Jabbok,"director, officer",Founder & CEO,P,10000.0,17.69,176900.0,100000.0
 EQPT,2026-09-14,Schlacks Jabbok,"director, officer",Founder & CEO,P,2100.0,18.0,37800.0,102100.0
 EQPT,2026-09-15,Schlacks Jabbok,"director, officer",Founder & CEO,P,22900.0,17.76,406704.0,125000.0
+ESP,2026-05-15,CORR PAUL J,director,,S,8.0,68.15,545.2,20724.0
+ESP,2026-05-15,CORR PAUL J,director,,S,78.0,67.47,5262.66,20646.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,67.195,6719.5,20546.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,66.59,6659.0,20446.0
+ESP,2026-05-15,CORR PAUL J,director,,S,7.0,66.1,462.7,20439.0
+ESP,2026-05-15,CORR PAUL J,director,,S,5.0,68.01,340.05,22984.0
+ESP,2026-05-15,CORR PAUL J,director,,S,76.0,65.8,5000.8,22908.0
+ESP,2026-05-15,CORR PAUL J,director,,S,84.0,66.63,5596.92,22824.0
+ESP,2026-05-15,CORR PAUL J,director,,S,141.0,65.6,9249.6,22683.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,65.94,6594.0,22583.0
+ESP,2026-05-15,CORR PAUL J,director,,S,26.0,67.48,1754.48,22557.0
+ESP,2026-05-15,CORR PAUL J,director,,S,90.0,66.66,5999.4,22467.0
+ESP,2026-05-15,CORR PAUL J,director,,S,8.0,65.81,526.48,22459.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,65.95,6595.0,22359.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,66.57,6657.0,22259.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,66.675,6667.5,22159.0
+ESP,2026-05-15,CORR PAUL J,director,,S,46.0,66.67,3066.82,22113.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,66.36,6636.0,22013.0
+ESP,2026-05-15,CORR PAUL J,director,,S,1.0,68.2,68.2,22012.0
+ESP,2026-05-15,CORR PAUL J,director,,S,1.0,66.04,66.04,22011.0
+ESP,2026-05-15,CORR PAUL J,director,,S,69.0,67.15,4633.35,21942.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,65.42,6542.0,21842.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,65.565,6556.5,21742.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,66.23,6623.0,21642.0
+ESP,2026-05-15,CORR PAUL J,director,,S,29.0,66.64,1932.56,21613.0
+ESP,2026-05-15,CORR PAUL J,director,,S,15.0,67.16,1007.4,21598.0
+ESP,2026-05-15,CORR PAUL J,director,,S,300.0,66.57,19971.0,21298.0
+ESP,2026-05-15,CORR PAUL J,director,,S,96.0,66.65,6398.4,21202.0
+ESP,2026-05-15,CORR PAUL J,director,,S,15.0,66.09,991.35,21187.0
+ESP,2026-05-15,CORR PAUL J,director,,S,99.0,65.9,6524.1,21088.0
+ESP,2026-05-15,CORR PAUL J,director,,S,57.0,66.56,3793.92,21031.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,66.37,6637.0,20931.0
+ESP,2026-05-15,CORR PAUL J,director,,S,100.0,66.15,6615.0,20831.0
+ESP,2026-05-15,CORR PAUL J,director,,S,99.0,65.91,6525.09,20732.0
+ESP,2026-06-22,Pickering Jennifer Michele,officer,CHRO & Corporate Secretary,S,2500.0,63.0,157500.0,0.0
+ESP,2026-06-22,ONEIL DAVID A,"director, officer",President & CEO,S,2500.0,67.71,169275.0,13750.0
+ESP,2026-06-23,CORR PAUL J,director,,S,12.0,65.08,780.96,22977.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,65.3,6530.0,22877.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,65.425,6542.5,22777.0
+ESP,2026-06-23,CORR PAUL J,director,,S,200.0,65.515,13103.0,22577.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,65.59,6559.0,22477.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,65.635,6563.5,22377.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,65.685,6568.5,22277.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,65.74,6574.0,22177.0
+ESP,2026-06-23,CORR PAUL J,director,,S,200.0,65.8,13160.0,21977.0
+ESP,2026-06-23,CORR PAUL J,director,,S,150.0,65.84,9876.0,21827.0
+ESP,2026-06-23,CORR PAUL J,director,,S,104.0,65.94,6857.76,21723.0
+ESP,2026-06-23,CORR PAUL J,director,,S,200.0,65.985,13197.0,21523.0
+ESP,2026-06-23,CORR PAUL J,director,,S,200.0,65.99,13198.0,21323.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,66.005,6600.5,21223.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,66.03,6603.0,21123.0
+ESP,2026-06-23,CORR PAUL J,director,,S,17.0,66.12,1124.04,21106.0
+ESP,2026-06-23,CORR PAUL J,director,,S,11.0,66.16,727.76,21095.0
+ESP,2026-06-23,CORR PAUL J,director,,S,200.0,66.175,13235.0,20895.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,66.18,6618.0,20795.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,66.195,6619.5,20695.0
+ESP,2026-06-23,CORR PAUL J,director,,S,12.0,66.23,794.76,20683.0
+ESP,2026-06-23,CORR PAUL J,director,,S,12.0,66.285,795.42,20671.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,66.305,6630.5,20571.0
+ESP,2026-06-23,CORR PAUL J,director,,S,32.0,66.385,2124.32,20539.0
+ESP,2026-06-23,CORR PAUL J,director,,S,100.0,66.4,6640.0,20439.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,2.0,63.28,126.56,24167.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,5.0,63.16,315.8,24162.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,5.0,63.25,316.25,24157.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,5.0,63.28,316.4,24152.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,5.0,63.93,319.65,24147.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,5.0,63.97,319.85,24142.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,5.0,63.98,319.9,24137.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,10.0,63.93,639.3,24127.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,10.0,63.96,639.6,24117.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,15.0,63.96,959.4,24102.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,20.0,63.95,1279.0,24082.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,22.0,63.43,1395.46,24060.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,25.0,63.45,1586.25,24035.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,25.0,63.92,1598.0,24010.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,35.0,63.15,2210.25,29975.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,35.0,63.94,2237.9,23940.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,65.0,63.91,4154.15,23875.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,85.0,63.92,5433.2,23790.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,95.0,63.39,6022.05,23695.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,105.0,63.96,6715.8,23590.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,110.0,63.13,6944.3,23480.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,130.0,63.91,8308.3,23350.0
+ESP,2026-06-24,HELMETAG CARL,director,,S,181.0,63.56,11504.36,23169.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,64.49,6449.0,20550.0
+ESP,2026-09-25,CORR PAUL J,director,,S,11.0,63.51,698.61,20539.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,63.97,6397.0,20439.0
+ESP,2026-09-25,CORR PAUL J,director,,S,90.0,66.14,5952.6,22649.0
+ESP,2026-09-25,CORR PAUL J,director,,S,10.0,66.13,661.3,22639.0
+ESP,2026-09-25,CORR PAUL J,director,,S,166.0,66.39,11020.74,22473.0
+ESP,2026-09-25,CORR PAUL J,director,,S,39.0,66.26,2584.14,22434.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,66.2,6620.0,22334.0
+ESP,2026-09-25,CORR PAUL J,director,,S,200.0,66.27,13254.0,22134.0
+ESP,2026-09-25,CORR PAUL J,director,,S,10.0,66.28,662.8,22124.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,66.62,6662.0,22024.0
+ESP,2026-09-25,CORR PAUL J,director,,S,78.0,66.77,5208.06,21946.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,66.79,6679.0,21846.0
+ESP,2026-09-25,CORR PAUL J,director,,S,52.0,66.78,3472.56,21794.0
+ESP,2026-09-25,CORR PAUL J,director,,S,31.0,65.61,2033.91,21763.0
+ESP,2026-09-25,CORR PAUL J,director,,S,189.0,65.6,12398.4,21574.0
+ESP,2026-09-25,CORR PAUL J,director,,S,21.0,65.61,1377.81,21553.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,65.27,6527.0,21453.0
+ESP,2026-09-25,CORR PAUL J,director,,S,80.0,65.59,5247.2,21373.0
+ESP,2026-09-25,CORR PAUL J,director,,S,3.0,65.6,196.8,21370.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,65.25,6525.0,21270.0
+ESP,2026-09-25,CORR PAUL J,director,,S,6.0,65.02,390.12,21264.0
+ESP,2026-09-25,CORR PAUL J,director,,S,74.0,64.99,4809.26,21190.0
+ESP,2026-09-25,CORR PAUL J,director,,S,59.0,65.0,3835.0,21131.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,64.26,6426.0,21031.0
+ESP,2026-09-25,CORR PAUL J,director,,S,84.0,64.75,5439.0,20947.0
+ESP,2026-09-25,CORR PAUL J,director,,S,43.0,64.71,2782.53,20904.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,64.55,6455.0,20804.0
+ESP,2026-09-25,CORR PAUL J,director,,S,45.0,65.1,2929.5,20759.0
+ESP,2026-09-25,CORR PAUL J,director,,S,5.0,64.5,322.5,20754.0
+ESP,2026-09-25,CORR PAUL J,director,,S,4.0,64.49,257.96,20750.0
+ESP,2026-09-25,CORR PAUL J,director,,S,100.0,64.48,6448.0,20650.0
 ESTC,2026-06-09,Kulkarni Ashutosh,"director, officer",Chief Executive Officer,S,40373.0,60.61,2447007.53,628752.0
 ESTC,2026-06-09,Welihinda Navam,officer,Chief Financial Officer,S,12961.0,60.61,785566.21,209254.0
 ESTC,2026-06-09,Exner Ken,officer,Chief Product Officer,S,18449.0,60.61,1118193.89,360037.0
@@ -6262,15 +6495,6 @@ FDMT,2026-09-14,Kirn David,"director, officer",See Remarks,S,58333.0,13.903,8110
 FDMT,2026-09-16,Bizily Scott,officer,Chief Legal Officer,S,1635.0,13.65,22317.75,8617.0
 FEIM,2026-07-28,"Edenbrook Capital, LLC","director, 10% owner",,S,97826.0,57.5,5624995.0,173678.0
 FEIM,2026-07-28,"Edenbrook Capital, LLC","director, 10% owner",,S,554348.0,57.5,31875010.0,1047958.0
-FENC,2026-05-01,Raykov Rosty,director,,S,10781.0,6.47,69753.07,121451.0
-FENC,2026-05-11,RALLIS CHRIS A,director,,S,8346.0,7.04,58755.84,63077.0
-FENC,2026-06-01,Raykov Rosty,director,,S,9747.0,9.62,93766.14,130079.0
-FENC,2026-07-01,Raykov Rosty,,,S,9599.0,10.41,99925.59,138855.0
-FENC,2026-08-03,Raykov Rosty,,,S,10000.0,9.58,95800.0,131633.0
-FENC,2026-08-27,Andrade Robert,officer,CHIEF FINANCIAL OFFICER,S,75000.0,11.78,883500.0,217675.0
-FENC,2026-08-31,Sayad Pierre Sargis,officer,Chief Medical Officer,S,12000.0,12.18,146160.0,9519.0
-FENC,2026-09-01,Raykov Rosty,,,S,10000.0,12.11,121100.0,124411.0
-FENC,2026-09-15,Brughera Marco Maria,director,,S,15545.0,10.29,159958.05,0.0
 FET,2026-05-13,Danford Michael Dewayne,officer,SVP & CHO,S,3000.0,55.49,166470.0,54139.0
 FET,2026-08-03,IVASCU JOHN C,officer,"EVP, General Counsel & CCO",S,3598.0,70.41,253335.18,86914.0
 FET,2026-08-03,IVASCU JOHN C,officer,"EVP, General Counsel & CCO",S,1402.0,71.21,99836.42,85512.0
@@ -6744,6 +6968,76 @@ FROG,2026-09-08,Shlomi Ben Haim,"director, officer",CHIEF EXECUTIVE OFFICER,S,18
 FROG,2026-09-08,Notman Tali,officer,CHIEF REVENUE OFFICER,S,17949.0,86.94,1560486.06,669523.0
 FROG,2026-09-08,Notman Tali,officer,CHIEF REVENUE OFFICER,S,845.0,87.78,74174.1,668678.0
 FROG,2026-09-14,ZWARENSTEIN BARRY,director,,S,1250.0,88.38,110475.0,30437.0
+FRPT,2026-05-08,GEORGE WALTER N.,director,,P,2000.0,54.67,109340.0,50746.0
+FRPT,2026-05-11,Cyr William B.,"director, officer",Chief Executive Officer,S,22290.0,49.97,1113831.3,145936.0
+FRPT,2026-05-11,Cyr William B.,"director, officer",Chief Executive Officer,S,17622.0,50.96,898017.12,128314.0
+FRPT,2026-05-11,Cyr William B.,"director, officer",Chief Executive Officer,S,744.0,51.74,38494.56,127570.0
+FRPT,2026-05-11,Cyr William B.,"director, officer",Chief Executive Officer,S,1672.0,52.79,88264.88,125898.0
+FRPT,2026-05-11,Cyr William B.,"director, officer",Chief Executive Officer,S,892.0,52.725,47030.7,7228.0
+FRPT,2026-05-11,Cyr William B.,"director, officer",Chief Executive Officer,S,1742.0,52.72,91838.24,24788.0
+FRPT,2026-05-11,Cyr William B.,"director, officer",Chief Executive Officer,S,1540.0,52.725,81196.5,24441.0
+FRPT,2026-05-13,Cyr William B.,"director, officer",Chief Executive Officer,S,31178.0,48.51,1512444.78,157089.0
+FRPT,2026-05-13,Cyr William B.,"director, officer",Chief Executive Officer,S,7433.0,49.26,366149.58,149656.0
+FRPT,2026-05-13,Cyr William B.,"director, officer",Chief Executive Officer,S,3691.0,50.32,185731.12,145965.0
+FRPT,2026-05-13,Cyr William B.,"director, officer",Chief Executive Officer,S,195.0,51.07,9958.65,145770.0
+FRPT,2026-05-13,Cyr William B.,"director, officer",Chief Executive Officer,S,923.0,50.63,46731.49,10925.0
+FRPT,2026-05-13,Cyr William B.,"director, officer",Chief Executive Officer,S,1804.0,50.63,91336.52,32014.0
+FRPT,2026-05-13,Cyr William B.,"director, officer",Chief Executive Officer,S,1594.0,50.63,80704.22,30828.0
+FRPT,2026-05-15,Cyr William B.,"director, officer",Chief Executive Officer,S,6104.0,48.44,295677.76,202035.0
+FRPT,2026-05-15,Cyr William B.,"director, officer",Chief Executive Officer,S,36289.0,49.46,1794853.94,165746.0
+FRPT,2026-05-15,Cyr William B.,"director, officer",Chief Executive Officer,S,300.0,49.85,14955.0,165446.0
+FRPT,2026-05-15,Cyr William B.,"director, officer",Chief Executive Officer,S,959.0,49.09,47077.31,14586.0
+FRPT,2026-05-15,Cyr William B.,"director, officer",Chief Executive Officer,S,1874.0,49.09,91994.66,39170.0
+FRPT,2026-05-15,Cyr William B.,"director, officer",Chief Executive Officer,S,1657.0,49.09,81342.13,37152.0
+FRPT,2026-05-18,MCLEVISH TIMOTHY R,director,,P,3000.0,48.67,146010.0,39879.0
+FRPT,2026-05-18,Biegger David,director,,P,690.0,48.5,33465.0,8178.0
+FRPT,2026-05-18,Biegger David,director,,P,172.0,50.06,8610.32,8350.0
+FRPT,2026-05-18,Biegger David,director,,P,138.0,51.21,7066.98,8488.0
+FRPT,2026-05-18,Kelley Jacki Sue,director,,P,1000.0,48.05,48050.0,14496.0
+FRPT,2026-05-18,Cyr William B.,"director, officer",Chief Executive Officer,S,32344.0,48.46,1567390.24,195471.0
+FRPT,2026-05-18,Cyr William B.,"director, officer",Chief Executive Officer,S,1526.0,49.09,74911.34,193945.0
+FRPT,2026-05-18,Cyr William B.,"director, officer",Chief Executive Officer,S,7513.0,50.36,378354.68,186432.0
+FRPT,2026-05-18,Cyr William B.,"director, officer",Chief Executive Officer,S,1309.0,51.32,67177.88,185123.0
+FRPT,2026-05-18,Cyr William B.,"director, officer",Chief Executive Officer,S,959.0,50.04,47988.36,18247.0
+FRPT,2026-05-18,Cyr William B.,"director, officer",Chief Executive Officer,S,1874.0,50.04,93774.96,46326.0
+FRPT,2026-05-18,Cyr William B.,"director, officer",Chief Executive Officer,S,1656.0,50.04,82866.24,43477.0
+FRPT,2026-05-20,Cyr William B.,"director, officer",Chief Executive Officer,S,42907.0,47.92,2056103.44,204585.0
+FRPT,2026-05-20,Cyr William B.,"director, officer",Chief Executive Officer,S,999.0,47.52,47472.48,21868.0
+FRPT,2026-05-20,Cyr William B.,"director, officer",Chief Executive Officer,S,1951.0,47.52,92711.52,53405.0
+FRPT,2026-05-20,Cyr William B.,"director, officer",Chief Executive Officer,S,1725.0,47.52,81972.0,49733.0
+FRPT,2026-05-20,BREWSTER DARYL G,director,,P,211.0,47.52,10026.72,59545.0
+FRPT,2026-05-20,Steeneck Craig D.,director,,P,2000.0,47.83,95660.0,37500.0
+FRPT,2026-05-22,Cyr William B.,"director, officer",Chief Executive Officer,S,13215.0,50.51,667489.65,253739.0
+FRPT,2026-05-22,Cyr William B.,"director, officer",Chief Executive Officer,S,29280.0,51.26,1500892.8,224459.0
+FRPT,2026-05-22,Cyr William B.,"director, officer",Chief Executive Officer,S,923.0,51.18,47239.14,25565.0
+FRPT,2026-05-22,Cyr William B.,"director, officer",Chief Executive Officer,S,1803.0,51.18,92277.54,60632.0
+FRPT,2026-05-22,Cyr William B.,"director, officer",Chief Executive Officer,S,1593.0,51.18,81529.74,56121.0
+FRPT,2026-08-14,Cyr William B.,"director, officer",Chief Executive Officer,S,41023.0,72.91,2990986.93,245805.0
+FRPT,2026-08-14,Cyr William B.,"director, officer",Chief Executive Officer,S,651.0,72.82,47405.82,29534.0
+FRPT,2026-08-14,Cyr William B.,"director, officer",Chief Executive Officer,S,1271.0,72.82,92554.22,68391.0
+FRPT,2026-08-14,Cyr William B.,"director, officer",Chief Executive Officer,S,1124.0,72.82,81849.68,62978.0
+FRPT,2026-08-17,Cyr William B.,"director, officer",Chief Executive Officer,S,41022.0,72.86,2988862.92,267152.0
+FRPT,2026-08-17,Cyr William B.,"director, officer",Chief Executive Officer,S,651.0,72.41,47138.91,33503.0
+FRPT,2026-08-17,Cyr William B.,"director, officer",Chief Executive Officer,S,1271.0,72.41,92033.11,76150.0
+FRPT,2026-08-17,Cyr William B.,"director, officer",Chief Executive Officer,S,1123.0,72.41,81316.43,69836.0
+FRPT,2026-08-19,Cyr William B.,"director, officer",Chief Executive Officer,S,41028.0,74.8,3068894.4,288493.0
+FRPT,2026-08-19,Cyr William B.,"director, officer",Chief Executive Officer,S,652.0,73.58,47974.16,37471.0
+FRPT,2026-08-19,Cyr William B.,"director, officer",Chief Executive Officer,S,1273.0,73.58,93667.34,83907.0
+FRPT,2026-08-19,Cyr William B.,"director, officer",Chief Executive Officer,S,1125.0,73.58,82777.5,76692.0
+FRPT,2026-08-21,Cyr William B.,"director, officer",Chief Executive Officer,S,40957.0,73.87,3025493.59,309905.0
+FRPT,2026-08-21,Cyr William B.,"director, officer",Chief Executive Officer,S,639.0,74.34,47503.26,41452.0
+FRPT,2026-08-21,Cyr William B.,"director, officer",Chief Executive Officer,S,1247.0,74.34,92701.98,91690.0
+FRPT,2026-08-21,Cyr William B.,"director, officer",Chief Executive Officer,S,1102.0,74.34,81922.68,83571.0
+FRPT,2026-08-24,Cyr William B.,"director, officer",Chief Executive Officer,S,40398.0,76.01,3070651.98,331876.0
+FRPT,2026-08-24,Cyr William B.,"director, officer",Chief Executive Officer,S,567.0,74.03,41975.01,331309.0
+FRPT,2026-08-24,Cyr William B.,"director, officer",Chief Executive Officer,S,640.0,74.03,47379.2,45432.0
+FRPT,2026-08-24,Cyr William B.,"director, officer",Chief Executive Officer,S,1250.0,74.03,92537.5,99470.0
+FRPT,2026-08-24,Cyr William B.,"director, officer",Chief Executive Officer,S,1105.0,74.03,81803.15,90447.0
+FRPT,2026-08-26,Cyr William B.,"director, officer",Chief Executive Officer,S,37007.0,74.67,2763312.69,350744.0
+FRPT,2026-08-26,Cyr William B.,"director, officer",Chief Executive Officer,S,568.0,75.4,42827.2,49044.0
+FRPT,2026-08-26,Cyr William B.,"director, officer",Chief Executive Officer,S,1110.0,75.4,83694.0,106530.0
+FRPT,2026-08-26,Cyr William B.,"director, officer",Chief Executive Officer,S,979.0,75.4,73816.6,96677.0
+FRPT,2026-09-14,GEORGE WALTER N.,director,,P,1000.0,64.92,64920.0,51746.0
 FRSH,2026-06-17,Lawrence Philippa,officer,Chief Accounting Officer,S,10530.0,9.18,96665.4,465823.0
 FRSH,2026-07-01,PADGETT BARRY L.,director,,S,6618.0,10.49,69422.82,47270.0
 FRSH,2026-07-02,Taylor Jennifer H,director,,S,6618.0,10.44,69091.92,62673.0
@@ -6972,6 +7266,9 @@ GCT,2026-09-21,Bernes Marshall,"director, officer",Head of Brand Center,S,12000.
 GCT,2026-09-22,Bernes Marshall,"director, officer",Head of Brand Center,S,15703.0,53.5849,841443.68,25447.0
 GCT,2026-09-24,Bernes Marshall,"director, officer",Head of Brand Center,S,4497.0,53.5838,240966.35,20950.0
 GCT,2026-09-25,Bernes Marshall,"director, officer",Head of Brand Center,S,13800.0,54.3069,749435.22,7150.0
+GDC,2026-06-24,HRT FINANCIAL LP,10% owner,,P,6110481.0,0.021,128320.1,6898144.0
+GDC,2026-06-25,HRT FINANCIAL LP,10% owner,,S,604011.0,0.014,8456.15,6444133.0
+GDC,2026-06-26,HRT FINANCIAL LP,10% owner,,S,3135097.0,0.011,34486.07,3309036.0
 GDDY,2026-04-02,Sine Jared F.,officer,Chief Strategy & Legal Officer,S,7793.0,80.71,628973.03,77816.0
 GDDY,2026-05-18,Sine Jared F.,officer,Chief Strategy & Legal Officer,S,13.0,89.15,1158.95,77803.0
 GDDY,2026-05-18,Palitwanon Phontip,officer,Chief Accounting Officer,S,12.0,89.15,1069.8,20537.0
@@ -6996,6 +7293,12 @@ GDDY,2026-09-02,Palitwanon Phontip,officer,Chief Accounting Officer,S,530.0,101.
 GDDY,2026-09-02,McCaffrey Mark,officer,Chief Financial Officer,S,2000.0,100.37,200740.0,103728.0
 GDDY,2026-09-02,McCaffrey Mark,officer,Chief Financial Officer,S,3873.0,101.19,391908.87,99855.0
 GDDY,2026-09-02,Bhutani Amanpal Singh,"director, officer",Chief Executive Officer,S,8194.0,101.19,829150.86,504553.0
+GDYN,2026-05-15,Gryzlov Yury,officer,CHIEF OPERATING OFFICER,S,467.0,6.45,3012.15,519383.0
+GDYN,2026-06-01,Gryzlov Yury,officer,CHIEF OPERATING OFFICER,S,4435.0,8.0,35480.0,514948.0
+GDYN,2026-07-02,Gryzlov Yury,officer,CHIEF OPERATING OFFICER,S,1245.0,6.29,7831.05,512017.0
+GDYN,2026-08-13,Gryzlov Yury,officer,CHIEF OPERATING OFFICER,S,3930.0,8.0,31440.0,508087.0
+GDYN,2026-08-18,Gryzlov Yury,officer,CHIEF OPERATING OFFICER,S,467.0,7.53,3516.51,506988.0
+GDYN,2026-09-03,Gryzlov Yury,officer,CHIEF OPERATING OFFICER,S,3918.0,8.0,31344.0,503070.0
 GEMI,2026-05-20,Stojanovic Danijela,officer,Interim CFO,S,11700.0,5.05,59085.0,181848.0
 GEMI,2026-07-02,Stojanovic Danijela,officer,Interim CFO,S,8438.0,4.44,37464.72,195863.0
 GEMI,2026-08-20,Stojanovic Danijela,officer,Interim CFO,S,7940.0,4.05,32157.0,187923.0
@@ -7003,17 +7306,6 @@ GEO,2026-08-13,Koren Lindsay L.,director,,S,3500.0,31.305,109567.5,14674.5
 GEO,2026-08-20,Albence Matthew,officer,"Senior VP, Client Relations",S,10000.0,31.686,316860.0,99398.549
 GEO,2026-08-21,Brack Ronald A.,officer,See Remarks,S,7000.0,32.0,224000.0,71614.0
 GEO,2026-09-11,Albence Matthew,officer,"Senior VP, Client Relations",S,11797.0,31.455,371074.63,87601.549
-GH,2026-06-10,Kalia Kumud,officer,Chief Information Officer,S,600.0,130.86,78516.0,40814.0
-GH,2026-06-15,Kalia Kumud,officer,Chief Information Officer,P,600.0,130.76,78456.0,41414.0
-GH,2026-06-15,Kalia Kumud,officer,Chief Information Officer,S,600.0,131.08,78648.0,40814.0
-GH,2026-06-22,Tariq Musa,director,,S,1951.0,131.16,255893.16,11048.0
-GH,2026-06-22,POTTER MYRTLE S,director,,S,1556.0,131.16,204084.96,20971.0
-GH,2026-06-26,Talasaz AmirAli,"director, officer",Co-Chief Executive Officer,S,64037.0,150.4886,9636838.48,1934271.0
-GH,2026-06-26,Talasaz AmirAli,"director, officer",Co-Chief Executive Officer,S,52935.0,151.1595,8001628.13,1881336.0
-GH,2026-06-29,Talasaz AmirAli,"director, officer",Co-Chief Executive Officer,S,25812.0,150.5282,3885433.9,1998552.0
-GH,2026-06-29,Talasaz AmirAli,"director, officer",Co-Chief Executive Officer,S,70513.0,151.4659,10680315.01,1928039.0
-GH,2026-06-29,Talasaz AmirAli,"director, officer",Co-Chief Executive Officer,S,46663.0,152.2045,7102318.58,1881376.0
-GH,2026-06-29,Talasaz AmirAli,"director, officer",Co-Chief Executive Officer,S,40.0,153.0,6120.0,1881336.0
 GH,2026-07-16,Tariq Musa,director,,S,116.0,163.29,18941.64,11182.0
 GH,2026-08-04,CLARK IAN T,director,,S,9088.0,158.9816,1444824.78,8067.0
 GH,2026-08-04,CLARK IAN T,director,,S,5092.0,158.8032,808625.89,2975.0
@@ -7123,10 +7415,6 @@ GLND,2026-05-21,SWETS LARRY G JR,director,,P,20000.0,2.6576,53152.0,545000.0
 GLND,2026-06-02,SWETS LARRY G JR,director,,P,15000.0,3.047,45705.0,560000.0
 GLND,2026-06-08,SWETS LARRY G JR,director,,P,10000.0,2.7699,27699.0,570000.0
 GLND,2026-06-25,SWETS LARRY G JR,director,,P,15000.0,2.5572,38358.0,585000.0
-GLOB,2026-05-27,Aguzin Alejandro Nicolas,director,,P,25000.0,38.8735,971837.5,48158.0
-GLOB,2026-08-28,Tartara Diego,officer,Chief Technology Officer,S,6000.0,40.453,242718.0,72320.0
-GLOB,2026-08-28,Weigert Wanda,officer,Chief Brand Officer,S,6000.0,40.453,242718.0,64046.0
-GLOB,2026-09-03,Matzkin Fernando,officer,Chief Revenue Officer,S,2500.0,40.0,100000.0,71608.0
 GLOO,2026-04-16,GELSINGER PATRICK P,"director, officer",See Remarks,P,36653.0,7.22,264634.66,161653.0
 GLOO,2026-04-16,Beck Scott Arthur,"director, officer, 10% owner",President and CEO,P,27386.0,7.23,198000.78,439886.0
 GLOO,2026-04-17,Beck Scott Arthur,"director, officer, 10% owner",President and CEO,P,3700.0,7.97,29489.0,443586.0
@@ -7197,6 +7485,11 @@ GLOO,2026-09-11,GELSINGER PATRICK P,"director, officer",See Remarks,P,50000.0,3.
 GLOO,2026-09-14,THRIVENT FINANCIAL FOR LUTHERANS,10% owner,,S,16000.0,3.5505,56808.0,4023000.0
 GLOO,2026-09-14,GELSINGER PATRICK P,"director, officer",See Remarks,P,25000.0,3.4493,86232.5,390499.0
 GLOO,2026-09-15,THRIVENT FINANCIAL FOR LUTHERANS,10% owner,,S,5000.0,3.3429,16714.5,4018000.0
+GLSI,2026-07-23,Patel Snehal,"director, officer, 10% owner",CEO and CFO,P,2500.0,13.14,32850.0,5606602.0
+GLSI,2026-07-24,Patel Snehal,"director, officer, 10% owner",CEO and CFO,P,1100.0,12.88,14168.0,5607702.0
+GLSI,2026-07-27,Patel Snehal,"director, officer, 10% owner",CEO and CFO,P,1500.0,13.62,20430.0,5609202.0
+GLSI,2026-07-28,Patel Snehal,"director, officer, 10% owner",CEO and CFO,P,1500.0,13.59,20385.0,5610702.0
+GLSI,2026-07-29,Patel Snehal,"director, officer, 10% owner",CEO and CFO,P,700.0,13.1,9170.0,5611402.0
 GLW,2026-05-06,Zhang John Z,officer,Exec. Vice President & CCDO,S,15000.0,184.6656,2769984.0,15138.0
 GLW,2026-05-07,Schlesinger Edward A,officer,Exec. Vice President and CFO,S,22562.0,186.076,4198246.71,65264.0
 GLW,2026-05-08,STEVERSON LEWIS A,officer,"Vice Chairman, EVP and CLAO",S,27750.0,196.0574,5440592.85,28152.0
@@ -7233,6 +7526,8 @@ GME,2026-09-21,Attal Alain,director,,P,17500.0,22.969,401957.5,618964.0
 GME,2026-09-21,Cohen Ryan,"director, officer","President, CEO and Chairman",P,1150680.0,22.9375,26393722.5,40498522.0
 GME,2026-09-29,Cohen Ryan,"director, officer","President, CEO and Chairman",P,446500.0,23.4753,10481721.45,40945022.0
 GME,2026-09-29,Cohen Ryan,"director, officer","President, CEO and Chairman",P,3500.0,23.4499,82074.65,40948522.0
+GME,2026-10-01,Turner Nat,director,,P,10462.0,24.33,254540.46,10462.0
+GME,2026-10-02,Cohen Ryan,"director, officer","President, CEO and Chairman",P,700000.0,24.4061,17084270.0,41648522.0
 GMEX,2026-04-24,HRT FINANCIAL LP,10% owner,,P,133500.0,0.568,75828.0,204781.0
 GMEX,2026-04-27,HRT FINANCIAL LP,10% owner,,P,49136.0,0.412,20244.03,253917.0
 GMEX,2026-04-28,HRT FINANCIAL LP,10% owner,,P,135198.0,0.353,47724.89,389115.0
@@ -7267,6 +7562,7 @@ GNRC,2026-09-08,Taffe Norman P,officer,President Generac Home,S,100.0,190.0,1900
 GNRC,2026-09-17,Taffe Norman P,officer,President Generac Home,S,150.0,229.5,34425.0,11276.0
 GNRC,2026-09-17,Raabe Kyle Andrew,officer,"President, Home Power Gen.",S,390.0,229.5,89505.0,10356.0
 GNRC,2026-09-17,Raabe Kyle Andrew,officer,"President, Home Power Gen.",S,213.0,229.5,48883.5,10356.0
+GNRC,2026-10-01,Jagdfeld Aaron,"director, officer",Chief Executive Officer,S,5000.0,206.0,1030000.0,544528.0
 GO,2026-06-18,Miller Paul Blaine,officer,See Remarks,P,10000.0,9.37,93700.0,59171.0
 GO,2026-06-25,Miller Paul Blaine,officer,See Remarks,P,5000.0,9.5,47500.0,64171.0
 GO,2026-08-20,Miller Paul Blaine,officer,See Remarks,P,8000.0,10.9,87200.0,72171.0
@@ -7342,11 +7638,23 @@ GRND,2026-08-31,Balance Austin J,officer,Chief Product Officer,S,89638.0,15.46,1
 GRND,2026-09-14,Katz Zachary,officer,CLO and Head of Global Affairs,S,15227.0,15.57,237084.39,633227.0
 GRND,2026-09-16,Zage George Raymond III,"director, 10% owner",,S,333600.0,15.62,5210832.0,7794143.0
 GRND,2026-09-17,Zage George Raymond III,"director, 10% owner",,S,166400.0,15.41,2564224.0,7627743.0
-GRRR,2026-04-14,Medeiros Evan S,director,,S,5186.0,12.004,62252.74,33540.0
-GRRR,2026-04-15,Medeiros Evan S,director,,S,12604.0,12.162,153289.85,20936.0
+GSIT,2026-05-11,Shu Lee-Lean,"director, officer, 10% owner","Pres., CEO and Chairman",S,32749.0,10.0894,330417.76,1982417.0
+GSIT,2026-05-11,Shu Lee-Lean,"director, officer, 10% owner","Pres., CEO and Chairman",S,100000.0,12.0137,1201370.0,1982417.0
+GSIT,2026-05-11,Shu Lee-Lean,"director, officer, 10% owner","Pres., CEO and Chairman",S,10313.0,10.5129,108419.54,530939.0
+GSIT,2026-05-12,Wu Ping Tak,officer,"VP, U.S. Operations",S,11763.0,10.8,127040.4,147647.0
+GSIT,2026-05-12,Akerib Avidan,officer,"VP, Associative Computing",S,347.0,12.03,4174.41,23307.0
+GSIT,2026-05-12,CHUANG PATRICK T,officer,"Senior VP, Memory Design",S,40000.0,10.6772,427088.0,15166.0
+GSIT,2026-05-13,Shu Lee-Lean,"director, officer, 10% owner","Pres., CEO and Chairman",S,10313.0,12.5063,128977.47,530939.0
+GSIT,2026-05-13,Akerib Avidan,officer,"VP, Associative Computing",S,19653.0,11.4652,225325.58,23307.0
+GSIT,2026-05-14,Schirle Douglas,officer,CFO,S,40000.0,11.3232,452928.0,69046.0
+GSIT,2026-05-21,Lasserre Didier,officer,"VP, Sales",S,30000.0,9.306,279180.0,310907.0
+GSIT,2026-05-22,Wu Bor-Tay,officer,"VP, Taiwan Operations",S,20000.0,10.934,218680.0,912500.0
+GSIT,2026-05-22,Wu Bor-Tay,officer,"VP, Taiwan Operations",S,20000.0,10.9339,218678.0,912500.0
+GSIT,2026-05-26,Wu Ping Tak,officer,"VP, U.S. Operations",S,30000.0,11.0132,330396.0,148441.0
+GSIT,2026-06-01,CHUANG PATRICK T,officer,"Senior VP, Memory Design",S,40000.0,11.3146,452584.0,15166.0
+GSIT,2026-06-01,Wu Bor-Tay,officer,"VP, Taiwan Operations",S,20000.0,10.9329,218658.0,912500.0
+GSIT,2026-06-02,CHUANG PATRICK T,officer,"Senior VP, Memory Design",S,40000.0,10.9766,439064.0,15166.0
 GSM,2026-08-14,Garcia Cos Muntanola Beatriz,officer,CHIEF FINANCE OFFICER,S,32292.0,4.3,138855.6,31693.0
-GTE,2026-06-05,LM Asset Management Inc.,10% owner,,P,35000.0,7.6173,266605.5,4262200.0
-GTE,2026-06-09,LM Asset Management Inc.,10% owner,,P,51000.0,7.2203,368235.3,4313200.0
 GTE,2026-06-25,LM Asset Management Inc.,10% owner,,P,32000.0,6.0355,193136.0,4345200.0
 GTE,2026-08-03,LM Asset Management Inc.,10% owner,,P,24000.0,6.8945,165468.0,4369200.0
 GTE,2026-08-04,LM Asset Management Inc.,10% owner,,P,34000.0,6.8841,234059.4,4403200.0
@@ -7461,9 +7769,7 @@ HELP,2026-09-08,Glavine Paul,officer,Chief Growth Officer,P,100000.0,12.4719,124
 HELP,2026-09-08,Glavine Paul,officer,Chief Growth Officer,P,100000.0,12.4719,1247190.0,4271252.0
 HELP,2026-09-08,So Eric H. L.,"director, officer",Executive Chair,P,100000.0,12.3867,1238670.0,4465014.0
 HELP,2026-09-21,Halstead Michael,officer,Chief Executive Officer,P,100000.0,13.4705,1347050.0,168568.0
-HIMS,2026-06-16,Becklund Irene,officer,PAO,S,7573.0,30.25,229083.25,11280.0
-HIMS,2026-06-17,Chi Michael,officer,Chief Operating Officer,S,14027.0,31.5,441850.5,432124.0
-HIMS,2026-06-17,Becklund Irene,officer,PAO,S,4490.0,31.5,141435.0,6790.0
+HELP,2026-09-29,Cavers Greg,officer,Chief Financial Officer,P,3000.0,12.91,38730.0,3000.0
 HIMS,2026-06-18,Okupe Oluyemi,officer,Chief Financial Officer,S,55383.0,35.09,1943389.47,228938.0
 HIMS,2026-06-18,Carroll Patrick Harrison,officer,Chief Medical Officer,S,23726.0,35.0,830410.0,181861.0
 HIMS,2026-06-22,Okupe Oluyemi,officer,Chief Financial Officer,S,18197.0,34.0285,619216.61,284321.0
@@ -7479,6 +7785,8 @@ HIMS,2026-09-15,Elshenawy Mohamed,officer,CTO,S,7954.0,28.39,225814.06,185556.0
 HIMS,2026-09-16,Boughton Soleil,officer,Chief Legal Officer,S,6236.0,27.86,173734.96,304270.0
 HIMS,2026-09-17,Okupe Oluyemi,officer,Chief Financial Officer,S,12313.0,28.82,354860.66,251804.0
 HIMS,2026-09-22,Okupe Oluyemi,officer,Chief Financial Officer,S,29277.0,29.95,876846.15,236527.0
+HIMS,2026-09-30,Boughton Soleil,officer,Chief Legal Officer,S,3461.0,29.17,100957.37,300809.0
+HIMS,2026-10-01,Okupe Oluyemi,officer,Chief Financial Officer,S,2000.0,29.7,59400.0,234527.0
 HIVE,2026-06-03,Rossy Luke,officer,COO,S,66700.0,4.57,304819.0,215000.0
 HIVE,2026-06-03,MCGEE SUSAN B,director,,S,16700.0,4.45,74315.0,208300.0
 HIVE,2026-06-08,Rossy Luke,officer,COO,S,215000.0,3.97,853550.0,0.0
@@ -7628,43 +7936,6 @@ HNST,2026-08-20,Bruce Curtiss James III,officer,Chief Fin. & Operating Officer,S
 HNST,2026-08-20,Ball Dorria L.,officer,Chief People Officer,S,6812.0,4.99,33991.88,418584.0
 HNST,2026-08-21,von Kunssberg Etienne,officer,"SVP, Supply Chain",S,4578.0,5.01,22935.78,383517.0
 HNST,2026-09-14,Sternweis Thomas,officer,"SVP, Enterprise Dev. & Strat.",S,25000.0,5.48,137000.0,429394.0
-HOOD,2026-07-02,Quirk Steven M.,officer,Chief Brokerage Officer,S,19377.0,119.96,2324464.92,62612.0
-HOOD,2026-07-06,"Robinhood Markets, Inc.",10% owner,,S,3484.0,33.18,115599.12,13342185.0
-HOOD,2026-07-06,"Robinhood Markets, Inc.",10% owner,,S,5299.0,33.96,179954.04,13336886.0
-HOOD,2026-07-06,Tenev Vladimir,"director, officer",Chief Executive Officer,S,18200.0,112.2242,2042480.44,356800.0
-HOOD,2026-07-06,Tenev Vladimir,"director, officer",Chief Executive Officer,S,13000.0,113.175,1471275.0,343800.0
-HOOD,2026-07-06,Tenev Vladimir,"director, officer",Chief Executive Officer,S,50980.0,114.3314,5828614.77,292820.0
-HOOD,2026-07-06,Tenev Vladimir,"director, officer",Chief Executive Officer,S,49177.0,115.0297,5656815.56,243643.0
-HOOD,2026-07-06,Tenev Vladimir,"director, officer",Chief Executive Officer,S,68046.0,116.3753,7918873.66,175597.0
-HOOD,2026-07-06,Tenev Vladimir,"director, officer",Chief Executive Officer,S,115773.0,117.2706,13576769.17,59824.0
-HOOD,2026-07-06,Tenev Vladimir,"director, officer",Chief Executive Officer,S,59824.0,118.1385,7067517.62,0.0
-HOOD,2026-07-06,Gallagher Daniel Martin Jr,officer,Chief Legal Officer,S,500.0,112.056,56028.0,480896.0
-HOOD,2026-07-06,Gallagher Daniel Martin Jr,officer,Chief Legal Officer,S,700.0,113.5943,79516.01,480196.0
-HOOD,2026-07-06,Gallagher Daniel Martin Jr,officer,Chief Legal Officer,S,2000.0,114.684,229368.0,478196.0
-HOOD,2026-07-06,Gallagher Daniel Martin Jr,officer,Chief Legal Officer,S,900.0,115.7567,104181.03,477296.0
-HOOD,2026-07-06,Gallagher Daniel Martin Jr,officer,Chief Legal Officer,S,2953.0,116.8023,344917.19,474343.0
-HOOD,2026-07-06,Gallagher Daniel Martin Jr,officer,Chief Legal Officer,S,2547.0,117.802,300041.69,471796.0
-HOOD,2026-07-06,Gallagher Daniel Martin Jr,officer,Chief Legal Officer,S,400.0,118.4525,47381.0,471396.0
-HOOD,2026-07-07,"Robinhood Markets, Inc.",10% owner,,S,10033.0,31.35,314534.55,13326853.0
-HOOD,2026-07-07,"Robinhood Markets, Inc.",10% owner,,S,2296.0,32.12,73747.52,13324557.0
-HOOD,2026-07-07,"Robinhood Markets, Inc.",10% owner,,S,182.0,32.95,5996.9,13324375.0
-HOOD,2026-07-08,"Robinhood Markets, Inc.",10% owner,,S,10041.0,30.55,306752.55,13314334.0
-HOOD,2026-07-09,"Robinhood Markets, Inc.",10% owner,,S,7908.0,31.11,246017.88,13306426.0
-HOOD,2026-07-10,"Robinhood Markets, Inc.",10% owner,,S,7069.0,30.88,218290.72,13299357.0
-HOOD,2026-07-13,"Robinhood Markets, Inc.",10% owner,,S,14040.0,30.03,421621.2,13285317.0
-HOOD,2026-07-14,"Robinhood Markets, Inc.",10% owner,,S,9383.0,29.18,273795.94,13275934.0
-HOOD,2026-07-14,"Robinhood Markets, Inc.",10% owner,,S,682.0,29.94,20419.08,13275252.0
-HOOD,2026-07-15,Verma Shiv,officer,Chief Financial Officer,S,600.0,112.975,67785.0,59327.0
-HOOD,2026-07-15,Verma Shiv,officer,Chief Financial Officer,S,800.0,113.8713,91097.04,58527.0
-HOOD,2026-07-15,Verma Shiv,officer,Chief Financial Officer,S,2282.0,115.2851,263080.6,56245.0
-HOOD,2026-07-15,Verma Shiv,officer,Chief Financial Officer,S,300.0,116.04,34812.0,55945.0
-HOOD,2026-07-15,"Robinhood Markets, Inc.",10% owner,,S,8963.0,27.65,247826.95,13266289.0
-HOOD,2026-07-15,"Robinhood Markets, Inc.",10% owner,,S,748.0,28.69,21460.12,13265541.0
-HOOD,2026-07-16,"Robinhood Markets, Inc.",10% owner,,S,6597.0,26.19,172775.43,13258944.0
-HOOD,2026-07-16,"Robinhood Markets, Inc.",10% owner,,S,478.0,26.96,12886.88,13258466.0
-HOOD,2026-07-17,"Robinhood Markets, Inc.",10% owner,,S,13461.0,25.45,342582.45,13245005.0
-HOOD,2026-07-17,"Robinhood Markets, Inc.",10% owner,,S,10505.0,26.42,277542.1,13234500.0
-HOOD,2026-07-17,"Robinhood Markets, Inc.",10% owner,,S,2248.0,27.32,61415.36,13232252.0
 HOOD,2026-07-20,"Robinhood Markets, Inc.",10% owner,,S,5274.0,25.77,135910.98,13226978.0
 HOOD,2026-07-20,"Robinhood Markets, Inc.",10% owner,,S,4320.0,26.48,114393.6,13222658.0
 HOOD,2026-07-21,"Robinhood Markets, Inc.",10% owner,,S,5641.0,26.5,149486.5,13217017.0
@@ -7764,15 +8035,6 @@ HOOD,2026-09-21,Tenev Vladimir,"director, officer",Chief Executive Officer,S,248
 HOOD,2026-09-21,Tenev Vladimir,"director, officer",Chief Executive Officer,S,11030.0,126.1489,1391422.37,0.0
 HOOD,2026-09-22,Tenev Vladimir,"director, officer",Chief Executive Officer,S,239532.0,125.3282,30020114.4,1302.0
 HOOD,2026-09-22,Tenev Vladimir,"director, officer",Chief Executive Officer,S,1302.0,126.1408,164235.32,0.0
-HP,2026-05-18,Hair Cara M.,officer,"SVP, CORP. SERVICES & CLO",S,28345.0,41.45,1174900.25,147244.0
-HP,2026-07-22,Lennox Michael,officer,"EVP, WESTERN HEMISPHERE LAND",S,5000.0,35.0,175000.0,186037.0
-HP,2026-08-10,Lennox Michael,officer,"EVP, WESTERN HEMISPHERE LAND",S,5000.0,40.0,200000.0,181037.0
-HP,2026-08-14,Momper Sara Marie,officer,"VP, CAO",S,5054.0,44.28,223791.12,16958.0
-HP,2026-08-17,Hair Cara M.,officer,"SVP, CORP. SERVICES & CLO",S,11149.0,44.27,493566.23,136095.0
-HP,2026-08-20,HELMERICH HANS,director,,S,25000.0,43.9,1097500.0,471735.0
-HP,2026-08-20,HELMERICH HANS,director,,S,65000.0,43.9,2853500.0,1150915.0
-HP,2026-08-20,HELMERICH HANS,director,,S,4470.0,43.9,196233.0,20000.0
-HP,2026-09-01,Lennox Michael,officer,"EVP, WESTERN HEMISPHERE LAND",S,10000.0,45.0,450000.0,171037.0
 HPE,2026-04-17,Neri Antonio F,"director, officer",President and CEO,S,150000.0,26.4965,3974475.0,1687329.0
 HPE,2026-04-20,MacDonald Neil B,officer,"EVP, GM, Server",S,24251.0,27.0082,654975.86,32242.544
 HPE,2026-04-21,RUSSO FIDELMA,officer,"EVP, GM, Hybrid Cloud & CTO",S,17001.0,27.97,475517.97,0.0
@@ -7783,6 +8045,8 @@ HPE,2026-06-22,Karros Kirt P,officer,"SVP, Treasurer, Corp Dev",S,18785.0,48.5,9
 HPE,2026-07-22,Karros Kirt P,officer,"SVP, Treasurer, Corp Dev",S,23675.0,47.02,1113198.5,0.0
 HPE,2026-09-11,Neri Antonio F,"director, officer",President and CEO,S,250000.0,60.442,15110500.0,1432393.0
 HPE,2026-09-14,REINER GARY M,director,,S,17000.0,56.9076,967429.2,65072.0
+HPE,2026-09-29,rahim rami,officer,"EVP, Pres GM Networking",S,27877.0,61.42,1712205.34,881712.0
+HPE,2026-09-29,rahim rami,officer,"EVP, Pres GM Networking",S,6579.0,61.42,404082.18,875133.0
 HPQ,2026-06-12,McQuarrie David P.,officer,Chief Commercial Officer,S,10524.0,24.68,259732.32,92200.0
 HPQ,2026-07-28,McQuarrie David P.,officer,Chief Commercial Officer,S,10524.0,27.98,294461.52,81676.0
 HPQ,2026-08-03,McQuarrie David P.,officer,Chief Commercial Officer,S,10524.0,27.88,293409.12,71152.0
@@ -7815,6 +8079,18 @@ HTFL,2026-09-15,Verghese Vikram,officer,Chief Financial Officer,S,668.0,50.012,3
 HTFL,2026-09-17,Verghese Vikram,officer,Chief Financial Officer,S,7579.0,50.1142,379815.52,171949.0
 HTFL,2026-09-18,Rogers Campbell,officer,Chief Medical Officer,S,19682.0,50.15,987052.3,79956.0
 HTFL,2026-09-18,Verghese Vikram,officer,Chief Financial Officer,S,16766.0,50.7531,850926.47,155183.0
+HUBS,2026-04-21,Halligan Brian,director,,S,8292.0,230.72,1913130.24,362000.0
+HUBS,2026-05-04,FISHER ERIKA ASHLEY,officer,Chief Legal Officer,S,915.0,236.66,216543.9,16270.0
+HUBS,2026-05-11,NORRINGTON LORRIE M,director,,P,1313.0,190.42,250021.46,2838.0
+HUBS,2026-05-12,Shah Dharmesh,"director, officer",Chief Technology Officer,P,10000.0,181.37,1813700.0,1295400.0
+HUBS,2026-05-12,Rangan Yamini,"director, officer",Chief Executive Officer & Pres,P,2750.0,189.84,522060.0,102982.0
+HUBS,2026-05-19,Halligan Brian,director,,S,8500.0,220.0,1870000.0,353500.0
+HUBS,2026-06-16,Halligan Brian,director,,S,8500.0,184.42,1567570.0,93500.0
+HUBS,2026-07-21,Halligan Brian,director,,S,8500.0,221.09,1879265.0,85000.0
+HUBS,2026-08-04,FISHER ERIKA ASHLEY,officer,Chief Legal Officer,S,702.0,235.22,165124.44,14581.0
+HUBS,2026-08-10,Dischler Gerald,director,,P,925.0,215.93,199735.25,1940.0
+HUBS,2026-08-18,Halligan Brian,director,,S,8500.0,219.5,1865750.0,76500.0
+HUBS,2026-09-15,Halligan Brian,director,,S,8500.0,245.64,2087940.0,68000.0
 HUCK,2026-04-13,RPD Fund Management LLC,,,S,1100900.0,2.56,2818304.0,0.0
 HUCK,2026-04-13,RPD Fund Management LLC,,,P,924709.0,2.57,2376502.13,4437535.0
 HUCK,2026-05-15,RPD Fund Management LLC,,,S,22683.0,3.49,79163.67,4414852.0
@@ -7855,15 +8131,6 @@ IAUX,2026-05-28,Begeman John Arthur,director,,S,24356.0,1.59,38726.04,827354.0
 IAUX,2026-08-18,Savarie David Roger,officer,"EVP, General Counsel",P,4575.0,1.59,7274.25,274275.0
 IAUX,2026-08-18,Young Richard Scott,"director, officer",President and CEO,P,1000000.0,1.62,1620000.0,5971000.0
 IAUX,2026-09-02,Begeman John Arthur,director,,S,19231.0,1.7386,33435.02,827354.0
-IBEX,2025-03-13,Ballou-Aares Daniella,director,,S,5843.0,24.2175,141502.85,11300.0
-IBEX,2025-03-13,Ballou-Aares Daniella,director,,S,157.0,24.2114,3801.19,11143.0
-IBEX,2025-12-02,Ballou-Aares Daniella,director,,S,500.0,35.01,17505.0,10643.0
-IBEX,2026-05-11,Dawson Bruce Neil,officer,Chief Sales and CS Officer,S,3129.0,32.8038,102643.09,77155.0
-IBEX,2026-05-12,Dawson Bruce Neil,officer,Chief Sales and CS Officer,S,15260.0,31.1156,474824.06,61895.0
-IBEX,2026-05-13,Dechant Robert Thomas,"director, officer",Chief Executive Officer,S,7800.0,30.4996,237896.88,285606.0
-IBEX,2026-05-22,Greenwald Taylor C,officer,Chief Financial Officer,S,964.0,32.02,30867.28,62230.0
-IBEX,2026-05-28,McGinnis Patrick,director,,S,1030.0,31.69,32640.7,5833.0
-IBEX,2026-06-11,Casteel Julie K,officer,Chief Sales/Marketing Officer,S,3600.0,30.6065,110183.4,117594.0
 IBEX,2026-09-08,Afdahl David Martin,officer,Chief Operating Officer,S,17500.0,37.0862,649008.5,140006.0
 IBEX,2026-09-14,Afdahl David Martin,officer,Chief Operating Officer,S,10819.0,40.0668,433482.71,129187.0
 IBEX,2026-09-14,Inson Paul Joseph,officer,Chief People Officer,S,2274.0,40.0,90960.0,29724.0
@@ -8312,12 +8579,6 @@ INFQ,2026-08-13,MAVERICK CAPITAL LTD,director,,S,1609.0,12.1883,19610.97,0.0
 INFQ,2026-08-14,MAVERICK CAPITAL LTD,director,,P,52071.0,12.4222,646836.38,0.0
 INFQ,2026-08-19,MAVERICK CAPITAL LTD,director,,S,33405.0,12.6226,421657.95,1546057.0
 INFQ,2026-08-21,MAVERICK CAPITAL LTD,director,,S,164824.0,13.02,2146008.48,1381233.0
-INLF,2026-06-24,HRT FINANCIAL LP,10% owner,,P,948910.0,0.043,40803.13,1858061.0
-INLF,2026-06-25,HRT FINANCIAL LP,10% owner,,P,1781958.0,0.03,53458.74,3640019.0
-INLF,2026-06-26,HRT FINANCIAL LP,10% owner,,P,1689946.0,0.056,94636.98,5329965.0
-INLF,2026-06-29,HRT FINANCIAL LP,10% owner,,P,2919237.0,0.064,186831.17,8249202.0
-INLF,2026-06-30,HRT FINANCIAL LP,10% owner,,S,3831240.0,0.057,218380.68,4417962.0
-INLF,2026-07-01,HRT FINANCIAL LP,10% owner,,S,3691666.0,0.034,125516.64,726296.0
 INOD,2026-05-12,ABUHOFF JACK,"director, officer",CEO,S,19776.0,94.89,1876544.64,1392379.0
 INOD,2026-05-12,ABUHOFF JACK,"director, officer",CEO,S,51923.0,95.87,4977858.01,1340456.0
 INOD,2026-05-12,MISHRA ASHOK,officer,EVP and COO,S,234000.0,90.02,21064680.0,104080.0
@@ -8432,6 +8693,8 @@ INTA,2026-09-02,Jampol Thad,officer,Chief Product Officer,S,1196.0,42.2491,50529
 INTA,2026-09-08,HALL JOHN T,"director, officer",Chief Executive Officer,S,3000.0,39.5898,118769.4,5814808.0
 INTA,2026-09-14,HALL JOHN T,"director, officer",Chief Executive Officer,S,3000.0,37.9318,113795.4,5814808.0
 INTA,2026-09-21,HALL JOHN T,"director, officer",Chief Executive Officer,S,3000.0,36.74,110220.0,5814808.0
+INTA,2026-09-30,HALL JOHN T,"director, officer",Chief Executive Officer,S,800.0,36.51,29208.0,5814808.0
+INTA,2026-10-01,HALL JOHN T,"director, officer",Chief Executive Officer,S,2200.0,36.77,80894.0,5814808.0
 INTC,2026-05-01,Miller Boise April,officer,EVP and Chief Legal Officer,S,40256.0,99.526,4006518.66,105077.0
 INTC,2026-05-29,Chandrasekaran Nagasubramaniyan,officer,"EVP, CT & Ops Off, GM Foundry",S,21024.0,118.279,2486697.7,205852.0
 INTC,2026-08-11,TAN LIP BU,"director, officer",CEO,P,105263.0,95.0,9999985.0,1314669.0
@@ -8455,7 +8718,6 @@ IONQ,2026-06-18,TOLEDANO GABRIELLE B,director,,S,2757.0,55.01,151662.57,11154.0
 IONQ,2026-06-18,Chou Kathryn K.,director,,S,2757.0,55.02,151690.14,62608.0
 IONQ,2026-06-18,Raymond John w,director,,S,3815.0,55.01,209863.15,80148.0
 IONQ,2026-09-10,Raymond John w,director,,S,2407.0,37.21,89564.47,77741.0
-IOT,2026-06-15,Kirchhoff Benjamin Louis,officer,CHIEF ACCOUNTING OFFICER,S,2549.0,33.74,86003.26,167269.0
 IOT,2026-06-22,Eltoukhy Adam,officer,SEE REMARKS,S,1614.0,32.2117,51989.68,425080.0
 IOT,2026-06-29,Eltoukhy Adam,officer,SEE REMARKS,S,2039.0,32.08,65411.12,425080.0
 IOT,2026-07-01,Phillips Dominic,officer,SEE REMARKS,S,12065.0,33.3223,402033.55,836100.0
@@ -8569,6 +8831,30 @@ IOT,2026-09-15,Chadwick Jonathan,director,,S,2100.0,42.7619,89799.99,51666.0
 IOT,2026-09-18,Kirchhoff Benjamin Louis,officer,CHIEF ACCOUNTING OFFICER,S,770.0,40.42,31123.4,151086.0
 IOT,2026-09-25,Eltoukhy Adam,officer,SEE REMARKS,S,1539.0,38.517,59277.66,387621.0
 IOT,2026-09-25,Eltoukhy Adam,officer,SEE REMARKS,S,5767.0,39.2154,226155.21,381854.0
+IOT,2026-09-29,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,101968.0,37.6769,3841838.14,983867.0
+IOT,2026-09-29,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,8244.0,38.2642,315450.06,975623.0
+IOT,2026-09-29,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,10300.0,37.9158,390532.74,51900.0
+IOT,2026-09-29,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,300.0,38.4033,11520.99,51600.0
+IOT,2026-09-29,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,34760.0,37.6743,1309558.67,236340.0
+IOT,2026-09-29,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,2830.0,38.3035,108398.9,233510.0
+IOT,2026-09-29,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,101198.0,37.6705,3812179.26,1084200.0
+IOT,2026-09-29,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,9048.0,38.2582,346160.19,1075152.0
+IOT,2026-09-29,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,9456.0,37.8798,358191.39,52744.0
+IOT,2026-09-29,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,1144.0,38.3343,43854.44,51600.0
+IOT,2026-09-29,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,35116.0,37.682,1323241.11,235984.0
+IOT,2026-09-29,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,2465.0,38.2898,94384.36,233519.0
+IOT,2026-09-30,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,76359.0,38.3926,2931620.54,899264.0
+IOT,2026-09-30,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,300.0,38.91,11673.0,898964.0
+IOT,2026-09-30,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,7640.0,38.4259,293573.88,225870.0
+IOT,2026-09-30,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,70.0,38.91,2723.7,225800.0
+IOT,2026-09-30,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,76831.0,38.39,2949542.09,998321.0
+IOT,2026-09-30,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,400.0,38.895,15558.0,997921.0
+IOT,2026-09-30,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,7619.0,38.4278,292781.41,225900.0
+IOT,2026-09-30,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,100.0,38.92,3892.0,225800.0
+IOT,2026-10-01,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,13283.0,38.6,512723.8,885681.0
+IOT,2026-10-01,Biswas Sanjit,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,7846.0,39.1687,307317.62,877835.0
+IOT,2026-10-01,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,13019.0,38.6262,502874.5,984902.0
+IOT,2026-10-01,Bicket John,"director, officer, 10% owner",SEE REMARKS,S,7504.0,39.173,293954.19,977398.0
 IRD,2026-04-23,YERXA BENJAMIN R,"director, officer",President,S,7470.0,5.2371,39121.14,711535.0
 IRD,2026-04-23,SCHACHLE JOSEPH K,officer,Chief Operating Officer,S,4697.0,5.2202,24519.28,296084.0
 IRD,2026-04-23,Zaremba Rabourn Amy,officer,Head of Fin. Quality Assurance,S,1641.0,5.204,8539.76,188671.0
@@ -8650,6 +8936,11 @@ KLAC,2026-08-11,WALLACE RICHARD P,officer,President and CEO,S,87568.0,198.95,174
 KLAC,2026-08-12,Higgins Bren D.,officer,EVP & Chief Financial Officer,S,31500.0,209.87,6610905.0,307815.4359
 KLAC,2026-08-13,Lorig Brian,officer,"EVP, KLA Global Services",S,59586.0,208.13,12401634.18,77681.0919
 KLAC,2026-09-15,WALLACE RICHARD P,officer,President and CEO,S,72019.0,171.88,12378625.72,706924.5499
+KLIC,2026-05-11,Lim Zi Yao,officer,General Counsel,S,1500.0,102.9754,154463.1,21214.0
+KLIC,2026-05-20,Yeo Mui Sung,director,,S,20000.0,100.0,2000000.0,59197.0
+KLIC,2026-06-11,Kong Peter T M,director,,S,1551.0,110.0,170610.0,100009.0
+KLIC,2026-06-12,WONG NELSON MUNPUN,officer,Senior Vice President,S,15000.0,113.7192,1705788.0,71369.0
+KLIC,2026-06-18,Wong Lester A,officer,Interim CEO and CFO,S,60000.0,121.7092,7302552.0,50743.0
 KMTS,2026-04-15,Webster Brian Daniel,"director, officer",See Remarks,S,15000.0,20.0447,300670.5,349786.0
 KMTS,2026-05-15,Webster Brian Daniel,"director, officer",See Remarks,S,8155.0,20.5287,167411.55,341631.0
 KMTS,2026-05-15,Webster Brian Daniel,"director, officer",See Remarks,S,6845.0,21.4635,146917.66,334786.0
@@ -9032,6 +9323,36 @@ LFST,2026-08-13,DeLuca Teresa,director,,S,20441.0,12.23,249993.43,104593.0
 LFST,2026-08-14,DeLuca Teresa,director,,S,7500.0,12.68,95100.0,97093.0
 LFST,2026-09-02,Paunovich Vukasin,officer,Chief Technology Officer,S,42067.0,12.87,541402.29,205379.0
 LFST,2026-09-11,"TPG GP A, LLC",10% owner,,S,18409705.0,12.29,226255274.45,79691702.0
+LIF,2026-04-16,Hulls Chris,director,,S,16105.0,45.51,732938.55,399809.0
+LIF,2026-04-16,Antonoff Lauren,"director, officer",Chief Executive Officer,S,2716.0,45.231,122847.4,309781.0
+LIF,2026-05-01,COGHLAN JOHN PHILIP,director,,S,3736.0,44.12,164832.32,32695.0
+LIF,2026-05-01,COGHLAN JOHN PHILIP,director,,S,264.0,44.67,11792.88,32431.0
+LIF,2026-05-13,Prober Charles J.,director,,S,7930.0,40.44,320689.2,105456.0
+LIF,2026-05-28,Hulls Chris,director,,S,16379.0,40.34,660728.86,403485.0
+LIF,2026-06-01,COGHLAN JOHN PHILIP,director,,S,3796.0,43.95,166834.2,28635.0
+LIF,2026-06-01,COGHLAN JOHN PHILIP,director,,S,204.0,44.64,9106.56,28431.0
+LIF,2026-06-15,Prober Charles J.,director,,S,7930.0,46.07,365335.1,109911.0
+LIF,2026-06-18,Hulls Chris,director,,S,16042.0,47.07,755096.94,406899.0
+LIF,2026-06-29,Morin Brit,director,,S,4655.0,55.0,256025.0,25975.0
+LIF,2026-07-01,COGHLAN JOHN PHILIP,director,,S,3798.0,56.04,212839.92,24633.0
+LIF,2026-07-01,COGHLAN JOHN PHILIP,director,,S,202.0,56.57,11427.14,24431.0
+LIF,2026-07-13,Prober Charles J.,director,,S,7930.0,53.05,420686.5,109911.0
+LIF,2026-07-16,Hulls Chris,director,,S,14345.0,55.74,799590.3,419554.0
+LIF,2026-08-03,COGHLAN JOHN PHILIP,director,,S,1400.0,54.66,76524.0,23031.0
+LIF,2026-08-03,COGHLAN JOHN PHILIP,director,,S,2600.0,54.9,142740.0,20431.0
+LIF,2026-08-04,Morin Brit,director,,S,10701.0,60.0,642060.0,20157.0
+LIF,2026-08-04,Hulls Chris,director,,S,17020.0,63.08,1073621.6,429534.0
+LIF,2026-08-04,Hulls Chris,director,,S,9980.0,63.77,636424.6,419554.0
+LIF,2026-08-10,Morin Brit,director,,S,15582.0,65.0,1012830.0,14340.0
+LIF,2026-08-13,Prober Charles J.,director,,S,7930.0,48.59,385318.7,109930.0
+LIF,2026-08-18,Hulls Chris,director,,S,231434.0,46.78,10826482.52,400622.0
+LIF,2026-08-18,Hulls Chris,director,,S,18566.0,47.58,883370.28,382056.0
+LIF,2026-08-25,Synge James,director,,S,5833.0,45.05,262776.65,219160.0
+LIF,2026-08-26,Synge James,director,,S,27466.0,44.31,1217018.46,191694.0
+LIF,2026-09-01,COGHLAN JOHN PHILIP,director,,S,4000.0,41.97,167880.0,16431.0
+LIF,2026-09-14,Prober Charles J.,director,,S,7930.0,42.12,334011.6,109930.0
+LIF,2026-09-21,Haro Alex,director,,S,31275.0,40.72,1273518.0,1029028.0
+LIF,2026-09-21,Haro Alex,director,,S,18725.0,41.16,770721.0,1010303.0
 LIFE,2026-05-14,"GV 2019 GP, L.L.C.",10% owner,,S,60077.0,23.0093,1382329.72,0.0
 LIFE,2026-05-15,Wang Lingke,"director, officer",President,S,39495.0,21.99,868495.05,771690.0
 LIFE,2026-05-15,Wang Lingke,"director, officer",President,S,6854.0,22.77,156065.58,764836.0
@@ -9112,7 +9433,6 @@ LIND,2026-05-21,FAHEY JOHN M JR,director,,S,2000.0,20.26,40520.0,112486.0
 LIND,2026-05-29,Dryden L. Dyson,director,,S,52747.0,23.0925,1218060.1,988054.0
 LIND,2026-06-04,Dryden L. Dyson,director,,S,39946.0,22.0411,880453.78,948108.0
 LIND,2026-06-17,BISNOW MICHAEL ELLIOTT,director,,S,44642.0,24.2138,1080952.46,25872.0
-LITE,2026-05-21,Small Ian,director,,S,4954.0,868.07,4300418.78,21008.0
 LITE,2026-05-29,Harris Isaac Hosojiro,director,,S,4000.0,860.0,3440000.0,8400.0
 LITE,2026-06-02,Harris Isaac Hosojiro,director,,S,1416.0,1000.081,1416114.7,6984.0
 LITE,2026-08-18,Retort Vincent,officer,SEE REMARKS,S,3183.0,909.43,2894715.69,114495.0
@@ -9183,6 +9503,9 @@ LITE,2026-09-24,Wupen Yuen,officer,"PRESIDENT, GLOBAL BUS. UNITS",S,500.0,921.07
 LITE,2026-09-25,Wupen Yuen,officer,"PRESIDENT, GLOBAL BUS. UNITS",S,500.0,935.75,467875.0,109127.0
 LITE,2026-09-28,Wupen Yuen,officer,"PRESIDENT, GLOBAL BUS. UNITS",S,500.0,948.5,474250.0,108627.0
 LITE,2026-09-29,Wupen Yuen,officer,"PRESIDENT, GLOBAL BUS. UNITS",S,307.0,945.0,290115.0,108320.0
+LITE,2026-10-01,Ali Wajid,officer,EVP & CHIEF FINANCIAL OFFICER,S,24542.0,1048.5,25732287.0,75074.0
+LMRI,2026-05-14,Cooper Henry Lee,director,,P,30000.0,7.4371,223113.0,30000.0
+LMRI,2026-05-19,BRODNAX BRETT,director,,P,35000.0,7.25,253750.0,62027.0
 LPG,2026-04-08,Lycouris John,"director, officer",Head of Energy Transition,S,3000.0,35.0,105000.0,164939.0
 LPG,2026-04-09,Lycouris John,"director, officer",Head of Energy Transition,S,7000.0,35.72,250040.0,157939.0
 LPG,2026-05-22,Kalborg Ted,director,,S,15373.0,45.06,692707.38,66348.0
@@ -9287,65 +9610,13 @@ LSCC,2026-09-14,Desale Pravin,officer,"SVP, R&D",S,2039.0,111.83,228021.37,73456
 LSCC,2026-09-15,Desale Pravin,officer,"SVP, R&D",S,1700.0,105.0018,178503.06,71756.0
 LSCC,2026-09-15,Desale Pravin,officer,"SVP, R&D",S,2379.0,105.9742,252112.62,69377.0
 LSCC,2026-09-15,Desale Pravin,officer,"SVP, R&D",S,200.0,106.77,21354.0,69177.0
-LTH,2026-05-05,"Partners Group Private Equity Fund, LLC",,,S,372420.0,28.6,10651212.0,3348080.0
-LTH,2026-05-05,"Partners Group Private Equity Fund, LLC",,,S,169699.0,28.6,4853391.4,3178381.0
-LTH,2026-05-05,Galashan John Kristofer,"director, 10% owner",,S,2493083.0,28.6,71302173.8,22412978.0
-LTH,2026-05-05,Green LTF Holdings II LP,"director, 10% owner",,S,2447621.0,28.6,70001960.6,22004267.0
-LTH,2026-05-05,Green LTF Holdings II LP,"director, 10% owner",,S,4145.0,28.6,118547.0,37270.0
-LTH,2026-05-05,Green LTF Holdings II LP,"director, 10% owner",,S,41317.0,28.6,1181666.2,371441.0
-LTH,2026-05-05,DANHAKL JOHN G,"director, 10% owner",,S,2493083.0,28.6,71302173.8,22412978.0
-LTH,2026-05-06,Singh Ritadhwaja Jebens,officer,EVP & CHIEF DIGITAL OFFICER,S,40202.0,29.95,1204049.9,138351.0
-LTH,2026-05-07,"Partners Group Private Equity Fund, LLC",,,S,747178.0,31.46,23506219.88,2431203.0
-LTH,2026-05-07,Green LTF Holdings II LP,director,,S,4900722.0,31.46,154176714.12,15946196.0
-LTH,2026-05-07,Green LTF Holdings II LP,director,,S,8301.0,31.46,261149.46,27009.0
-LTH,2026-05-07,Green LTF Holdings II LP,director,,S,82726.0,31.46,2602559.96,269178.0
-LTH,2026-05-07,DANHAKL JOHN G,director,,S,4991749.0,31.46,157040423.54,16242383.0
-LTH,2026-05-07,Galashan John Kristofer,director,,S,4991749.0,31.46,157040423.54,16242383.0
-LTH,2026-05-07,Lasher Stuart G.,director,,S,50000.0,32.4227,1621135.0,71058.0
-LTH,2026-05-07,Buss Eric J,officer,EVP & CHIEF ADMIN. OFFICER,S,192217.0,32.0181,6154423.13,474008.0
-LTH,2026-05-07,Weaver Erik,officer,EVP & Chief Financial Officer,S,22000.0,32.691,719202.0,114166.0
-LTH,2026-05-08,Javaheri Parham,officer,EVP &PRESIDENT CLUB OPERATIONS,S,62900.0,31.8001,2000226.29,246574.0
-LTH,2026-05-21,"Partners Group Private Equity Fund, LLC",,,S,449960.0,32.51,14628199.6,1981243.0
-LTH,2026-05-21,Green LTF Holdings II LP,director,,S,2951282.0,32.51,95946177.82,12994914.0
-LTH,2026-05-21,Green LTF Holdings II LP,director,,S,4999.0,32.51,162517.49,22010.0
-LTH,2026-05-21,Green LTF Holdings II LP,director,,S,49819.0,32.51,1619615.69,219359.0
-LTH,2026-05-21,Galashan John Kristofer,director,,S,3006100.0,32.51,97728311.0,13236283.0
-LTH,2026-05-21,DANHAKL JOHN G,director,,S,3006100.0,32.51,97728311.0,13236283.0
-LTH,2026-06-04,DANHAKL JOHN G,director,,S,2208580.0,28.6,63165388.0,11027703.0
-LTH,2026-06-04,Galashan John Kristofer,director,,S,2208580.0,28.6,63165388.0,11027703.0
-LTH,2026-06-04,Green LTF Holdings II LP,director,,S,2168305.0,28.6,62013523.0,10826609.0
-LTH,2026-06-04,Green LTF Holdings II LP,director,,S,3673.0,28.6,105047.8,18337.0
-LTH,2026-06-04,Green LTF Holdings II LP,director,,S,36602.0,28.6,1046817.2,182757.0
-LTH,2026-06-04,"Partners Group Private Equity Fund, LLC",,,S,329921.0,28.6,9435740.6,1651322.0
-LTH,2026-06-10,Almendares Jimena,director,,S,40589.0,33.5935,1363526.57,36983.0
-LTH,2026-06-24,Singh Ritadhwaja Jebens,officer,EVP & CHIEF DIGITAL OFFICER,S,67751.0,38.65,2618576.15,138351.0
-LTH,2026-07-31,Buss Eric J,officer,EVP & CHIEF ADMIN. OFFICER,S,479240.0,44.9721,21552429.2,474008.0
-LTH,2026-07-31,Weaver Erik,officer,EVP & Chief Financial Officer,S,47748.0,44.8,2139110.4,88918.0
-LTH,2026-07-31,Javaheri Parham,officer,EVP &PRESIDENT CLUB OPERATIONS,S,63203.0,45.088,2849696.86,183371.0
-LTH,2026-07-31,Akradi Bahram,"director, officer",FOUNDER & CEO,S,433307.0,45.0179,19506571.2,3620036.0
-LTH,2026-07-31,Akradi Bahram,"director, officer",FOUNDER & CEO,S,4950.0,46.0329,227862.85,3615086.0
-LTH,2026-08-10,Galashan John Kristofer,director,,S,5119099.0,43.16,220940312.84,5908604.0
-LTH,2026-08-10,DANHAKL JOHN G,director,,S,5119099.0,43.16,220940312.84,5908604.0
-LTH,2026-08-10,Green LTF Holdings II LP,director,,S,5025751.0,43.16,216911413.16,5800858.0
-LTH,2026-08-10,Green LTF Holdings II LP,director,,S,8512.0,43.16,367377.92,9825.0
-LTH,2026-08-10,Green LTF Holdings II LP,director,,S,84836.0,43.16,3661521.76,97921.0
-LTH,2026-08-26,DANHAKL JOHN G,director,,S,2879154.0,43.8,126106945.2,3029450.0
-LTH,2026-08-26,Green LTF Holdings II LP,director,,S,2826651.0,43.8,123807313.8,2974207.0
-LTH,2026-08-26,Green LTF Holdings II LP,director,,S,4788.0,43.8,209714.4,5037.0
-LTH,2026-08-26,Green LTF Holdings II LP,director,,S,47715.0,43.8,2089917.0,50206.0
-LTH,2026-08-26,Galashan John Kristofer,director,,S,2879154.0,43.8,126106945.2,3029450.0
-LTH,2026-09-03,Singh Ritadhwaja Jebens,officer,EVP & CHIEF DIGITAL OFFICER,S,5666.0,44.0,249304.0,138351.0
-LTH,2026-09-09,Singh Ritadhwaja Jebens,officer,EVP & CHIEF DIGITAL OFFICER,S,18729.0,42.0395,787357.8,138351.0
-LTH,2026-09-11,Singh Ritadhwaja Jebens,officer,EVP & CHIEF DIGITAL OFFICER,S,154912.0,42.0,6506304.0,138351.0
 LTRX,2026-09-09,Awsare Saleel,"director, officer",President & CEO,P,15000.0,5.179,77685.0,453381.0
 LUXE,2026-09-18,Kliger Michael,officer,Chief Executive Officer,S,75412.0,10.02,755628.24,0.0
-LZ,2026-05-11,Stibel Jeffrey M,"director, officer",Chief Executive Officer,P,125000.0,6.1519,768987.5,2955609.0
-LZ,2026-05-18,Watson Noel Bertram,officer,Chief Operating Officer & CFO,S,15000.0,6.4517,96775.5,2041847.0
-LZ,2026-05-19,Miller Nicole,officer,CHIEF LEGAL OFFICER,S,19199.0,6.58,126329.42,1119222.0
-LZ,2026-08-17,Miller Nicole,officer,CHIEF LEGAL OFFICER,S,43996.0,5.51,242417.96,976932.0
-LZ,2026-08-18,Miller Nicole,officer,CHIEF LEGAL OFFICER,S,33479.0,5.51,184469.29,943453.0
-LZ,2026-08-20,Watson Noel Bertram,officer,Chief Operating Officer & CFO,S,416371.0,5.91,2460752.61,1491430.0
-LZ,2026-08-21,Watson Noel Bertram,officer,Chief Operating Officer & CFO,S,83629.0,5.83,487557.07,1407801.0
+LWLG,2026-04-01,Ciesla Craig,director,,S,11000.0,6.81,74910.0,118824.0
+LWLG,2026-04-06,CONNELLY THOMAS M JR,director,,S,9000.0,8.52,76680.0,77132.0
+LWLG,2026-04-07,El-Ahmadi Siraj Nour,director,,S,54536.0,7.76,423199.36,97168.0
+LWLG,2026-04-10,Quan Snizhana P.,officer,Principal Financial Officer,S,20000.0,10.36,207200.0,51125.0
+LWLG,2026-06-01,Quan Snizhana P.,officer,Principal Financial Officer,S,345.0,11.41,3936.45,50780.0
 M,2026-04-06,Bron Olivier,officer,"CEO, Bloomingdale's",S,7228.0,17.9241,129555.39,21590.0
 M,2026-04-06,Griscom Paul,officer,SVP and Controller,S,745.0,17.924,13353.38,35450.0
 M,2026-04-06,Kirgan Danielle L.,officer,"EVP, Chief HR Officer",S,10010.0,17.9229,179408.23,108008.0
@@ -9693,15 +9964,6 @@ MGNI,2026-09-17,Knopper Douglas S,director,,S,37337.0,26.28,981216.36,51136.0
 MH,2026-06-15,Moyer Philip D,"director, officer",See Remarks,P,22421.0,11.12,249321.52,516768.0
 MITK,2026-04-28,Gafke Garrett,officer,Chief Operating Officer,S,152529.0,13.92,2123203.68,265387.0
 MITK,2026-05-15,Gafke Garrett,officer,Chief Operating Officer,S,21108.0,14.19,299522.52,244279.0
-MLAB,2026-06-16,Archbold Brian David,officer,SVP Operations,S,1151.0,101.267,116558.32,3710.0
-MLAB,2026-06-16,Crennen Lyndsey Elizabeth,officer,CAO,S,118.0,101.267,11949.51,1473.0
-MLAB,2026-06-16,Sakys John,officer,CFO,S,1223.0,101.267,123849.54,16538.0
-MLAB,2026-06-22,Crennen Lyndsey Elizabeth,officer,CAO,S,442.0,89.502,39559.88,2020.0
-MLAB,2026-06-22,Archbold Brian David,officer,SVP Operations,S,2516.0,89.502,225187.03,6377.0
-MLAB,2026-06-22,Sakys John,officer,CFO,S,2827.0,89.502,253022.15,19785.0
-MLAB,2026-08-13,Sullivan John James,director,,S,7093.0,112.8,800090.4,17834.0
-MLAB,2026-08-13,Kadia Siddhartha,officer,President and CEO,P,7093.0,112.8,800090.4,7093.0
-MLAB,2026-08-13,Tripeny R Tony,director,,P,900.0,113.69,102321.0,6298.0
 MNKD,2026-05-12,Binder Steven B.,director,,S,16940.0,3.29,55732.6,808008.0
 MNKD,2026-05-12,Thomson David,officer,EVP Genl Counsel & Secretary,S,3033.0,3.29,9978.57,826299.0
 MNKD,2026-07-17,Thomson David,officer,EVP Genl Counsel & Secretary,S,24109.0,4.05,97641.45,797554.0
@@ -9711,9 +9973,6 @@ MNKD,2026-09-10,Binder Steven B.,director,,S,33558.0,3.81,127855.98,752309.0
 MNKD,2026-09-25,Binder Steven B.,director,,S,39051.0,3.29,128477.79,713258.0
 MNOV,2026-09-25,3D Investment Partners Pte. Ltd.,,,S,640000.0,2.7,1728000.0,4862047.0
 MNTK,2026-05-11,Copelyn John A,director,,P,17506.0,1.45,25383.7,17506.0
-MNTN,2026-08-13,Baroda Ventures LLC,10% owner,,S,26823.0,12.53,336092.19,6684275.0
-MNTN,2026-08-14,Baroda Ventures LLC,10% owner,,S,33617.0,12.56,422229.52,6650658.0
-MNTN,2026-08-18,Baroda Ventures LLC,10% owner,,S,275115.0,12.75,3507716.25,6375543.0
 MPC,2026-05-13,Hessling Ricky D.,officer,Chief Commercial Officer,S,1000.0,250.0,250000.0,6525.0
 MPC,2026-06-04,Henschen Michael A II,officer,"Ex VP, Refining",S,1372.0,268.75,368725.0,16900.0
 MPC,2026-06-04,Henschen Michael A II,officer,"Ex VP, Refining",S,4964.0,268.845,1334546.58,16900.0
@@ -9857,7 +10116,6 @@ MRNA,2026-09-14,Hoge Stephen,officer,President,S,40294.0,144.13,5807574.22,15258
 MRNA,2026-09-15,Hoge Stephen,officer,President,S,40281.0,146.07,5883845.67,1562029.0
 MRVI,2026-06-09,ORESHACK KURT,officer,General Counsel,S,25000.0,5.06,126500.0,360767.0
 MRVI,2026-06-10,ORESHACK KURT,officer,General Counsel,S,25000.0,5.1,127500.0,335767.0
-MRVL,2026-04-15,MURPHY MATTHEW J,"director, officer",Chairman of the Board and CEO,S,7500.0,134.46,1008450.0,302606.0
 MRVL,2026-04-17,Casper Mark,officer,EVP & Chief Legal Officer,S,10000.0,135.5,1355000.0,35878.0
 MRVL,2026-05-01,Koopmans Chris,officer,President and COO,S,10000.0,162.76,1627600.0,209592.0
 MRVL,2026-05-13,MURPHY MATTHEW J,"director, officer",Chairman of the Board and CEO,S,7500.0,177.26,1329450.0,739397.0
@@ -9873,6 +10131,7 @@ MRVL,2026-08-03,Koopmans Chris,officer,President and COO,S,10000.0,180.5,1805000
 MRVL,2026-08-17,MURPHY MATTHEW J,"director, officer",Chairman of the Board and CEO,S,7500.0,236.08,1770600.0,783186.0
 MRVL,2026-09-01,Koopmans Chris,officer,President and COO,S,10000.0,203.27,2032700.0,217941.0
 MRVL,2026-09-15,MURPHY MATTHEW J,"director, officer",Chairman of the Board and CEO,S,7500.0,223.39,1675425.0,775686.0
+MRVL,2026-10-01,Koopmans Chris,officer,President and COO,S,10000.0,262.05,2620500.0,207941.0
 MRX,2026-04-13,Tonucci Paolo,officer,See Remarks,S,6760.0,50.6012,342064.11,1373263.0
 MRX,2026-04-13,Tonucci Paolo,officer,See Remarks,S,5829.0,51.5564,300522.26,1367434.0
 MRX,2026-04-13,Tonucci Paolo,officer,See Remarks,S,4077.0,52.3578,213462.75,1363357.0
@@ -9904,17 +10163,6 @@ MRX,2026-09-14,Tonucci Paolo,officer,See Remarks,S,13714.0,70.7692,970528.81,127
 MRX,2026-09-14,Tonucci Paolo,officer,See Remarks,S,2952.0,71.3544,210638.19,1269571.0
 MRX,2026-09-14,Van Den Born Simon,officer,President,S,12616.0,70.7689,892820.44,1473003.0
 MRX,2026-09-14,Van Den Born Simon,officer,President,S,2655.0,71.3585,189456.82,1470348.0
-MSS,2026-04-01,Xu John,"director, officer, 10% owner",CEO and President,P,20000.0,0.14,2800.0,11780000.0
-MSS,2026-04-02,Xu John,"director, officer, 10% owner",CEO and President,P,24000.0,0.15,3600.0,11804000.0
-MSS,2026-04-22,Xu John,"director, officer, 10% owner",CEO and President,P,15000.0,0.13,1950.0,11819000.0
-MSS,2026-04-22,Xu John,"director, officer, 10% owner",CEO and President,P,8400.0,0.12,1008.0,11827400.0
-MSS,2026-08-10,HRT FINANCIAL LP,10% owner,,P,4616.0,1.33,6139.28,105459.0
-MSS,2026-08-11,HRT FINANCIAL LP,10% owner,,S,4329.0,1.41,6103.89,101130.0
-MSS,2026-08-12,HRT FINANCIAL LP,10% owner,,P,22559.0,1.42,32033.78,123689.0
-MSS,2026-08-13,HRT FINANCIAL LP,10% owner,,P,7553.0,1.4,10574.2,131242.0
-MSS,2026-08-14,HRT FINANCIAL LP,10% owner,,S,134000.0,1.42,190280.0,117842.0
-MSS,2026-08-17,HRT FINANCIAL LP,10% owner,,S,20394.0,1.42,28959.48,97488.0
-MSS,2026-08-18,HRT FINANCIAL LP,10% owner,,S,32556.0,1.84,59903.04,64892.0
 MSTR,2026-04-07,Patten Jarrod M,director,,S,700.0,123.109,86176.3,28000.0
 MSTR,2026-04-08,Patten Jarrod M,director,,S,1400.0,131.77,184478.0,28000.0
 MSTR,2026-04-09,Patten Jarrod M,director,,S,1400.0,130.075,182105.0,28000.0
@@ -10399,107 +10647,6 @@ NAKA,2026-08-18,Bailey David F,"director, officer, 10% owner",Chief Executive Of
 NAKA,2026-08-19,Bailey David F,"director, officer, 10% owner",Chief Executive Officer,P,32133.836,5.5885,179579.94,32133.836
 NAKA,2026-08-20,Bailey David F,"director, officer, 10% owner",Chief Executive Officer,P,4852.0,6.2675,30409.91,3185246.0
 NAKA,2026-09-15,Evans Tyler Matthew,"director, officer",Chief Investment Officer,S,982.0,7.63,7492.66,576764.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,100.0,0.398,39.8,3111011.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,100.0,0.398,39.8,3110911.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,100.0,0.398,39.8,3110811.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,100.0,0.379,37.9,3110711.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,100.0,0.378,37.8,3110611.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,100.0,0.378,37.8,3110511.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,40.0,0.348,13.92,3110471.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,60.0,0.398,23.88,3110411.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,50.0,0.358,17.9,3110361.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,450.0,0.398,179.1,3109911.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,56.0,0.362,20.27,3109855.0
-NAMI,2026-04-30,Jiang Jun Jason,"director, officer",CFO and COO,S,238.0,0.398,94.72,3109617.0
-NAMI,2026-05-01,Jiang Jun Jason,"director, officer",CFO and COO,S,137.0,0.383,52.47,3109480.0
-NAMI,2026-05-01,Jiang Jun Jason,"director, officer",CFO and COO,S,179.0,0.398,71.24,3109301.0
-NAMI,2026-05-01,Jiang Jun Jason,"director, officer",CFO and COO,S,184.0,0.398,73.23,3109117.0
-NAMI,2026-05-05,Jiang Jun Jason,"director, officer",CFO and COO,S,500.0,0.394,197.0,3108617.0
-NAMI,2026-05-05,Jiang Jun Jason,"director, officer",CFO and COO,S,500.0,0.394,197.0,3108117.0
-NAMI,2026-05-06,Jiang Jun Jason,"director, officer",CFO and COO,S,49.0,0.357,17.49,3108068.0
-NAMI,2026-05-06,Jiang Jun Jason,"director, officer",CFO and COO,S,202.0,0.378,76.36,3107866.0
-NAMI,2026-05-07,Jiang Jun Jason,"director, officer",CFO and COO,S,606.0,0.384,232.7,3107260.0
-NAMI,2026-05-07,Jiang Jun Jason,"director, officer",CFO and COO,S,4.0,0.388,1.55,3107256.0
-NAMI,2026-05-07,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,0.374,374.0,3106256.0
-NAMI,2026-05-08,Jiang Jun Jason,"director, officer",CFO and COO,S,500.0,0.381,190.5,3105756.0
-NAMI,2026-05-08,Jiang Jun Jason,"director, officer",CFO and COO,S,500.0,0.376,188.0,3105256.0
-NAMI,2026-05-08,Jiang Jun Jason,"director, officer",CFO and COO,S,790.0,0.374,295.46,3104466.0
-NAMI,2026-05-11,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,0.364,364.0,3103466.0
-NAMI,2026-05-12,Jiang Jun Jason,"director, officer",CFO and COO,S,36.0,0.311,11.2,3103430.0
-NAMI,2026-05-13,Jiang Jun Jason,"director, officer",CFO and COO,S,500.0,0.356,178.0,3102930.0
-NAMI,2026-05-13,Jiang Jun Jason,"director, officer",CFO and COO,S,500.0,0.356,178.0,3102430.0
-NAMI,2026-05-13,Jiang Jun Jason,"director, officer",CFO and COO,S,500.0,0.353,176.5,3101930.0
-NAMI,2026-05-14,Jiang Jun Jason,"director, officer",CFO AND COO,S,500.0,0.361,180.5,3101430.0
-NAMI,2026-05-14,Jiang Jun Jason,"director, officer",CFO AND COO,S,1000.0,0.364,364.0,3100430.0
-NAMI,2026-05-14,Jiang Jun Jason,"director, officer",CFO AND COO,S,100.0,0.364,36.4,3100330.0
-NAMI,2026-05-14,Jiang Jun Jason,"director, officer",CFO AND COO,S,100.0,0.35,35.0,3100230.0
-NAMI,2026-05-14,Jiang Jun Jason,"director, officer",CFO AND COO,S,100.0,0.355,35.5,3100130.0
-NAMI,2026-05-14,Jiang Jun Jason,"director, officer",CFO AND COO,S,100.0,0.358,35.8,3100030.0
-NAMI,2026-05-15,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,0.36,360.0,3099030.0
-NAMI,2026-05-18,Jiang Jun Jason,"director, officer",CFO and COO,S,1900.0,0.368,699.2,3097130.0
-NAMI,2026-05-19,Jiang Jun Jason,"director, officer",CFO & COO,S,2000.0,0.361,722.0,3095130.0
-NAMI,2026-05-20,Jiang Jun Jason,"director, officer",CFO and COO,S,1500.0,0.276,414.0,3093630.0
-NAMI,2026-05-20,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,0.269,269.0,3092630.0
-NAMI,2026-05-20,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.295,1475.0,3087630.0
-NAMI,2026-05-20,Jiang Jun Jason,"director, officer",CFO and COO,S,10000.0,0.295,2950.0,3077630.0
-NAMI,2026-05-20,Jiang Jun Jason,"director, officer",CFO and COO,S,30000.0,0.345,10350.0,3047630.0
-NAMI,2026-05-20,Jiang Jun Jason,"director, officer",CFO and COO,S,10000.0,0.354,3540.0,3037630.0
-NAMI,2026-05-20,Jiang Jun Jason,"director, officer",CFO and COO,S,4260.0,0.394,1678.44,3033370.0
-NAMI,2026-05-21,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.345,1725.0,3028370.0
-NAMI,2026-05-21,Jiang Jun Jason,"director, officer",CFO and COO,S,2000.0,0.351,702.0,3026370.0
-NAMI,2026-05-22,Jiang Jun Jason,"director, officer",CFO and COO,S,940.0,0.305,286.7,3025430.0
-NAMI,2026-05-26,Jiang Jun Jason,"director, officer",CFO and COO,S,2000.0,0.318,636.0,3023430.0
-NAMI,2026-05-26,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.295,1475.0,3018430.0
-NAMI,2026-05-26,Jiang Jun Jason,"director, officer",CFO and COO,S,20000.0,0.345,6900.0,2998430.0
-NAMI,2026-05-27,Jiang Jun Jason,"director, officer",CFO and COO,S,100.0,0.308,30.8,2998330.0
-NAMI,2026-05-27,Jiang Jun Jason,"director, officer",CFO and COO,S,10000.0,0.345,3450.0,2988330.0
-NAMI,2026-05-28,Jiang Jun Jason,"director, officer",Chief Financial Officer & COO,S,2000.0,0.307,614.0,2986330.0
-NAMI,2026-05-28,Jiang Jun Jason,"director, officer",Chief Financial Officer & COO,S,1000.0,0.301,301.0,2985330.0
-NAMI,2026-05-28,Jiang Jun Jason,"director, officer",Chief Financial Officer & COO,S,2000.0,0.299,598.0,2983330.0
-NAMI,2026-05-28,Jiang Jun Jason,"director, officer",Chief Financial Officer & COO,S,2000.0,0.295,590.0,2981330.0
-NAMI,2026-05-28,Jiang Jun Jason,"director, officer",Chief Financial Officer & COO,S,1000.0,0.304,304.0,2980330.0
-NAMI,2026-05-28,Jiang Jun Jason,"director, officer",Chief Financial Officer & COO,S,500.0,0.31,155.0,2979830.0
-NAMI,2026-05-29,Jiang Jun Jason,"director, officer",CFO and COO,S,2000.0,0.296,592.0,2977830.0
-NAMI,2026-06-01,Jiang Jun Jason,"director, officer",CFO and COO,S,2000.0,0.292,584.0,2975830.0
-NAMI,2026-06-02,Jiang Jun Jason,"director, officer",Chief Financial Officer & COO,S,500.0,0.278,139.0,2975330.0
-NAMI,2026-06-03,Jiang Jun Jason,"director, officer",CFO and COO,S,10000.0,0.257,2570.0,2965330.0
-NAMI,2026-06-03,Jiang Jun Jason,"director, officer",CFO and COO,S,1364.0,0.282,384.65,2963966.0
-NAMI,2026-06-03,Jiang Jun Jason,"director, officer",CFO and COO,S,10000.0,0.285,2850.0,2953966.0
-NAMI,2026-06-03,Jiang Jun Jason,"director, officer",CFO and COO,S,20000.0,0.305,6100.0,2933966.0
-NAMI,2026-06-04,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.263,1315.0,2928966.0
-NAMI,2026-06-04,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.276,1380.0,2923966.0
-NAMI,2026-06-05,Jiang Jun Jason,"director, officer",CFO and COO,S,932.0,0.265,246.98,2923034.0
-NAMI,2026-06-08,Jiang Jun Jason,"director, officer",CFO & COO,S,3000.0,0.256,768.0,2920034.0
-NAMI,2026-06-08,Jiang Jun Jason,"director, officer",CFO & COO,S,5000.0,0.251,1255.0,2915034.0
-NAMI,2026-06-08,Jiang Jun Jason,"director, officer",CFO & COO,S,5000.0,0.285,1425.0,2910034.0
-NAMI,2026-06-08,Jiang Jun Jason,"director, officer",CFO & COO,S,5000.0,0.295,1475.0,2905034.0
-NAMI,2026-06-08,Jiang Jun Jason,"director, officer",CFO & COO,S,10000.0,0.345,3450.0,2895034.0
-NAMI,2026-06-08,Jiang Jun Jason,"director, officer",CFO & COO,S,30000.0,0.384,11520.0,2865034.0
-NAMI,2026-06-09,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.285,1425.0,2860034.0
-NAMI,2026-06-09,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.295,1475.0,2855034.0
-NAMI,2026-06-10,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.285,1425.0,2850034.0
-NAMI,2026-06-10,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.295,1475.0,2845034.0
-NAMI,2026-06-10,Jiang Jun Jason,"director, officer",CFO and COO,S,10000.0,0.315,3150.0,2835034.0
-NAMI,2026-06-10,Jiang Jun Jason,"director, officer",CFO and COO,S,20000.0,0.345,6900.0,2815034.0
-NAMI,2026-06-11,Jiang Jun Jason,"director, officer",CFO and COO,S,5000.0,0.276,1380.0,2810034.0
-NAMI,2026-06-17,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,0.231,231.0,2809034.0
-NAMI,2026-06-17,Jiang Jun Jason,"director, officer",CFO and COO,S,10000.0,0.228,2280.0,2799034.0
-NAMI,2026-06-18,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,0.236,236.0,2798034.0
-NAMI,2026-06-22,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,0.24,0.48,2798032.0
-NAMI,2026-06-24,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,0.197,0.39,2793032.0
-NAMI,2026-06-24,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,0.197,0.39,2788032.0
-NAMI,2026-06-26,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.833,7.67,109521.0
-NAMI,2026-06-26,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.802,7.6,107521.0
-NAMI,2026-06-26,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.787,7.57,106930.0
-NAMI,2026-06-26,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.717,7.43,106457.0
-NAMI,2026-06-29,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.659,7.32,105457.0
-NAMI,2026-06-29,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.659,7.32,104457.0
-NAMI,2026-06-29,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.662,7.32,104207.0
-NAMI,2026-06-29,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.685,7.37,103957.0
-NAMI,2026-06-29,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.679,7.36,102957.0
-NAMI,2026-06-29,Jiang Jun Jason,"director, officer",CFO and COO,S,2.0,3.624,7.25,102382.0
-NAMI,2026-06-30,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,3.638,3638.0,101382.0
-NAMI,2026-06-30,Jiang Jun Jason,"director, officer",CFO and COO,S,1000.0,3.637,3637.0,100382.0
 NAUT,2026-06-02,"AH Equity Partners Bio II, L.L.C.",10% owner,,S,4615974.0,2.35,10847538.9,11682032.0
 NAUT,2026-06-02,"AH Equity Partners Bio II, L.L.C.",10% owner,,S,384026.0,2.35,902461.1,971885.0
 NBIS,2026-04-06,Korolenko Andrey,officer,Chief Infrastructure Officer,S,31357.0,111.2002,3486904.67,585209.0
@@ -10602,6 +10749,9 @@ NEO,2026-06-09,TETRAULT LYNN A.,director,,S,5307.0,11.29,59916.03,91422.0
 NEO,2026-06-15,TETRAULT LYNN A.,director,,S,5307.0,11.1,58907.7,86115.0
 NEO,2026-08-04,Aunan Greg D,officer,Chief Accounting Officer,S,20000.0,16.07,321400.0,5153.0
 NEOG,2026-08-04,Nassif Mikheal,"director, officer",CEO,P,370.0,11.81,4369.7,1074.0
+NEOV,2026-05-19,Bond Steve,"director, officer",Executive Vice President,P,47000.0,2.0879,98131.3,797000.0
+NEOV,2026-06-01,Bond Steve,"director, officer",Executive Vice President,P,43000.0,1.9913,85625.9,840000.0
+NEOV,2026-06-11,Hass John A,director,,P,25000.0,1.92,48000.0,101190.0
 NET,2026-06-16,Zatlyn Michelle,"director, officer",President and Board Co-Chair,S,3721.0,229.4753,853877.59,69345.0
 NET,2026-06-16,Zatlyn Michelle,"director, officer",President and Board Co-Chair,S,4671.0,230.3109,1075782.21,64674.0
 NET,2026-06-16,Zatlyn Michelle,"director, officer",President and Board Co-Chair,S,5171.0,231.251,1195798.92,59503.0
@@ -10952,7 +11102,6 @@ NET,2026-09-17,SEIFERT THOMAS J,officer,Chief Financial Officer,S,600.0,335.3197
 NET,2026-09-17,SEIFERT THOMAS J,officer,Chief Financial Officer,S,100.0,336.51,33651.0,107902.0
 NET,2026-09-22,Ledbetter Carl,director,,S,5000.0,353.1501,1765750.5,873073.0
 NFE,2026-09-11,EDENS WESLEY R,"director, officer, 10% owner",Chief Executive Officer,P,28313.0,0.0,0.0,957337.0
-NGVC,2026-05-29,Isely Charity,,,S,3000.0,29.04,87120.0,10697.0
 NICE,2026-08-07,Dayan Udi Yehuda,officer,"VP, Corporate Finance",S,500.0,100.0,50000.0,0.0
 NMAX,2026-08-21,CONYERS INVESTMENTS LLC,10% owner,,S,32416.0,11.023,357321.57,22762939.0
 NMAX,2026-08-28,CONYERS INVESTMENTS LLC,10% owner,,S,13350.0,11.0393,147374.65,22749589.0
@@ -11033,6 +11182,7 @@ NRIX,2026-08-05,Hansen Gwenn,officer,Chief Scientific Officer,S,4356.0,25.0,1089
 NRIX,2026-09-01,Hansen Gwenn,officer,Chief Scientific Officer,S,1452.0,25.47,36982.44,117227.0
 NRIX,2026-09-02,Ring Christine,officer,Chief Legal Officer,S,5387.0,25.6947,138417.35,9510.0
 NRIX,2026-09-02,Ring Christine,officer,Chief Legal Officer,S,400.0,26.6375,10655.0,9110.0
+NRIX,2026-10-02,Ring Christine,officer,Chief Legal Officer,S,5786.0,23.1851,134148.99,9110.0
 NSIT,2026-05-11,Morgado James A.,officer,Chief Financial Officer,P,2290.0,87.255,199813.95,17246.0
 NSIT,2026-05-29,Adatia Karim,officer,General Counsel,S,559.0,107.4,60036.6,248.0
 NSIT,2026-08-13,IBARGUEN ANTHONY,director,,S,4000.0,154.8333,619333.2,18188.0
@@ -11230,42 +11380,10 @@ NTSK,2026-07-13,"ICONIQ Strategic Partners VIII Holdings, L.P.",10% owner,,P,647
 NTSK,2026-09-11,"Lightspeed Venture Partners Select, L.P.",10% owner,,S,10621.0,14.9,158252.9,0.0
 NTSK,2026-09-11,"Lightspeed Venture Partners IX, L.P.",10% owner,,S,10621.0,14.9,158252.9,0.0
 NUTX,2026-09-18,Saunders Scott J,director,,S,203.0,214.25,43492.75,400.0
-NUVB,2026-04-06,Wentworth Kerry,officer,CHIEF REGULATORY OFFICER,S,200000.0,4.5178,903560.0,53000.0
-NUVB,2026-04-17,Wentworth Kerry,officer,CHIEF REGULATORY OFFICER,S,36750.0,5.0144,184279.2,53000.0
-NUVB,2026-04-17,Liu Dongfang,officer,CHIEF MEDICAL OFFICER,S,50000.0,5.02,251000.0,18000.0
-NUVB,2026-06-09,Mashal Robert,director,,P,25000.0,4.73,118250.0,225000.0
-NUVB,2026-06-23,Markel Stacy,officer,CHIEF PEOPLE OFFICER,S,125000.0,6.0255,753187.5,32591.0
-NUVB,2026-06-23,Wentworth Kerry,officer,CHIEF REGULATORY OFFICER,S,63000.0,6.0189,379190.7,53000.0
-NUVB,2026-06-23,Sauvage Philippe,officer,Chief Financial Officer,S,47668.0,6.0076,286370.28,12673.0
-NUVB,2026-08-19,Hattersley Gary,officer,CHIEF SCIENTIFIC OFFICER,S,100000.0,7.0924,709240.0,0.0
 NVA,2026-07-15,Gerteisen Christopher,"director, officer",Chief Executive Officer,P,2007.0,6.9,13848.3,143698.0
 NVA,2026-07-16,Gerteisen Christopher,"director, officer",Chief Executive Officer,P,5.0,6.9,34.5,143703.0
-NVCR,2026-06-02,LEUNG GABRIEL,director,,S,2945.0,15.7707,46444.71,89499.0
-NVCR,2026-06-02,Stafford Kristin,director,,S,2945.0,15.7707,46444.71,11324.0
-NVCR,2026-06-02,Ocean Allyson J,director,,S,2945.0,15.7707,46444.71,11324.0
-NVCR,2026-06-02,Scannell Timothy J,director,,S,2945.0,15.7707,46444.71,14288.0
-NVCR,2026-06-02,HILLEMAN JERYL L,director,,S,2945.0,15.7707,46444.71,13861.0
-NVCR,2026-06-02,VERNON W ANTHONY,director,,S,2945.0,15.7707,46444.71,197657.0
-NVCR,2026-06-02,Hung David,director,,S,2945.0,15.7707,46444.71,20465.0
-NVCR,2026-06-04,Leonard Frank X,officer,Chief Executive Officer,S,34273.0,17.9335,614634.85,459520.0
 NVCT,2026-06-30,Mosseri Marlio Charles,10% owner,,P,50000.0,18.32,916000.0,3186576.0
 NVCT,2026-06-30,BENTSUR RON,"director, officer, 10% owner",Chairman & CEO,P,12500.0,20.0,250000.0,3688424.0
-NVT,2026-05-04,Wacker Randolph A.,officer,SVP & Chief Accounting Officer,S,4036.0,165.5704,668242.13,49873.3117
-NVT,2026-05-04,Wacker Randolph A.,officer,SVP & Chief Accounting Officer,S,58.0,165.5,9599.0,49873.3117
-NVT,2026-05-05,Padmanabhan Aravind,officer,EVP & Chief Technology Officer,S,6988.0,170.3816,1190626.62,23243.2291
-NVT,2026-05-06,Heath Lynnette R,officer,EVP & Chief HR Officer,S,24360.0,167.5362,4081181.83,40200.0078
-NVT,2026-05-06,Heath Lynnette R,officer,EVP & Chief HR Officer,S,3111.0,167.9695,522553.11,37089.0078
-NVT,2026-05-11,Padmanabhan Aravind,officer,EVP & Chief Technology Officer,S,15942.0,174.0,2773908.0,23243.2291
-NVT,2026-05-11,Bennett Martha Claire,officer,EVP & Chief Marketing Officer,S,2457.0,170.0,417690.0,1531.4878
-NVT,2026-05-11,Bennett Martha Claire,officer,EVP & Chief Marketing Officer,S,1321.0,170.0,224570.0,224.7783
-NVT,2026-05-13,Zawoyski Sara E,officer,President-Systems Protection,S,27015.0,172.4508,4658758.36,99465.0734
-NVT,2026-05-13,Zawoyski Sara E,officer,President-Systems Protection,S,2397.0,172.9387,414534.06,97068.0734
-NVT,2026-08-05,Wozniak Beth,officer,Chair & CEO,S,4856.0,162.7136,790137.24,97016.9533
-NVT,2026-08-05,Wozniak Beth,officer,Chair & CEO,S,5885.0,163.609,962838.97,91131.9533
-NVT,2026-08-05,Wozniak Beth,officer,Chair & CEO,S,32280.0,164.7311,5317519.91,58851.9533
-NVT,2026-08-05,Wozniak Beth,officer,Chair & CEO,S,3240.0,165.3376,535693.82,55611.9533
-NVT,2026-08-05,Wacker Randolph A.,officer,SVP & Chief Accounting Officer,S,22524.713,164.62,3708018.25,27440.9256
-NVT,2026-08-10,van der Kolk Robert J.,officer,President of EMEA and APAC,S,5858.0,164.3201,962587.15,27386.8957
 NVTS,2026-05-27,Allexandre Chris,"director, officer",PRESIDENT AND CEO,S,13323.0,31.81,423804.63,1072633.0
 NVTS,2026-05-27,Singh Ranbir,director,,S,3060118.0,29.29,89630856.22,15607533.0
 NVTS,2026-05-27,HENDRIX RICHARD J,director,,S,33649.0,29.66,998029.34,33855.0
@@ -11281,7 +11399,6 @@ NWL,2026-05-27,Malkoski Kristine Kay,officer,"President, Learning & Dev.",S,1085
 NWL,2026-05-27,Malkoski Kristine Kay,officer,"President, Learning & Dev.",S,900.0,3.66,3294.0,0.0
 NWL,2026-08-06,Turner Bradford R,officer,Chief Legal & Admin. Officer,S,100000.0,6.16,616000.0,433398.0
 NXDR,2026-04-16,Schwartz Sophia,officer,General Counsel and Secretary,S,43015.0,1.5349,66023.72,336373.0
-NXDR,2026-04-16,How Antoinette,officer,Chief Accounting Officer,S,15597.0,1.5129,23596.7,24303.0
 NXDR,2026-06-22,Schwartz Sophia,officer,General Counsel and Secretary,S,28616.0,2.2517,64434.65,307757.0
 NXDR,2026-07-14,Lisowski Craig,officer,President of Products,S,60000.0,2.5016,150096.0,1754123.0
 NXDR,2026-07-16,Lisowski Craig,officer,President of Products,S,30000.0,2.5065,75195.0,1724123.0
@@ -11308,6 +11425,7 @@ OBIO,2026-08-03,Sherman Darren,"director, officer",See Remarks,S,15000.0,4.09,61
 OBIO,2026-08-26,Sherman Darren,"director, officer",See Remarks,P,2000.0,5.33,10660.0,2000.0
 OBIO,2026-09-01,Sherman Darren,"director, officer",See Remarks,S,15000.0,4.94,74100.0,1134402.0
 OBIO,2026-09-03,Hochman David P,"director, officer",See Remarks,P,10000.0,4.79,47900.0,1070746.0
+OBIO,2026-10-01,Sherman Darren,"director, officer",See Remarks,S,15000.0,6.36,95400.0,1119402.0
 OCC,2026-06-30,SMITH TRACY G,officer,EVP and CFO,S,32.0,22.0,704.0,346279.0
 OCC,2026-07-09,SMITH TRACY G,officer,EVP and CFO,S,16453.0,17.23,283485.19,329826.0
 ODD,2026-04-30,Drucker Mann Lindsay,officer,Global Chief Financial Officer,S,9600.0,15.62,149952.0,63383.0
@@ -11449,6 +11567,10 @@ OMER,2026-08-28,Cancelmo Peter B,officer,"VP, General Counsel",S,25000.0,18.6451
 OMER,2026-08-31,Cancelmo Peter B,officer,"VP, General Counsel",S,25000.0,18.5416,463540.0,200.0
 OMER,2026-09-22,Borges David J.,officer,"VP, Finance & CAO",S,10000.0,20.95,209500.0,0.0
 OMER,2026-09-23,Borges David J.,officer,"VP, Finance & CAO",S,10000.0,20.95,209500.0,0.0
+ON,2026-04-16,Thad Trent,officer,Exec VP & CFO,S,30000.0,80.0,2400000.0,331194.0
+ON,2026-04-23,Thad Trent,officer,Exec VP & CFO,S,30000.0,93.0,2790000.0,301194.0
+ON,2026-04-24,Thad Trent,officer,Exec VP & CFO,S,30000.0,100.0,3000000.0,271194.0
+ON,2026-10-01,GOPALSWAMY SUDHIR,officer,"Group President, AMG & ISG",S,15578.0,80.0,1246240.0,158177.0
 ONDS,2026-05-19,Seidl Randy,director,,S,10000.0,9.83,98300.0,295504.0
 ONDS,2026-05-20,COHEN RICHARD M,director,,S,7500.0,9.5,71250.0,264853.0
 ONDS,2026-06-02,Brock Eric A,"director, officer","Chairman, CEO and President",S,2378245.0,13.43,31939830.35,3583010.0
@@ -11509,6 +11631,8 @@ ORIC,2026-08-26,Piscitelli Dominic,officer,Chief Financial Officer,S,77000.0,13.
 ORIC,2026-09-24,Piscitelli Dominic,officer,Chief Financial Officer,S,100.0,13.5,1350.0,70328.0
 ORIC,2026-09-24,Piscitelli Dominic,officer,Chief Financial Officer,S,500.0,13.505,6752.5,69828.0
 ORIC,2026-09-28,Piscitelli Dominic,officer,Chief Financial Officer,S,13400.0,13.5267,181257.78,69828.0
+ORIC,2026-10-01,Heyman Richard A.,director,,S,3500.0,12.9141,45199.35,38300.0
+ORIC,2026-10-01,Heyman Richard A.,director,,S,3200.0,12.9141,41325.12,203472.0
 ORKA,2026-04-15,Goncalves Joana,officer,Chief Medical Officer,S,4227.0,65.7291,277836.91,36150.0
 ORKA,2026-04-15,Goncalves Joana,officer,Chief Medical Officer,S,2273.0,66.5643,151300.65,33877.0
 ORKA,2026-04-15,Goncalves Joana,officer,Chief Medical Officer,S,500.0,67.384,33692.0,33377.0
@@ -12086,6 +12210,7 @@ PD,2026-05-19,Tejada Jennifer,"director, officer",Executive Chair,S,105101.0,6.9
 PD,2026-07-16,Tejada Jennifer,"director, officer",Executive Chair,S,302100.0,10.7,3232470.0,1678251.0
 PD,2026-07-17,Tejada Jennifer,"director, officer",Executive Chair,S,96847.0,10.413,1008467.81,1678251.0
 PD,2026-09-24,Tejada Jennifer,"director, officer",Executive Chair,S,8000.0,15.0,120000.0,1670251.0
+PD,2026-09-30,Tejada Jennifer,"director, officer",Executive Chair,S,107000.0,15.1097,1616737.9,1563251.0
 PDEX,2026-03-16,Domingo Angelita Rebamontan,director,,S,998.0,47.24,47145.52,18779.0
 PDEX,2026-05-21,Van Kirk Richard Lee Jr,"director, officer",Chief Executive Officer,S,1918.0,62.22,119337.96,97789.0
 PDEX,2026-05-21,Van Kirk Richard Lee Jr,"director, officer",Chief Executive Officer,S,3404.0,62.96,214315.84,94385.0
@@ -12311,20 +12436,6 @@ PTEN,2026-09-01,Wexler Seth David,officer,"EVP, General Counsel&Secretary",S,120
 PTEN,2026-09-02,Drummond Robert Wayne Jr,director,,S,198395.0,12.85,2549375.75,928773.0
 PTEN,2026-09-02,Hendricks William Andrew JR,"director, officer",President & CEO,S,250000.0,12.93,3232500.0,2292474.0
 PTEN,2026-09-18,Hendricks William Andrew JR,"director, officer",President & CEO,S,250000.0,11.91,2977500.0,2042474.0
-PTGX,2026-04-20,Ali Asif,officer,Chief Financial Officer,S,1750.0,105.47,184572.5,59003.0
-PTGX,2026-05-07,Giraudo Bryan,director,,S,36000.0,100.14,3605040.0,27825.0
-PTGX,2026-05-07,Giraudo Bryan,director,,S,12000.0,100.07,1200840.0,6000.0
-PTGX,2026-05-08,Giraudo Bryan,director,,S,6000.0,100.0,600000.0,0.0
-PTGX,2026-05-08,Giraudo Bryan,director,,S,5130.0,100.0,513000.0,12695.0
-PTGX,2026-05-12,PATEL DINESH V PH D,"director, officer",President and CEO,S,75000.0,100.12,7509000.0,523478.0
-PTGX,2026-05-29,Waddill William D.,director,,S,9000.0,99.64,896760.0,7825.0
-PTGX,2026-06-10,Waddill William D.,director,,S,9000.0,107.68,969120.0,7825.0
-PTGX,2026-06-23,Waddill William D.,director,,S,9000.0,117.94,1061460.0,7825.0
-PTGX,2026-08-10,PATEL DINESH V PH D,"director, officer",President and CEO,S,65761.0,149.11,9805622.71,523478.0
-PTGX,2026-08-11,PATEL DINESH V PH D,"director, officer",President and CEO,S,34239.0,148.52,5085176.28,523478.0
-PTGX,2026-09-08,PATEL DINESH V PH D,"director, officer",President and CEO,S,54174.0,145.87,7902361.38,522968.0
-PTGX,2026-09-09,PATEL DINESH V PH D,"director, officer",President and CEO,S,63548.0,146.18,9289446.64,522968.0
-PTGX,2026-09-10,PATEL DINESH V PH D,"director, officer",President and CEO,S,7278.0,144.1,1048759.8,522968.0
 PUBM,2026-04-27,Goel Rajeev K.,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,44000.0,9.776,430144.0,21206.0
 PUBM,2026-05-14,Goel Rajeev K.,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,44000.0,9.5516,420270.4,21206.0
 PUBM,2026-05-18,Gimbel Lisa,officer,CHIEF ACCOUNTING OFFICER,S,1396.0,17.0397,23787.42,16927.0
@@ -12360,7 +12471,42 @@ PUBM,2026-09-03,Goel Amar K.,"director, officer, 10% owner","CHAIRMAN, CHIEF INN
 PUBM,2026-09-16,Kumar Mukul,officer,"PRESIDENT, ENGINEERING",S,8000.0,16.7785,134228.0,112945.0
 PUBM,2026-09-24,Goel Rajeev K.,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,10080.0,18.0516,181960.13,40373.0
 PUBM,2026-09-24,Goel Rajeev K.,"director, officer, 10% owner",CHIEF EXECUTIVE OFFICER,S,40373.0,18.5439,748672.87,0.0
+PUBM,2026-10-01,Gimbel Lisa,officer,CHIEF ACCOUNTING OFFICER,S,500.0,18.99,9495.0,15927.0
+PVLA,2026-04-15,Goin Kathleen,officer,Chief Operating Officer,S,1502.0,125.9647,189198.98,2800.0
+PVLA,2026-04-15,Goin Kathleen,officer,Chief Operating Officer,S,1500.0,127.1254,190688.1,1300.0
+PVLA,2026-04-15,Goin Kathleen,officer,Chief Operating Officer,S,561.0,128.2349,71939.78,739.0
+PVLA,2026-04-15,Goin Kathleen,officer,Chief Operating Officer,S,639.0,129.1692,82539.12,100.0
+PVLA,2026-04-15,Goin Kathleen,officer,Chief Operating Officer,S,100.0,130.33,13033.0,0.0
+PVLA,2026-05-20,Goin Kathleen,officer,Chief Operating Officer,S,3363.0,110.3464,371094.94,939.0
+PVLA,2026-05-20,Goin Kathleen,officer,Chief Operating Officer,S,891.0,111.2963,99165.0,48.0
+PVLA,2026-05-20,Goin Kathleen,officer,Chief Operating Officer,S,48.0,111.895,5370.96,0.0
+PVLA,2026-06-17,Goin Kathleen,officer,Chief Operating Officer,S,2390.0,110.2594,263519.97,1912.0
+PVLA,2026-06-17,Goin Kathleen,officer,Chief Operating Officer,S,1887.0,111.3128,210047.25,25.0
+PVLA,2026-06-17,Goin Kathleen,officer,Chief Operating Officer,S,25.0,112.23,2805.75,0.0
+PVLA,2026-07-15,Goin Kathleen,officer,Chief Operating Officer,S,522.0,147.1365,76805.25,3780.0
+PVLA,2026-07-15,Goin Kathleen,officer,Chief Operating Officer,S,840.0,148.4018,124657.51,2940.0
+PVLA,2026-07-15,Goin Kathleen,officer,Chief Operating Officer,S,1029.0,149.2667,153595.43,1911.0
+PVLA,2026-07-15,Goin Kathleen,officer,Chief Operating Officer,S,1911.0,150.2529,287133.29,0.0
+PVLA,2026-08-19,Goin Kathleen,officer,Chief Operating Officer,S,1500.0,151.39,227085.0,2802.0
+PVLA,2026-08-19,Goin Kathleen,officer,Chief Operating Officer,S,1998.0,151.7979,303292.2,804.0
+PVLA,2026-08-19,Goin Kathleen,officer,Chief Operating Officer,S,400.0,152.9975,61199.0,404.0
+PVLA,2026-08-19,Goin Kathleen,officer,Chief Operating Officer,S,102.0,155.5898,15870.16,302.0
+PVLA,2026-08-19,Goin Kathleen,officer,Chief Operating Officer,S,302.0,156.77,47344.54,0.0
+PVLA,2026-09-02,KIRITSY CHRISTOPHER P,director,,S,313.0,157.0,49141.0,250.0
+PVLA,2026-09-11,JENKINS GEORGE M,director,,S,6520.0,150.6189,982035.23,181096.0
+PVLA,2026-09-11,JENKINS GEORGE M,director,,S,4577.0,151.7157,694402.76,176519.0
+PVLA,2026-09-11,JENKINS GEORGE M,director,,S,1274.0,153.0591,194997.29,175245.0
+PVLA,2026-09-14,JENKINS GEORGE M,director,,S,5632.0,151.4625,853036.8,169613.0
+PVLA,2026-09-14,JENKINS GEORGE M,director,,S,6160.0,152.1159,937033.94,163453.0
+PVLA,2026-09-14,JENKINS GEORGE M,director,,S,1560.0,153.099,238834.44,161893.0
+PVLA,2026-09-15,JENKINS GEORGE M,director,,S,954.0,149.3779,142506.52,160939.0
+PVLA,2026-09-15,JENKINS GEORGE M,director,,S,263.0,150.4045,39556.38,160676.0
+PVLA,2026-09-15,JENKINS GEORGE M,director,,S,560.0,151.3263,84742.73,160116.0
+PVLA,2026-09-16,Goin Kathleen,officer,Chief Operating Officer,S,1659.0,151.1589,250772.62,2643.0
+PVLA,2026-09-16,Goin Kathleen,officer,Chief Operating Officer,S,989.0,152.3617,150685.72,1654.0
+PVLA,2026-09-16,Goin Kathleen,officer,Chief Operating Officer,S,1654.0,153.2434,253464.58,0.0
 PYXS,2026-06-30,Dupont Jakob,director,,S,35000.0,3.06,107100.0,38741.0
+PYXS,2026-10-01,GordonMD Global Investments LP,10% owner,,P,5517000.0,0.0,0.0,15541909.0
 QCOM,2026-04-13,Palkhiwala Akash J.,officer,"EVP, CFO & COO",S,1971.0,130.1206,256467.7,31213.0
 QCOM,2026-04-13,Palkhiwala Akash J.,officer,"EVP, CFO & COO",S,529.0,131.1652,69386.39,30684.0
 QCOM,2026-04-30,Grech Patricia Y,officer,"SVP, Chief Accounting Officer",S,192.0,172.0,33024.0,0.0
@@ -12581,6 +12727,14 @@ QSI,2026-09-21,LaPointe Christian,officer,GC & Corp. Secretary,S,9795.0,0.7558,7
 QSI,2026-09-22,Hawkins Jeffrey Alan,"director, officer",President & CEO,S,9709.0,0.7608,7386.61,3639950.0
 QSI,2026-09-22,Keyes Jeffry R.,officer,Chief Financial Officer,S,2493.0,0.7608,1896.67,1716684.0
 QSI,2026-09-22,LaPointe Christian,officer,GC & Corp. Secretary,S,4721.0,0.7608,3591.74,1167913.0
+QTEX,2026-05-27,Tehila Yafit,officer,Chief Financial Officer,S,13605.0,2.0251,27551.49,946395.0
+QTEX,2026-05-27,Tehila Yafit,officer,Chief Financial Officer,S,16395.0,2.0134,33009.69,930000.0
+QTEX,2026-05-28,Tehila Yafit,officer,Chief Financial Officer,S,15000.0,2.56,38400.0,915000.0
+QTEX,2026-05-28,Tehila Yafit,officer,Chief Financial Officer,S,15000.0,3.0,45000.0,900000.0
+QTEX,2026-05-29,Yechezkely Hayon Daniella,officer,Chief Technology Officer,S,50000.0,3.0,150000.0,780000.0
+QTEX,2026-05-29,Tehila Yafit,officer,Chief Financial Officer,S,1900.0,3.51,6669.0,898100.0
+QTEX,2026-06-01,Tehila Yafit,officer,Chief Financial Officer,S,28100.0,3.5,98350.0,870000.0
+QTEX,2026-09-28,Ben-Noon Dagi Shahar,"director, officer",Chief Executive Officer,P,168894.0,0.7078,119543.17,3646133.0
 QTRX,2026-05-12,Meadows Benjamin,officer,Chief Commercial Officer,P,3500.0,2.77,9695.0,3500.0
 QTRX,2026-08-12,DONNELLY WILLIAM P,director,,P,27155.0,2.75,74676.25,27155.0
 QTRX,2026-08-13,DONNELLY WILLIAM P,director,,P,72245.0,2.93,211677.85,99400.0
@@ -12708,6 +12862,12 @@ RBRK,2026-09-17,Choudary Kiran Kumar,officer,Chief Financial Officer,S,200.0,103
 RBRK,2026-09-17,Choudary Kiran Kumar,officer,Chief Financial Officer,S,300.0,105.98,31794.0,963378.0
 RBRK,2026-09-17,Choudary Kiran Kumar,officer,Chief Financial Officer,S,2728.0,107.42,293041.76,960650.0
 RBRK,2026-09-17,Choudary Kiran Kumar,officer,Chief Financial Officer,S,2572.0,108.05,277904.6,958078.0
+RBRK,2026-10-01,THOMPSON JOHN WENDELL,director,,S,300.0,114.68,34404.0,7200.0
+RBRK,2026-10-01,THOMPSON JOHN WENDELL,director,,S,1700.0,115.62,196554.0,5500.0
+RBRK,2026-10-01,THOMPSON JOHN WENDELL,director,,S,500.0,116.47,58235.0,5000.0
+RBRK,2026-10-01,THOMPSON JOHN WENDELL,director,,S,896.0,114.71,102780.16,18466.0
+RBRK,2026-10-01,THOMPSON JOHN WENDELL,director,,S,7710.0,115.57,891044.7,10756.0
+RBRK,2026-10-01,THOMPSON JOHN WENDELL,director,,S,2394.0,116.46,278805.24,8362.0
 RCEL,2026-05-19,O'Toole David D,officer,CFO,P,2000.0,4.24,8480.0,143927.0
 RCEL,2026-05-20,O'Toole David D,officer,CFO,P,2000.0,4.26,8520.0,145927.0
 RCEL,2026-06-01,Woody Joseph Fralin,director,,P,5000.0,4.34,21700.0,5000.0
@@ -12719,145 +12879,10 @@ RCEL,2026-06-03,Woody Joseph Fralin,director,,P,5000.0,4.0899,20449.5,92761.0
 RCEL,2026-06-09,Woody Joseph Fralin,director,,P,5200.0,4.0,20800.0,107961.0
 RCEL,2026-06-09,Woody Joseph Fralin,director,,P,5000.0,4.2,21000.0,97761.0
 RCEL,2026-06-09,Woody Joseph Fralin,director,,P,5000.0,4.18,20900.0,102761.0
-RDDT,2026-05-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,700.0,154.19,107933.0,428495.0
-RDDT,2026-05-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2000.0,155.22,310440.0,426495.0
-RDDT,2026-05-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,3322.0,156.4,519560.8,423173.0
-RDDT,2026-05-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,4211.0,157.17,661842.87,418962.0
-RDDT,2026-05-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,7467.0,158.2,1181279.4,411495.0
-RDDT,2026-05-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,300.0,158.96,47688.0,411195.0
-RDDT,2026-05-18,Wong Jennifer L.,officer,Chief Operating Officer,S,800.0,154.6,123680.0,1126818.0
-RDDT,2026-05-18,Wong Jennifer L.,officer,Chief Operating Officer,S,600.0,155.58,93348.0,1126218.0
-RDDT,2026-05-18,Wong Jennifer L.,officer,Chief Operating Officer,S,4941.0,156.92,775341.72,1121277.0
-RDDT,2026-05-18,Wong Jennifer L.,officer,Chief Operating Officer,S,6458.0,157.67,1018232.86,1114819.0
-RDDT,2026-05-18,Wong Jennifer L.,officer,Chief Operating Officer,S,16914.0,158.85,2686788.9,1097905.0
-RDDT,2026-05-18,Wong Jennifer L.,officer,Chief Operating Officer,S,6954.0,159.66,1110275.64,1090951.0
-RDDT,2026-05-18,Wong Jennifer L.,officer,Chief Operating Officer,S,2500.0,160.47,401175.0,1088451.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,600.0,167.59,100554.0,391214.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1000.0,168.61,168610.0,390214.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,800.0,169.98,135984.0,389414.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,600.0,170.96,102576.0,388814.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1893.0,173.3,328056.9,386921.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,4266.0,174.27,743435.82,382655.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2141.0,175.29,375295.89,380514.0
-RDDT,2026-05-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,6700.0,176.09,1179803.0,373814.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,400.0,169.48,67792.0,391414.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,500.0,170.31,85155.0,390914.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,500.0,171.39,85695.0,390414.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,500.0,173.59,86795.0,389914.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,900.0,174.43,156987.0,389014.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,500.0,175.68,87840.0,388514.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1400.0,176.82,247548.0,387114.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2350.0,177.69,417571.5,384764.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,3050.0,178.71,545065.5,381714.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,3100.0,179.65,556915.0,378614.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1400.0,180.85,253190.0,377214.0
-RDDT,2026-06-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,3400.0,181.78,618052.0,373814.0
-RDDT,2026-06-16,Wong Jennifer L.,officer,Chief Operating Officer,S,8560.0,175.41,1501509.6,1080945.0
-RDDT,2026-06-16,Wong Jennifer L.,officer,Chief Operating Officer,S,9020.0,176.2,1589324.0,1071925.0
-RDDT,2026-06-16,Wong Jennifer L.,officer,Chief Operating Officer,S,11580.0,177.31,2053249.8,1060345.0
-RDDT,2026-06-16,Wong Jennifer L.,officer,Chief Operating Officer,S,7306.0,178.09,1301125.54,1053039.0
-RDDT,2026-06-16,Wong Jennifer L.,officer,Chief Operating Officer,S,2000.0,179.1,358200.0,1051039.0
-RDDT,2026-06-16,Wong Jennifer L.,officer,Chief Operating Officer,S,300.0,180.03,54009.0,1050739.0
-RDDT,2026-06-16,Wong Jennifer L.,officer,Chief Operating Officer,S,400.0,181.94,72776.0,1050339.0
-RDDT,2026-06-30,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1100.0,170.71,187781.0,390714.0
-RDDT,2026-06-30,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2200.0,171.74,377828.0,388514.0
-RDDT,2026-06-30,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,4999.0,172.91,864377.09,383515.0
-RDDT,2026-06-30,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,8901.0,173.77,1546726.77,374614.0
-RDDT,2026-06-30,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,800.0,174.61,139688.0,373814.0
-RDDT,2026-07-01,Reynolds Michelle Marie,officer,Chief Accounting Officer,S,808.0,200.0,161600.0,15060.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,300.0,190.54,57162.0,1089206.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,500.0,192.08,96040.0,1088706.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,700.0,193.85,135695.0,1088006.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,4053.0,195.1,790740.3,1083953.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,4047.0,195.79,792362.13,1079906.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,5600.0,196.83,1102248.0,1074306.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,10767.0,198.03,2132189.01,1063539.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,4900.0,198.94,974806.0,1058639.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,3184.0,199.89,636449.76,1055455.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,3616.0,200.89,726418.24,1051839.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,700.0,201.94,141358.0,1051139.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,100.0,204.14,20414.0,1051039.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,500.0,205.85,102925.0,1050539.0
-RDDT,2026-07-15,Wong Jennifer L.,officer,Chief Operating Officer,S,200.0,206.83,41366.0,1050339.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,100.0,190.68,19068.0,391714.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,300.0,192.18,57654.0,391414.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,600.0,194.19,116514.0,390814.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2600.0,195.34,507884.0,388214.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2490.0,196.46,489185.4,385724.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1981.0,197.58,391405.98,383743.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,5046.0,198.27,1000470.42,378697.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1883.0,199.44,375545.52,376814.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1600.0,200.47,320752.0,375214.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,900.0,201.31,181179.0,374314.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,300.0,202.25,60675.0,374014.0
-RDDT,2026-07-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,200.0,205.69,41138.0,373814.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,700.0,154.51,108157.0,391114.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,600.0,155.6,93360.0,390514.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,300.0,157.18,47154.0,390214.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,800.0,158.9,127120.0,389414.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,9521.0,159.87,1522122.27,379893.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,4564.0,160.56,732795.84,375329.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1200.0,161.78,194136.0,374129.0
-RDDT,2026-08-04,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,315.0,162.45,51171.75,373814.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1300.0,175.04,227552.0,390514.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2292.0,176.11,403644.12,388222.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2808.0,177.04,497128.32,385414.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,5100.0,178.09,908259.0,380314.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2800.0,178.95,501060.0,377514.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2200.0,180.15,396330.0,375314.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,600.0,181.06,108636.0,374714.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,600.0,182.19,109314.0,374114.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,200.0,182.82,36564.0,373914.0
-RDDT,2026-08-14,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,100.0,184.06,18406.0,373814.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,2796.0,174.82,488796.72,1122543.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,5324.0,175.7,935426.8,1117219.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,11380.0,176.73,2011187.4,1105839.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,14000.0,177.91,2490740.0,1091839.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,12570.0,178.71,2246384.7,1079269.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,21930.0,180.0,3947400.0,1057339.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,3200.0,180.71,578272.0,1054139.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,2400.0,181.88,436512.0,1051739.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,1000.0,182.7,182700.0,1050739.0
-RDDT,2026-08-14,Wong Jennifer L.,officer,Chief Operating Officer,S,400.0,183.95,73580.0,1050339.0
-RDDT,2026-08-25,Sauerberg Robert A.,director,,S,5128.0,159.92,820069.76,27087.0
-RDDT,2026-08-31,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,10200.0,147.66,1506132.0,344232.0
-RDDT,2026-08-31,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,7000.0,148.35,1038450.0,337232.0
-RDDT,2026-08-31,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,700.0,149.59,104713.0,336532.0
-RDDT,2026-08-31,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,100.0,151.17,15117.0,336432.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,2700.0,158.04,426708.0,1069526.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,8758.0,159.13,1393660.54,1060768.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,5442.0,159.84,869849.28,1055326.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,3500.0,161.06,563710.0,1051826.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,9100.0,162.34,1477294.0,1042726.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,8690.0,163.16,1417860.4,1034036.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,13010.0,164.17,2135851.7,1021026.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,6500.0,165.09,1073085.0,1014526.0
-RDDT,2026-09-14,Wong Jennifer L.,officer,Chief Operating Officer,S,2300.0,165.9,381570.0,1012226.0
-RDDT,2026-09-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,900.0,158.21,142389.0,352840.0
-RDDT,2026-09-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,7602.0,159.44,1212062.88,345238.0
-RDDT,2026-09-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,6027.0,160.28,966007.56,339211.0
-RDDT,2026-09-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1079.0,160.99,173708.21,338132.0
-RDDT,2026-09-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,1400.0,162.81,227934.0,336732.0
-RDDT,2026-09-15,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,300.0,163.64,49092.0,336432.0
-RDDT,2026-09-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,300.0,142.44,42732.0,353440.0
-RDDT,2026-09-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,2500.0,143.78,359450.0,350940.0
-RDDT,2026-09-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,8100.0,144.64,1171584.0,342840.0
-RDDT,2026-09-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,5308.0,145.46,772101.68,337532.0
-RDDT,2026-09-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,776.0,146.62,113777.12,336756.0
-RDDT,2026-09-29,Huffman Steve Ladd,"director, officer, 10% owner",CEO & President,S,324.0,147.25,47709.0,336432.0
 RDNT,2026-06-15,Forthuber Stephen M,officer,Pres & CEO-Eastern Operations,S,24214.0,57.79,1399327.06,527052.0
 RDNT,2026-06-15,Forthuber Stephen M,officer,Pres & CEO-Eastern Operations,S,19853.0,58.61,1163584.33,507199.0
 RDNT,2026-06-16,Wesdorp Cornelis,officer,"Pres & CEO, Digital Health",S,4750.0,58.11,276022.5,69075.0
 RDNT,2026-06-18,SWARTZ DAVID L,director,,S,2699.0,53.89,145449.11,177013.0
-RDVT,2026-06-01,DELL JEFFREY ALAN,officer,Chief Information Officer,S,5000.0,57.62,288100.0,160889.0
-RDVT,2026-06-01,DELL JEFFREY ALAN,officer,Chief Information Officer,S,5000.0,57.25,286250.0,155889.0
-RDVT,2026-06-01,Dubner Derek,"director, officer",Chief Executive Officer,S,6000.0,57.62,345720.0,563273.0
-RDVT,2026-06-01,Dubner Derek,"director, officer",Chief Executive Officer,S,6000.0,57.24,343440.0,557273.0
-RDVT,2026-06-01,MacLachlan Daniel,officer,Chief Financial Officer,S,6000.0,57.62,345720.0,364902.0
-RDVT,2026-06-01,MacLachlan Daniel,officer,Chief Financial Officer,S,6000.0,57.24,343440.0,358902.0
-RDVT,2026-06-01,Reilly James Patrick,officer,President,S,6000.0,57.62,345720.0,238351.0
-RDVT,2026-06-01,Reilly James Patrick,officer,President,S,6000.0,57.24,343440.0,232351.0
-RDVT,2026-08-27,LIVEK WILLIAM PAUL,director,,P,2000.0,71.49,142980.0,22733.0
 RDW,2026-04-08,"AE RED HOLDINGS, LLC","director, 10% owner",,S,407776.0,10.17,4147081.92,33227441.0
 RDW,2026-04-09,"AE RED HOLDINGS, LLC","director, 10% owner",,S,542368.0,9.37,5081988.16,32685073.0
 RDW,2026-04-10,"AE RED HOLDINGS, LLC","director, 10% owner",,S,581018.0,9.31,5409277.58,32104055.0
@@ -13024,6 +13049,9 @@ RKLB,2026-08-27,Kampani Arjun,officer,SVP & General Counsel,S,4600.0,66.4961,305
 RKLB,2026-08-27,Kampani Arjun,officer,SVP & General Counsel,S,1434.0,67.1579,96304.43,250917.0
 RKLB,2026-09-02,Spice Adam C.,officer,Chief Financial Officer,S,67257.0,62.2564,4187178.69,1228867.0
 RKLB,2026-09-02,Spice Adam C.,officer,Chief Financial Officer,S,72900.0,62.9704,4590542.16,1155967.0
+RKLB,2026-10-01,Spice Adam C.,officer,Chief Financial Officer,S,39669.0,70.2827,2788044.43,1256455.0
+RKLB,2026-10-01,Spice Adam C.,officer,Chief Financial Officer,S,85288.0,70.8922,6046253.95,1171167.0
+RKLB,2026-10-01,Spice Adam C.,officer,Chief Financial Officer,S,15200.0,71.7862,1091150.24,1155967.0
 RLAY,2026-04-07,Catinazzo Thomas,officer,Chief Financial Officer,S,17717.0,13.01,230498.17,213867.0
 RLAY,2026-04-09,Catinazzo Thomas,officer,Chief Financial Officer,S,1800.0,15.0,27000.0,213867.0
 RLAY,2026-04-28,Catinazzo Thomas,officer,Chief Financial Officer,S,972.0,14.79,14375.88,212895.0
@@ -13110,7 +13138,6 @@ ROCK,2026-05-26,Bosway William T,"director, officer",President and CEO,P,19735.0
 ROG,2026-04-30,Wallace Peter C,director,,S,967.0,131.5609,127219.39,5690.0
 ROG,2026-04-30,Wallace Peter C,director,,S,1430.0,132.633,189665.19,4260.0
 ROG,2026-05-01,Larabee Brian Keith,officer,SVP & GM - EMS,S,830.0,135.91,112805.3,5515.0
-ROIV,2026-04-20,Venker Eric,officer,President & Immunovant CEO,S,200000.0,29.59,5918000.0,1647546.0
 ROIV,2026-05-22,Venker Eric,officer,President & Immunovant CEO,S,200000.0,30.27,6054000.0,1613063.0
 ROIV,2026-06-24,Venker Eric,officer,President & Immunovant CEO,S,153766.0,33.05,5081966.3,1659297.0
 ROIV,2026-06-24,Venker Eric,officer,President & Immunovant CEO,S,46234.0,33.51,1549301.34,1613063.0
@@ -13150,6 +13177,7 @@ ROIV,2026-09-15,"Epperly Melissa B,",director,,S,4338.0,39.65,172001.7,10500.0
 ROIV,2026-09-15,"Epperly Melissa B,",director,,S,600.0,40.38,24228.0,9900.0
 ROIV,2026-09-15,Fitzgerald Meghan,director,,S,4712.0,39.68,186972.16,36508.0
 ROIV,2026-09-15,Fitzgerald Meghan,director,,S,400.0,40.45,16180.0,36108.0
+ROIV,2026-09-30,Venker Eric,officer,President & Immunovant CEO,S,200000.0,36.62,7324000.0,1599154.0
 RPD,2026-04-22,Murphy Scott M,officer,Chief Accounting Officer,S,827.0,6.35,5251.45,40201.0
 RSKD,2026-06-18,Shachar Erez,director,,S,101600.0,4.9278,500664.48,4005766.0
 RSKD,2026-06-22,Kumaraswami Ravi,officer,Pres. Worldwide Field Ops.,S,33601.0,5.001,168038.6,1898612.0
@@ -13335,6 +13363,7 @@ RVTY,2026-04-20,Gonzales Anita,officer,Vice President and CAO,S,80.0,92.8,7424.0
 RVTY,2026-07-20,Gonzales Anita,officer,Vice President and CAO,S,85.0,109.48,9305.8,7201.0
 RVTY,2026-09-16,Vohra Tajinder S,officer,Please See Remarks,S,7330.0,140.88,1032650.4,6635.0
 RVTY,2026-09-21,Krakowiak Maxwell,officer,Please See Remarks,S,1631.0,144.53,235728.43,14781.0
+RVTY,2026-10-01,Gonzales Anita,officer,VP and CAO,S,84.0,155.48,13060.32,7117.0
 RXRX,2026-04-07,Gibson Christopher,director,,S,40000.0,3.1,124000.0,906556.0
 RXRX,2026-04-07,Borgeson Blake,director,,S,30000.0,3.1,93000.0,6229863.0
 RXRX,2026-04-22,Gibson Christopher,director,,S,40000.0,3.61,144400.0,906556.0
@@ -14200,18 +14229,11 @@ SPT,2026-08-11,Howard Justyn Russell,"director, officer, 10% owner",Executive Ch
 SPT,2026-09-02,Howard Justyn Russell,"director, officer, 10% owner",Executive Chair,S,10895.0,11.451,124758.65,239840.0
 SPT,2026-09-02,Rankin Aaron Edward Frederick,"director, officer, 10% owner",Chief Technology Officer,S,717.0,11.451,8210.37,234444.0
 SPT,2026-09-11,Howard Justyn Russell,"director, officer, 10% owner",Executive Chair,S,40000.0,10.769,430760.0,7417.0
-SRFM,2026-04-16,White Deanna Leigh,officer,Chief Executive Officer,S,13860.0,1.3055,18094.23,689390.0
-SRFM,2026-04-16,White Deanna Leigh,officer,Chief Executive Officer,S,13860.0,1.3055,18094.23,675530.0
-SRFM,2026-04-16,Reeves Oliver,officer,Chief Financial Officer,S,14437.0,1.3055,18847.5,304001.0
-SRFM,2026-04-16,Reeves Oliver,officer,Chief Financial Officer,S,14437.0,1.3055,18847.5,289564.0
-SRFM,2026-05-08,White Deanna Leigh,officer,Chief Executive Officer,S,56884.0,1.3146,74779.71,899130.0
-SRFM,2026-05-08,Reeves Oliver,officer,Chief Financial Officer,S,76569.0,1.3144,100642.29,470816.0
 SRZN,2026-05-04,Li Yang,officer,"Exec. Vice President, Research",S,1584.0,33.3328,52799.16,17216.0
 SRZN,2026-05-04,Williams Charles O,officer,Chief Operating Officer,S,2036.0,33.3328,67865.58,16571.0
 SRZN,2026-05-04,Parker Craig C,"director, officer",Chief Executive Officer,S,4524.0,33.3328,150797.59,16553.0
 SRZN,2026-07-22,"TCG Crossover GP II, LLC",10% owner,,S,162500.0,21.25,3453125.0,574054.0
 SRZN,2026-07-22,"TCG Crossover GP II, LLC",10% owner,,S,162500.0,21.25,3453125.0,574047.0
-SST,2026-04-15,Kidambi Tridivesh,officer,Chief Financial Officer,P,26910.0,3.0,80730.0,146816.0
 SSTI,2026-08-31,Jochim David,officer,See remarks,S,1162.0,6.0517,7032.08,35228.0
 STIM,2026-04-20,Chernett Jorey,10% owner,,P,100000.0,1.58,158000.0,9878988.0
 STIM,2026-04-21,Chernett Jorey,10% owner,,P,100000.0,1.51,151000.0,9978988.0
@@ -14234,6 +14256,8 @@ STLN,2026-07-14,Podnos Yale,officer,Chief Medical Officer,S,5478.0,6.35,34785.3,
 STLN,2026-07-21,Chernett Jorey,10% owner,,P,18000.0,5.27,94860.0,10648858.0
 STLN,2026-08-14,Chernett Jorey,10% owner,,P,12000.0,6.54,78480.0,10660858.0
 STLN,2026-08-21,Hively Brad,director,,S,298853.0,6.5126,1946310.05,411976.0
+STRL,2026-04-23,CUTILLO JOSEPH A,officer,Chief Executive Officer,S,50000.0,497.5727,24878635.0,290593.0
+STRL,2026-06-25,Wolf Mark D.,officer,"General Counsel, Corporate Sec",S,2500.0,888.0,2220000.0,28137.0
 STTK,2026-05-12,Shukla Abhinav A.,officer,Chief Technical Officer,S,2032.0,7.01,14244.32,81258.0
 STTK,2026-05-12,Pandite Arundathy N.,officer,Chief Medical Officer,S,30000.0,6.61,198300.0,166219.0
 STTK,2026-06-09,SIEGALL CLAY B,director,,P,62500.0,4.0,250000.0,318608.0
@@ -14249,9 +14273,6 @@ STVN,2026-08-07,Santel Luciano,director,,S,2023.0,20.09,40642.07,4739.0
 STVN,2026-08-07,Dal Lago Marco,officer,Chief Financial Officer,S,4209.0,20.09,84558.81,81144.0
 STVN,2026-08-07,Magistretti Elisabetta,director,,S,2045.0,20.09,41084.05,2930.0
 STVN,2026-09-28,Stocchi Mauro,officer,See Remarks,S,13649.0,21.5,293453.5,400000.0
-STX,2026-06-12,Morris John Christopher,officer,EVP & CTO,S,466.0,880.19,410168.54,12986.25
-STX,2026-06-12,Morris John Christopher,officer,EVP & CTO,S,898.0,880.19,790410.62,12088.25
-STX,2026-06-12,Teh Ban Seng,officer,EVP & Chief Commercial Officer,S,989.0,880.19,870507.91,4290.0
 STX,2026-07-01,MOSLEY WILLIAM D,"director, officer",CEO,S,1480.0,919.6414,1361069.27,319380.0
 STX,2026-07-01,MOSLEY WILLIAM D,"director, officer",CEO,S,880.0,920.5713,810102.74,318500.0
 STX,2026-07-01,MOSLEY WILLIAM D,"director, officer",CEO,S,880.0,921.8045,811187.96,317620.0
@@ -14631,6 +14652,50 @@ STX,2026-09-21,Morris John Christopher,officer,EVP & CTO,S,915.0,894.27,818257.0
 STX,2026-09-21,Morris John Christopher,officer,EVP & CTO,S,80.0,897.28,71782.4,22773.25
 STX,2026-09-21,Morris John Christopher,officer,EVP & CTO,S,40.0,899.53,35981.2,22733.25
 STX,2026-09-21,Morris John Christopher,officer,EVP & CTO,S,40.0,902.07,36082.8,22693.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,360.0,929.0089,334443.2,372750.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,855.0,930.0334,795178.56,371895.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,1665.0,930.994,1550105.01,370230.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,1320.0,932.0368,1230288.58,368910.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,840.0,933.2762,783952.01,368070.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,822.0,934.3513,768036.77,367248.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,640.0,935.1494,598495.62,366608.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,759.0,936.4299,710750.29,365849.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,579.0,937.3285,542713.2,365270.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,640.0,938.3194,600524.42,364630.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,720.0,939.2706,676274.83,363910.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,80.0,940.2,75216.0,363830.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,40.0,941.22,37648.8,363790.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,280.0,943.2129,264099.61,363510.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,440.0,944.8064,415714.82,363070.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,962.0,945.9696,910022.76,362108.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,360.0,898.0956,323314.42,391748.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,517.0,900.4618,465538.75,391231.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,440.0,901.4882,396654.81,390791.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,384.0,902.5483,346578.55,390407.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,696.0,903.3632,628740.79,389711.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,480.0,904.3325,434079.6,389231.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,480.0,905.3815,434583.12,388751.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,601.0,906.4232,544760.34,388150.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,560.0,907.4321,508161.98,387590.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,1027.0,908.5781,933109.71,386563.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,307.0,909.8444,279322.23,386256.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,840.0,910.6933,764982.37,385416.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,1146.0,912.0438,1045202.19,384270.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,696.0,913.0784,635502.57,383574.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,904.0,913.9418,826203.39,382670.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,960.0,915.0083,878407.97,381710.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,480.0,916.0958,439725.98,381230.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,400.0,917.222,366888.8,380830.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,920.0,918.4922,845012.82,379910.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,840.0,919.5576,772428.38,379070.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,630.0,920.616,579988.08,378440.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,930.0,921.635,857120.55,377510.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,800.0,922.6575,738126.0,376710.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,760.0,923.7821,702074.4,375950.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,640.0,924.7198,591820.67,375310.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,1080.0,925.8826,999953.21,374230.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,480.0,926.7758,444852.38,373750.25
+STX,2026-10-01,MOSLEY WILLIAM D,"director, officer",CEO,S,640.0,927.8963,593853.63,373110.25
 SUNE,2026-04-14,Brennan James Robert,officer,Chief Financial Officer,P,123254.0,1.77,218159.58,123269.0
 SUNE,2026-04-14,Maskin Scott,"director, officer, 10% owner",Chief Executive Officer,P,554712.0,1.77,981840.24,554736.0
 SVCO,2026-05-14,Jackson Candace,officer,See Remarks,S,2000.0,11.0,22000.0,51349.0
@@ -14680,6 +14745,47 @@ SVV,2026-08-13,ARES MANAGEMENT LLC,10% owner,,S,23000000.0,10.25,235750000.0,944
 SVV,2026-09-16,ALLEN WILLIAM T,director,,S,26151.0,9.2222,241169.75,28861.0
 SWIM,2026-05-19,Cline James E,director,,P,50000.0,4.84,242000.0,100000.0
 SWIM,2026-05-20,Gloe Oliver C.,officer,CHIEF FINANCIAL OFFICER,P,15050.0,4.9,73745.0,540758.0
+SYNA,2026-04-20,Bodensteiner Lisa,officer,See Remarks,S,1200.0,81.38,97656.0,65781.0
+SYNA,2026-04-20,Bodensteiner Lisa,officer,See Remarks,S,598.0,82.85,49544.3,65183.0
+SYNA,2026-04-20,Ganesan Satish,officer,See Remarks,S,5065.0,81.22,411379.3,65750.0
+SYNA,2026-04-20,Gupta Vikram,officer,See Remarks,S,1548.0,80.95,125310.6,88930.0
+SYNA,2026-04-24,Patel Rahul G.,"director, officer",See remarks below,S,2281.0,90.0,205290.0,111320.0
+SYNA,2026-04-27,Gupta Vikram,officer,See Remarks,S,1548.0,92.9,143809.2,87382.0
+SYNA,2026-05-19,Gupta Vikram,officer,See Remarks,S,692.0,114.83,79462.36,84126.0
+SYNA,2026-05-19,Bodensteiner Lisa,officer,See Remarks,S,612.0,114.83,70275.96,63106.0
+SYNA,2026-05-26,Gupta Vikram,officer,See Remarks,S,692.0,147.5,102070.0,83434.0
+SYNA,2026-05-28,Song Esther,officer,See Remarks,S,1200.0,137.61,165132.0,20054.0
+SYNA,2026-05-28,Song Esther,officer,See Remarks,S,600.0,139.1,83460.0,19454.0
+SYNA,2026-05-28,Song Esther,officer,See Remarks,S,1361.0,140.58,191329.38,18093.0
+SYNA,2026-05-28,Song Esther,officer,See Remarks,S,2714.0,141.75,384709.5,15379.0
+SYNA,2026-05-28,Song Esther,officer,See Remarks,S,2601.0,142.7,371162.7,12778.0
+SYNA,2026-05-28,Song Esther,officer,See Remarks,S,357.0,143.32,51165.24,12421.0
+SYNA,2026-06-18,Bodensteiner Lisa,officer,See Remarks,S,334.0,138.28,46185.52,61989.0
+SYNA,2026-06-18,Song Esther,officer,See Remarks,S,126.0,138.28,17423.28,12157.0
+SYNA,2026-07-20,Gupta Vikram,officer,See Remarks,S,350.0,114.76,40166.0,81596.0
+SYNA,2026-07-20,Gupta Vikram,officer,See Remarks,S,10.0,115.54,1155.4,81586.0
+SYNA,2026-07-20,Patel Rahul G.,"director, officer",See remarks below,S,1568.0,114.15,178987.2,89854.0
+SYNA,2026-07-20,Patel Rahul G.,"director, officer",See remarks below,S,2486.0,115.11,286163.46,87368.0
+SYNA,2026-07-20,Patel Rahul G.,"director, officer",See remarks below,S,500.0,115.79,57895.0,86868.0
+SYNA,2026-07-20,Bodensteiner Lisa,officer,See Remarks,S,284.0,114.62,32552.08,60653.0
+SYNA,2026-07-20,Bodensteiner Lisa,officer,See Remarks,S,166.0,115.56,19182.96,60487.0
+SYNA,2026-07-27,Gupta Vikram,officer,See Remarks,S,360.0,114.2,41112.0,81226.0
+SYNA,2026-08-18,Gupta Vikram,officer,See Remarks,S,1633.0,102.77,167823.41,106112.0
+SYNA,2026-08-18,Gupta Vikram,officer,See Remarks,S,1167.0,103.58,120877.86,104945.0
+SYNA,2026-08-18,Gupta Vikram,officer,See Remarks,S,1477.0,104.69,154627.13,103468.0
+SYNA,2026-08-18,Bodensteiner Lisa,officer,See Remarks,S,1700.0,102.54,174318.0,82990.0
+SYNA,2026-08-18,Bodensteiner Lisa,officer,See Remarks,S,2200.0,103.47,227634.0,80790.0
+SYNA,2026-08-18,Bodensteiner Lisa,officer,See Remarks,S,2156.0,104.63,225582.28,78634.0
+SYNA,2026-08-18,Song Esther,officer,See Remarks,S,177.0,102.73,18183.21,14943.0
+SYNA,2026-08-18,Song Esther,officer,See Remarks,S,96.0,103.55,9940.8,14847.0
+SYNA,2026-08-18,Song Esther,officer,See Remarks,S,164.0,104.78,17183.92,14683.0
+SYNA,2026-08-19,Patel Rahul G.,"director, officer",See remarks below,S,2276.0,105.39,239867.64,188791.0
+SYNA,2026-08-25,Gupta Vikram,officer,See Remarks,S,2300.0,94.06,216338.0,101168.0
+SYNA,2026-08-25,Gupta Vikram,officer,See Remarks,S,1977.0,95.0,187815.0,99191.0
+SYNA,2026-09-18,Bodensteiner Lisa,officer,See Remarks,S,334.0,92.63,30938.42,77518.0
+SYNA,2026-09-18,Song Esther,officer,See Remarks,S,63.0,92.63,5835.69,14482.0
+SYNA,2026-09-21,Patel Rahul G.,"director, officer",See remarks below,S,2276.0,93.83,213557.08,186515.0
+SYNA,2026-09-25,Song Esther,officer,See Remarks,S,147.0,100.0,14700.0,14335.0
 SYRE,2026-05-01,Burrows Scott L,officer,Chief Financial Officer,S,12500.0,71.37,892125.0,97994.0
 SYRE,2026-05-01,Sloan Sheldon,officer,Chief Medical Officer,S,21306.0,69.53,1481406.18,57027.0
 SYRE,2026-05-01,Sloan Sheldon,officer,Chief Medical Officer,S,19656.0,70.61,1387910.16,37371.0
@@ -14761,8 +14867,6 @@ TARS,2026-09-04,Neervannan Seshadri,officer,Chief Operating Officer,S,4564.0,85.
 TARS,2026-09-15,LINK WILLIAM J PHD,director,,S,11675.0,78.33,914502.75,95312.0
 TARS,2026-09-15,LINK WILLIAM J PHD,director,,S,759.0,79.0,59961.0,94553.0
 TARS,2026-09-15,LINK WILLIAM J PHD,director,,S,66.0,80.01,5280.66,94487.0
-TAYD,2026-04-28,CAREY ROBERT MICHAEL,director,,S,3445.0,57.27,197295.15,9276.0
-TAYD,2026-04-28,CAREY ROBERT MICHAEL,director,,S,1555.0,55.52,86333.6,7721.0
 TBI,2026-06-05,Lontoh Sonita,director,,S,2186.0,6.73,14711.78,72733.0
 TEAM,2026-05-14,DUFFY BRIAN,officer,Chief Revenue Officer,S,1902.0,81.8537,155685.74,243942.0
 TEAM,2026-05-14,DUFFY BRIAN,officer,Chief Revenue Officer,S,98.0,82.3413,8069.45,243844.0
@@ -15002,10 +15106,17 @@ TER,2026-09-01,JOHNSON MERCEDES,director,,S,167.0,341.3,56997.1,6364.0
 TER,2026-09-15,Smith Gregory Stephen,"director, officer",President and CEO,S,4000.0,337.83,1351320.0,108495.4075
 TER,2026-09-15,MATZ MARILYN,director,,S,800.0,337.83,270264.0,14240.675
 TER,2026-09-17,MATZ MARILYN,director,,S,400.0,351.11,140444.0,13840.675
+TER,2026-10-01,JOHNSON MERCEDES,director,,S,167.0,402.9,67284.3,6197.0
 TGTX,2026-09-10,Charney Laurence N,director,,S,5000.0,54.96,274800.0,168640.0
 TH,2026-09-15,Archer James Bradley,"director, officer",Director and CEO and President,P,13385.0,18.69,250165.65,1845441.0
 TH,2026-09-18,Schrenk Troy C.,officer,Chief Commercial Officer,P,5907.0,21.16,124992.12,216995.0
-TLN,2026-06-15,ABBAS GIZMAN I,director,,S,2600.0,380.0,988000.0,2606.0
+TLSI,2026-05-15,Marshak Richard,officer,Chief Commercial Officer,S,543.0,2.67,1449.81,125101.0
+TLSI,2026-05-15,Wahlstrom Mats,director,,P,60000.0,2.53,151800.0,147555.0
+TLSI,2026-05-15,Stansky Michael P,director,,P,410000.0,2.5,1025000.0,1240722.0
+TLSI,2026-05-15,Stansky Michael P,director,,P,200000.0,2.5,500000.0,399698.0
+TLSI,2026-05-15,Szela Mary T,"director, officer",CEO and President,P,39682.0,2.59,102776.38,1065215.0
+TLSI,2026-05-15,Patience David,officer,Chief Financial Officer,P,7100.0,2.43,17253.0,275757.0
+TLSI,2026-05-15,Gordon Gary B.,director,,P,10000.0,2.46,24600.0,72510.0
 TLYS,2026-06-11,Cingolani Michael Joseph,officer,Chief Merchandising Officer,S,11250.0,5.2697,59284.12,113750.0
 TLYS,2026-09-03,"Fund 1 Investments, LLC",10% owner,,S,863726.0,4.6686,4032391.2,7194542.0
 TLYS,2026-09-03,"Fund 1 Investments, LLC",10% owner,,S,526474.0,4.1436,2181497.67,6668068.0
@@ -15489,6 +15600,20 @@ TWLO,2026-08-17,Viggiano Aidan,officer,Chief Financial Officer,S,610.0,233.3246,
 TWLO,2026-08-17,Viggiano Aidan,officer,Chief Financial Officer,S,310.0,234.3007,72633.22,108804.0
 TWLO,2026-08-17,Viggiano Aidan,officer,Chief Financial Officer,S,304.0,234.9525,71425.56,108500.0
 TWLO,2026-08-17,Viggiano Aidan,officer,Chief Financial Officer,S,170.0,238.0976,40476.59,108330.0
+TWLO,2026-09-30,Viggiano Aidan,officer,Chief Financial Officer,S,100.0,289.68,28968.0,108230.0
+TWLO,2026-09-30,Viggiano Aidan,officer,Chief Financial Officer,S,500.0,291.345,145672.5,107730.0
+TWLO,2026-09-30,Viggiano Aidan,officer,Chief Financial Officer,S,380.0,292.1687,111024.11,107350.0
+TWLO,2026-09-30,Viggiano Aidan,officer,Chief Financial Officer,S,750.0,293.4198,220064.85,106600.0
+TWLO,2026-09-30,Viggiano Aidan,officer,Chief Financial Officer,S,3504.0,294.5254,1032017.0,103096.0
+TWLO,2026-09-30,Viggiano Aidan,officer,Chief Financial Officer,S,2740.0,295.6,809944.0,100356.0
+TWLO,2026-09-30,Viggiano Aidan,officer,Chief Financial Officer,S,1110.0,296.3367,328933.74,99246.0
+TWLO,2026-09-30,Shipchandler Khozema,"director, officer",Chief Executive Officer,S,260.0,289.9783,75394.36,206943.0
+TWLO,2026-09-30,Shipchandler Khozema,"director, officer",Chief Executive Officer,S,1060.0,291.1549,308624.19,205883.0
+TWLO,2026-09-30,Shipchandler Khozema,"director, officer",Chief Executive Officer,S,1450.0,292.1014,423547.03,204433.0
+TWLO,2026-09-30,Shipchandler Khozema,"director, officer",Chief Executive Officer,S,2330.0,293.4436,683723.59,202103.0
+TWLO,2026-09-30,Shipchandler Khozema,"director, officer",Chief Executive Officer,S,5168.0,294.5519,1522244.22,196935.0
+TWLO,2026-09-30,Shipchandler Khozema,"director, officer",Chief Executive Officer,S,2670.0,295.5647,789157.75,194265.0
+TWLO,2026-09-30,Shipchandler Khozema,"director, officer",Chief Executive Officer,S,960.0,296.2934,284441.66,193305.0
 TWST,2026-06-08,Cho Dennis,officer,See Remarks,S,402.0,69.8442,28077.37,119692.0
 TWST,2026-06-08,Green Paula,officer,SVP of Human Resources,S,884.0,69.8442,61742.27,120705.0
 TWST,2026-06-08,Leproust Emily M.,"director, officer",Chief Executive Officer,S,2265.0,69.8442,158197.11,844607.0
@@ -15729,6 +15854,8 @@ UMAC,2026-06-08,Thompson Jeffrey M,director,,S,15000.0,27.42,411300.0,4779392.0
 UMAC,2026-08-20,Hoff Brian Joseph,officer,Chief Financial Officer,S,11413.0,26.0071,296819.03,341237.0
 UMAC,2026-08-20,Camden Andrew Ross,officer,President,S,9625.0,26.0087,250333.74,237125.0
 UMAC,2026-08-20,Wright Stacy Rochelle,officer,Chief Revenue Officer,S,27500.0,25.9985,714958.75,68750.0
+UNFI,2026-05-06,Benedict Danielle,officer,Chief Human Resources Officer,S,4807.0,52.0,249964.0,98470.0
+UNFI,2026-06-23,Bushway Mark,officer,"President, Natural & CSCO",S,10000.0,51.56,515600.0,51119.0
 URGN,2026-05-08,Schoenberg Mark,officer,Chief Medical Officer,S,10000.0,30.0,300000.0,134985.0
 URGN,2026-06-08,Schoenberg Mark,officer,Chief Medical Officer,S,5222.0,27.3,142560.6,139763.0
 URGN,2026-06-22,Schoenberg Mark,officer,Chief Medical Officer,S,10000.0,35.01,350100.0,129763.0
@@ -15791,6 +15918,48 @@ VFF,2026-06-26,DEGIGLIO MICHAEL A,"director, officer",Chief Executive Officer,P,
 VFF,2026-06-29,DEGIGLIO MICHAEL A,"director, officer",Chief Executive Officer,P,13600.0,1.87,25432.0,9695775.0
 VFF,2026-09-22,Woodward Christopher C.,director,,P,10000.0,3.058,30580.0,171526.0
 VFF,2026-09-22,DEGIGLIO MICHAEL A,"director, officer",Chief Executive Officer,P,35000.0,2.8931,101258.5,9730775.0
+VG,2026-04-15,Larson Keith D,officer,General Counsel and Secretary,S,555556.0,12.3759,6875505.5,0.0
+VG,2026-04-16,Larson Keith D,officer,General Counsel and Secretary,S,555556.0,12.6364,7020227.84,0.0
+VG,2026-04-20,Thayer Jonathan W,officer,Chief Financial Officer,S,111112.0,11.5004,1277832.44,0.0
+VG,2026-04-21,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,11.8929,1321432.01,0.0
+VG,2026-05-14,Larson Keith D,officer,General Counsel and Secretary,S,555556.0,13.0671,7259505.81,0.0
+VG,2026-05-14,Musser Fory,officer,"Senior VP, Development",S,2000000.0,13.0863,26172600.0,0.0
+VG,2026-05-15,Larson Keith D,officer,General Counsel and Secretary,S,555555.0,14.0415,7800825.53,0.0
+VG,2026-05-18,Thayer Jonathan W,officer,Chief Financial Officer,S,86528.0,14.1995,1228654.34,24583.0
+VG,2026-05-18,Thayer Jonathan W,officer,Chief Financial Officer,S,24583.0,14.5079,356647.71,0.0
+VG,2026-05-19,Cothran Brian,officer,Chief Operating Officer,S,473533.0,14.8074,7011792.54,0.0
+VG,2026-05-19,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,14.5896,1621065.05,0.0
+VG,2026-05-20,Cothran Brian,officer,Chief Operating Officer,S,120623.0,14.5468,1754678.66,0.0
+VG,2026-05-21,Cothran Brian,officer,Chief Operating Officer,S,31910.0,14.3317,457324.55,0.0
+VG,2026-05-26,Musser Fory,officer,"Senior VP, Development",S,266265.0,13.0859,3484317.16,0.0
+VG,2026-05-27,Musser Fory,officer,"Senior VP, Development",S,233735.0,12.6054,2946323.17,0.0
+VG,2026-05-27,Earl Thomas,officer,Chief Commercial Officer,S,1000000.0,12.444,12444000.0,0.0
+VG,2026-06-12,Sabel Michael,"director, officer, 10% owner",See Remarks,P,1226.0,13.035,15980.91,1187111.0
+VG,2026-06-15,Larson Keith D,officer,General Counsel and Secretary,S,555556.0,11.9042,6613449.74,0.0
+VG,2026-06-16,Larson Keith D,officer,General Counsel and Secretary,S,555555.0,11.2711,6261715.96,0.0
+VG,2026-06-17,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,11.0519,1227987.66,0.0
+VG,2026-06-18,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,10.9175,1213054.34,0.0
+VG,2026-07-15,Larson Keith D,officer,General Counsel and Secretary,S,555556.0,12.9283,7182394.63,0.0
+VG,2026-07-16,Larson Keith D,officer,General Counsel and Secretary,S,555555.0,12.9139,7174381.71,0.0
+VG,2026-07-20,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,14.2074,1578598.42,0.0
+VG,2026-07-21,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,14.0805,1564498.44,0.0
+VG,2026-08-13,Larson Keith D,officer,General Counsel and Secretary,S,555555.0,13.4842,7491214.73,0.0
+VG,2026-08-13,Granat Sari Beth,director,,S,200000.0,13.4862,2697240.0,0.0
+VG,2026-08-13,STATON JIMMY D,director,,S,66000.0,13.349,881034.0,1083000.0
+VG,2026-08-14,Musser Fory,officer,"Senior VP, Development",S,447534.0,14.0192,6274068.65,0.0
+VG,2026-08-14,Blake Sarah,officer,"SVP, Chief Accounting Officer",S,1000000.0,14.0232,14023200.0,0.0
+VG,2026-08-17,Musser Fory,officer,"Senior VP, Development",S,22013.0,14.0185,308589.24,0.0
+VG,2026-08-18,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,14.1675,1574165.09,0.0
+VG,2026-08-19,Musser Fory,officer,"Senior VP, Development",S,12600.0,14.0093,176517.18,0.0
+VG,2026-08-19,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,13.8557,1539520.68,0.0
+VG,2026-08-20,Musser Fory,officer,"Senior VP, Development",S,259413.0,14.2575,3698580.85,0.0
+VG,2026-09-08,Larson Keith D,officer,General Counsel and Secretary,S,464196.0,15.0472,6984850.05,0.0
+VG,2026-09-09,Larson Keith D,officer,General Counsel and Secretary,S,1885804.0,15.2149,28692319.28,0.0
+VG,2026-09-14,Cothran Brian,officer,Chief Operating Officer,S,152660.0,16.148,2465153.68,0.0
+VG,2026-09-16,Larson Keith D,officer,General Counsel and Secretary,S,394979.0,14.8175,5852601.33,0.0
+VG,2026-09-17,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,14.3958,1599531.73,0.0
+VG,2026-09-17,Larson Keith D,officer,General Counsel and Secretary,S,394979.0,14.3958,5686038.69,0.0
+VG,2026-09-18,Thayer Jonathan W,officer,Chief Financial Officer,S,111111.0,14.2273,1580809.53,0.0
 VGNT,2026-09-08,CLARK KEVIN P,director,,S,38271.0,47.85,1831267.35,209300.0
 VGNT,2026-09-08,CLARK KEVIN P,director,,S,9034.0,48.5,438149.0,200266.0
 VGNT,2026-09-08,CLARK KEVIN P,director,,S,1287.0,49.67,63925.29,198979.0
@@ -16164,6 +16333,12 @@ VIR,2026-04-06,De Backer Marianne,"director, officer",President and CEO,S,72559.
 VIR,2026-05-01,SATO VICKI L,director,,S,22000.0,10.0466,221025.2,1078391.0
 VIR,2026-06-01,Napolitano Janet,director,,S,3200.0,9.45,30240.0,21216.0
 VIR,2026-06-01,Sabatini Brent,officer,"SVP,  Chief Accounting Officer",S,379.0,9.45,3581.55,61902.0
+VIRT,2026-05-05,Gambale Virginia,director,,S,4000.0,50.0,200000.0,19978.0
+VIRT,2026-05-08,Fairclough Brett,officer,Co-President & Co-COO,S,14632.0,49.822,728995.5,57841.0
+VIRT,2026-05-08,Fairclough Brett,officer,Co-President & Co-COO,S,15368.0,50.2901,772858.26,42473.0
+VIRT,2026-08-17,Nixon John,director,,S,9094.0,60.13,546822.22,30902.0
+VIRT,2026-08-18,Gambale Virginia,director,,S,6460.0,62.0,400520.0,16910.0
+VIRT,2026-08-19,GRANO JOSEPH J JR,director,,S,8400.0,60.9352,511855.68,33814.0
 VLO,2026-05-18,Fisher Eric A,officer,SVP,S,7500.0,251.6086,1887064.5,34742.0
 VLO,2026-06-18,Fisher Eric A,officer,SVP,S,7500.0,236.9041,1776780.75,27242.0
 VLO,2026-06-29,Fisher Eric A,officer,SVP,S,7500.0,268.1743,2011307.25,19742.0
@@ -16174,6 +16349,9 @@ VOYG,2026-08-11,Kuta Matthew James,"director, officer",President,S,1793.0,44.034
 VRA,2026-06-12,Bickley Ian,"director, officer",Chief Executive Officer,P,28901.0,3.87,111846.87,135623.0
 VRA,2026-06-12,Meslow Andrew,director,,P,24926.0,3.73,92973.98,650000.0
 VRA,2026-09-25,Brockman Ivan,director,,P,2500.0,4.0,10000.0,2500.0
+VRDN,2026-05-11,Fairmount Funds Management LLC,"director, 10% owner",,P,1176470.0,17.0,19999990.0,5090928.0
+VRDN,2026-08-19,Tousignant Jennifer,officer,Chief Legal Officer,S,4212.0,24.5,103194.0,0.0
+VRDN,2026-08-19,Tousignant Jennifer,officer,Chief Legal Officer,S,10000.0,24.5,245000.0,0.0
 VSAT,2026-06-08,DANKBERG MARK D,"director, officer",Chairman and CEO,S,115035.0,63.9514,7356649.3,1367161.0
 VSAT,2026-06-08,DANKBERG MARK D,"director, officer",Chairman and CEO,S,149580.0,64.5604,9656944.63,1217581.0
 VSAT,2026-06-08,DANKBERG MARK D,"director, officer",Chairman and CEO,S,120895.0,65.4784,7916011.17,1096686.0
@@ -16207,6 +16385,8 @@ VSTM,2026-06-22,Calkins Daniel,officer,Chief Financial Officer,S,4032.0,4.18,168
 VSTM,2026-06-22,Calkins Daniel,officer,Chief Financial Officer,S,57.0,4.13,235.41,117238.0
 VSTM,2026-08-03,Paterson Dan,"director, officer",President and CEO,S,1302.0,5.81,7564.62,589940.0
 VSTM,2026-09-21,Calkins Daniel,officer,Chief Financial Officer,S,55.0,7.7,423.5,118014.0
+VSTM,2026-10-01,Paterson Dan,"director, officer",President and CEO,S,44121.0,8.0,352968.0,652712.0
+VSTM,2026-10-01,Calkins Daniel,officer,Chief Financial Officer,S,2566.0,8.0,20528.0,123781.0
 VSTS,2026-09-02,Barber James J.,"director, officer",President & CEO,P,84500.0,12.3714,1045383.3,867222.0
 VSXY,2026-04-02,Sheehan Anne,director,,P,4842.0,45.86,222054.12,34261.0
 VSXY,2026-04-02,JAMES DONNA,director,,P,2175.0,46.23,100550.25,63097.0
@@ -16450,11 +16630,6 @@ WDC,2026-08-31,STREETER STEPHANIE A,director,,S,2000.0,448.58,897160.0,36407.0
 WDC,2026-09-01,STREETER STEPHANIE A,director,,S,1600.0,455.0,728000.0,34807.0
 WDC,2026-09-04,Tregillis Cynthia L,officer,Chief Legal Officer & Corp Sec,S,432.0,451.2,194918.4,111030.0
 WDC,2026-09-04,Gubbi Vidyadhara K,officer,Chief of Global Operations,S,1795.0,459.8732,825472.39,80571.0
-WEST,2026-05-13,FORD JOE T,director,,P,8000.0,8.43,67440.0,541916.0
-WEST,2026-05-13,FORD JOE T,director,,P,3500.0,8.44,29540.0,41800.0
-WEST,2026-05-13,FORD JOE T,director,,P,5000.0,8.43,42150.0,258000.0
-WEST,2026-05-14,FORD JOE T,director,,P,15000.0,8.5,127500.0,273000.0
-WEST,2026-06-01,FORD JOE T,director,,P,3000.0,8.04,24120.0,544916.0
 WGS,2026-04-29,Stueland Katherine,"director, officer",CHIEF EXECUTIVE OFFICER,S,2154.0,65.2,140440.8,93234.0
 WGS,2026-04-29,Stueland Katherine,"director, officer",CHIEF EXECUTIVE OFFICER,S,18.0,64.12,1154.16,93216.0
 WGS,2026-04-29,Feeley Kevin,officer,CHIEF FINANCIAL OFFICER,S,392.0,65.1926,25555.5,34942.0
@@ -16587,6 +16762,8 @@ WRBY,2026-07-01,Gilboa David Abraham,"director, officer",Co-Chief Executive Offi
 WRBY,2026-07-01,Raider Jeffrey Jacob,director,,S,22500.0,29.72,668700.0,435201.0
 WRBY,2026-07-06,Blumenthal Neil Harris,"director, officer",Co-Chief Executive Officer,S,9200.0,29.99,275908.0,31112.0
 WRBY,2026-07-06,Gilboa David Abraham,"director, officer",Co-Chief Executive Officer,S,54347.0,29.84,1621714.48,31112.0
+WRBY,2026-10-01,Raider Jeffrey Jacob,director,,S,15000.0,27.7,415500.0,420201.0
+WRBY,2026-10-01,Blumenthal Neil Harris,"director, officer",Co-Chief Executive Officer,S,100000.0,27.69,2769000.0,36020.0
 WS,2026-05-22,Larivey Clifford,officer,President Flat Rolled Stl Proc,S,11105.0,40.0945,445249.42,64308.0
 WS,2026-06-01,KLINGLER JEFFREY R,officer,Chief Operating Officer,S,200.0,43.0,8600.0,93212.0
 WS,2026-06-01,ADAMS TIMOTHY A,officer,Chief Financial Officer,S,1100.0,41.699,45868.9,45365.0
@@ -16633,6 +16810,9 @@ XERS,2026-09-01,McCulloch Kevin,officer,See Remarks,S,15000.0,8.4872,127308.0,16
 XERS,2026-09-01,Hecht Beth,officer,See Remarks,S,16666.0,8.4864,141434.34,1127796.0
 XERS,2026-09-01,Pieper Steven,officer,See Remarks,S,5000.0,8.5,42500.0,1356053.0
 XERS,2026-09-28,McCulloch Kevin,officer,See Remarks,S,25000.0,10.0,250000.0,1614208.0
+XERS,2026-10-01,Pieper Steven,officer,See Remarks,S,5000.0,9.4073,47036.5,1351053.0
+XERS,2026-10-01,McCulloch Kevin,officer,See Remarks,S,15000.0,9.408,141120.0,1599208.0
+XERS,2026-10-01,Hecht Beth,officer,See Remarks,S,16666.0,9.4079,156792.06,1111130.0
 XGN,2026-09-01,Black Jeffrey G.,officer,Chief Financial Officer,S,20614.0,7.2175,148781.55,323339.0
 XMTR,2026-05-11,Dutt Subir,officer,Chief Sales Officer,S,1610.0,79.5131,128016.09,108122.0
 XMTR,2026-05-11,Dutt Subir,officer,Chief Sales Officer,S,3390.0,80.0229,271277.63,104732.0
