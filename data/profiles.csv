@@ -4,6 +4,8 @@ AAOI,Semiconductors & Related Devices,"APPLIED OPTOELECTRONICS, INC."
 ABCL,Pharmaceutical Preparations,AbCellera Biologics Inc.
 ABSI,Services-Commercial Physical & Biological Research,Absci Corp
 ABTC,Finance Services,American Bitcoin Corp.
+ACB,Medicinal Chemicals & Botanical Products,AURORA CANNABIS INC
+ACDC,"Oil & Gas Field Services, NEC",ProFrac Holding Corp.
 ACHC,"Services-Specialty Outpatient Facilities, NEC","Acadia Healthcare Company, Inc."
 ACHV,In Vitro & In Vivo Diagnostic Substances,"ACHIEVE LIFE SCIENCES, INC."
 ACLS,"Special Industry Machinery, NEC",AXCELIS TECHNOLOGIES INC
@@ -17,13 +19,12 @@ AEHR,Instruments For Meas & Testing of  Electricity & Elec Signals,AEHR TEST SYS
 AEIS,"Electronic Components, NEC",ADVANCED ENERGY INDUSTRIES INC
 AEMD,Surgical & Medical Instruments & Apparatus,AETHLON MEDICAL INC
 AEO,Retail-Family Clothing Stores,AMERICAN EAGLE OUTFITTERS INC
+AESI,Crude Petroleum & Natural Gas,Atlas Energy Solutions Inc.
 AEVA,Motor Vehicle Parts & Accessories,"Aeva Technologies, Inc."
 AFRM,Personal Credit Institutions,"Affirm Holdings, Inc."
 AGEN,"Biological Products, (No Diagnostic Substances)",AGENUS INC
-AGIO,Pharmaceutical Preparations,"AGIOS PHARMACEUTICALS, INC."
 AGL,"Services-Misc Health & Allied Services, NEC","agilon health, inc."
 AGPU,Finance Services,Axe Compute Inc.
-AGYS,Services-Computer Integrated Systems Design,AGILYSYS INC
 AHMA,Services-Amusement & Recreation Services,AMBITIONS ENTERPRISE MANAGEMENT CO. L.L.C
 AI,Services-Prepackaged Software,"C3.ai, Inc."
 AIB,Commodity Contracts Brokers & Dealers,AIB Data Centers Inc.
@@ -50,6 +51,7 @@ AMOD,Patent Owners & Lessors,"ALPHA MODUS HOLDINGS, INC."
 AMPG,"Communications Equipment, NEC","AmpliTech Group, Inc."
 AMPH,Pharmaceutical Preparations,"Amphastar Pharmaceuticals, Inc."
 AMPL,Services-Prepackaged Software,"Amplitude, Inc."
+AMR,Bituminous Coal & Lignite Surface Mining,"Alpha Metallurgical Resources, Inc."
 AMRC,Construction - Special Trade Contractors,"Ameresco, Inc."
 AMRX,Pharmaceutical Preparations,"Amneal Pharmaceuticals, Inc."
 ANDG,"Services-Business Services, NEC",Andersen Group Inc.
@@ -57,7 +59,6 @@ ANF,Retail-Family Clothing Stores,ABERCROMBIE & FITCH CO /DE/
 ANGI,Services-Advertising,Angi Inc.
 ANGX,Services-Motion Picture & Video Tape Production,"Angel Studios, Inc."
 ANL,Pharmaceutical Preparations,Adlai Nortye Group Ltd.
-ANRO,Pharmaceutical Preparations,"Alto Neuroscience, Inc."
 AOSL,Semiconductors & Related Devices,ALPHA & OMEGA SEMICONDUCTOR Ltd
 AOUT,"Sporting & Athletic Goods, NEC","American Outdoor Brands, Inc."
 APPF,Services-Prepackaged Software,APPFOLIO INC
@@ -79,6 +80,7 @@ ASST,Finance Services,"Strive, Inc."
 ASTL,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Algoma Steel Group Inc.
 ASYS,"Special Industry Machinery, NEC",AMTECH SYSTEMS INC
 ATEC,Surgical & Medical Instruments & Apparatus,"Alphatec Holdings, Inc."
+ATEN,Computer Communications Equipment,"A10 Networks, Inc."
 ATEX,Telephone Communications (No Radiotelephone),Anterix Inc.
 ATI,Steel Pipe & Tubes,ATI INC
 ATRC,Surgical & Medical Instruments & Apparatus,"AtriCure, Inc."
@@ -87,6 +89,7 @@ AUGO,Metal Mining,Aura Minerals Inc.
 AUTL,"Biological Products, (No Diagnostic Substances)",Autolus Therapeutics plc
 AVAH,Services-Home Health Care Services,"Aveanna Healthcare Holdings, Inc."
 AVAT,Finance Services,Avalanche Treasury Corp
+AVPT,Services-Prepackaged Software,"AvePoint, Inc."
 AVT,"Wholesale-Electronic Parts & Equipment, NEC",AVNET INC
 AVX,Finance Services,AVAX ONE TECHNOLOGY LTD.
 AXTI,Semiconductors & Related Devices,AXT INC
@@ -95,7 +98,6 @@ AZ,"General Industrial Machinery & Equipment, NEC",A2Z CUST2MATE SOLUTIONS CORP.
 AZTA,"Special Industry Machinery, NEC","Azenta, Inc."
 BAND,Services-Prepackaged Software,Bandwidth Inc.
 BB,Services-Prepackaged Software,BLACKBERRY Ltd
-BBCP,Construction - Special Trade Contractors,"Concrete Pumping Holdings, Inc."
 BBNX,Surgical & Medical Instruments & Apparatus,"Beta Bionics, Inc."
 BDSX,Services-Medical Laboratories,BIODESIX INC
 BE,Electrical Industrial Apparatus,Bloom Energy Corp
@@ -105,7 +107,6 @@ BH,Retail-Eating  Places,Biglari Holdings Inc.
 BHC,Pharmaceutical Preparations,Bausch Health Companies Inc.
 BHVN,Pharmaceutical Preparations,Biohaven Ltd.
 BILL,Services-Prepackaged Software,"BILL Holdings, Inc."
-BKKT,Finance Services,"Bakkt, Inc."
 BLLN,Services-Medical Laboratories,"BillionToOne, Inc."
 BLMN,Retail-Eating  Places,"Bloomin' Brands, Inc."
 BLSH,Finance Services,Bullish
@@ -117,8 +118,8 @@ BNED,Retail-Miscellaneous Shopping Goods Stores,"Barnes & Noble Education, Inc."
 BNGO,Laboratory Analytical Instruments,"Bionano Genomics, Inc."
 BOBS,Retail-Furniture Stores,"Bob's Discount Furniture, Inc."
 BRKR,Laboratory Analytical Instruments,BRUKER CORP
-BRUN,Services-Computer Processing & Data Preparation,Boost Run Inc.
 BRZE,Services-Prepackaged Software,"Braze, Inc."
+BSY,Services-Prepackaged Software,BENTLEY SYSTEMS INC
 BTBT,Finance Services,"Bit Digital, Inc"
 BTCS,Finance Services,BTCS Inc.
 BTCT,Finance Services,BTC Digital Ltd.
@@ -126,30 +127,33 @@ BTDR,Finance Services,Bitdeer Technologies Group
 BTG,Gold and Silver Ores,B2GOLD CORP
 BTGO,Finance Services,"BITGO HOLDINGS, INC."
 BTQ,"Services-Computer Programming, Data Processing, Etc.",BTQ Technologies Corp.
+BTSG,Services-Home Health Care Services,"BrightSpring Health Services, Inc."
+BTU,Bituminous Coal & Lignite Surface Mining,PEABODY ENERGY CORP
 BULL,"Security Brokers, Dealers & Flotation Companies",Webull Corp
 BUUU,Services-Amusement & Recreation Services,BUUU Group Ltd
+BVS,Surgical & Medical Instruments & Apparatus,Bioventus Inc.
 BXC,"Wholesale-Lumber, Plywood, Millwork & Wood Panels",BlueLinx Holdings Inc.
 CADL,"Biological Products, (No Diagnostic Substances)","Candel Therapeutics, Inc."
 CAI,Services-Medical Laboratories,"Caris Life Sciences, Inc."
 CAL,"Footwear, (No Rubber)",CALERES INC
 CAMT,Optical Instruments & Lenses,CAMTEK LTD
 CBLL,Electromedical & Electrotherapeutic Apparatus,"Ceribell, Inc."
-CBOE,"Security & Commodity Brokers, Dealers, Exchanges & Services","Cboe Global Markets, Inc."
 CBRL,Retail-Eating  Places,"CRACKER BARREL OLD COUNTRY STORE, INC"
 CCC,Services-Prepackaged Software,CCC Intelligent Solutions Holdings Inc.
 CCSI,Services-Prepackaged Software,"Consensus Cloud Solutions, Inc."
 CCXI,"General Industrial Machinery & Equipment, NEC",Churchill Capital Corp XI
 CDNA,Services-Medical Laboratories,"CareDx, Inc."
-CDNS,Services-Prepackaged Software,CADENCE DESIGN SYSTEMS INC
 CDTG,Sanitary Services,CDT Environmental Technology Investment Holdings Ltd
 CECO,Industrial & Commercial Fans & Blowers & Air Purifing Equip,CECO ENVIRONMENTAL CORP
 CERT,Services-Prepackaged Software,"Certara, Inc."
 CEVA,"Services-Computer Programming, Data Processing, Etc.",CEVA INC
+CGON,"Biological Products, (No Diagnostic Substances)","CG Oncology, Inc."
+CHA,Retail-Eating & Drinking Places,Chagee Holdings Ltd.
+CHEF,"Wholesale-Groceries, General Line","Chefs' Warehouse, Inc."
 CHPT,"Miscellaneous Electrical Machinery, Equipment & Supplies","ChargePoint Holdings, Inc."
 CHRN,"General Industrial Machinery & Equipment, NEC",ChronoScale Holdings Corp
 CHYM,Finance Services,"Chime Financial, Inc."
 CIEN,Telephone & Telegraph Apparatus,CIENA CORP
-CIFR,Finance Services,Cipher Digital Inc.
 CLF,Metal Mining,CLEVELAND-CLIFFS INC.
 CLMB,Wholesale-Computers & Peripheral Equipment & Software,"Climb Global Solutions, Inc."
 CLMT,Petroleum Refining,"Calumet, Inc. /DE"
@@ -164,6 +168,7 @@ CMPS,Pharmaceutical Preparations,COMPASS Pathways plc
 CMRC,Services-Prepackaged Software,"Commerce.com, Inc."
 CNET,"Services-Computer Programming, Data Processing, Etc.",ZW Data Action Technologies Inc.
 CNH,Construction Machinery & Equip,CNH Industrial N.V.
+CNTN,Finance Services,"Canton Strategic Holdings, Inc."
 CNXC,"Services-Business Services, NEC",Concentrix Corp
 COHR,Optical Instruments & Lenses,COHERENT CORP.
 COHU,Instruments For Meas & Testing of  Electricity & Elec Signals,COHU INC
@@ -173,18 +178,17 @@ COOK,Household Appliances,"Traeger, Inc."
 CORT,Pharmaceutical Preparations,CORCEPT THERAPEUTICS INC
 COTY,"Perfumes, Cosmetics & Other Toilet Preparations",COTY INC.
 CPOP,Services-Amusement & Recreation Services,"Pop Culture Group Co., Ltd"
-CRAI,Services-Legal Services,"CRA INTERNATIONAL, INC."
 CRCL,Finance Services,"Circle Internet Group, Inc."
 CRDL,"Biological Products, (No Diagnostic Substances)",Cardiol Therapeutics Inc.
 CRDO,Semiconductors & Related Devices,Credo Technology Group Holding Ltd
 CRML,Metal Mining,Critical Metals Corp.
+CRSP,"Biological Products, (No Diagnostic Substances)",CRISPR Therapeutics AG
 CRSR,"Computer Peripheral Equipment, NEC","Corsair Gaming, Inc."
 CRWD,Services-Prepackaged Software,"CrowdStrike Holdings, Inc."
 CRWV,Services-Prepackaged Software,"CoreWeave, Inc."
 CSHR,"Security Brokers, Dealers & Flotation Companies",CoinShares PLC
 CSTL,Services-Medical Laboratories,CASTLE BIOSCIENCES INC
 CTKB,Laboratory Analytical Instruments,"Cytek Biosciences, Inc."
-CTSH,Services-Computer Programming Services,COGNIZANT TECHNOLOGY SOLUTIONS CORP
 CUE,Pharmaceutical Preparations,"Cue Biopharma, Inc."
 CVI,Petroleum Refining,CVR ENERGY INC
 CVLT,Services-Prepackaged Software,COMMVAULT SYSTEMS INC
@@ -202,6 +206,7 @@ DC,Metal Mining,Dakota Gold Corp.
 DCO,"Aircraft Parts & Auxiliary Equipment, NEC",DUCOMMUN INC /DE/
 DDD,Services-Prepackaged Software,3D SYSTEMS CORP
 DDOG,Services-Prepackaged Software,"Datadog, Inc."
+DDS,Retail-Department Stores,"DILLARD'S, INC."
 DELL,Electronic Computers,Dell Technologies Inc.
 DFDV,Finance Services,DeFi Development Corp.
 DFTX,Medicinal Chemicals & Botanical Products,"Definium Therapeutics, Inc."
@@ -217,10 +222,9 @@ DNA,"Biological Products, (No Diagnostic Substances)","Ginkgo Bioworks Holdings,
 DOCN,"Services-Computer Programming, Data Processing, Etc.","DigitalOcean Holdings, Inc."
 DOCS,Services-Computer Programming Services,"Doximity, Inc."
 DOCU,Services-Prepackaged Software,"DOCUSIGN, INC."
-DPRO,Aircraft,Draganfly Inc.
 DRTS,Surgical & Medical Instruments & Apparatus,Alpha Tau Medical Ltd.
 DSGX,Services-Prepackaged Software,DESCARTES SYSTEMS GROUP INC
-DSP,"Services-Computer Programming, Data Processing, Etc.",Viant Technology Inc.
+DSX,Deep Sea Foreign Transportation of  Freight,DIANA SHIPPING INC.
 DUOL,Services-Prepackaged Software,"Duolingo, Inc."
 DUOT,Services-Prepackaged Software,"DUOS TECHNOLOGIES GROUP, INC."
 DXC,Services-Computer Processing & Data Preparation,DXC Technology Co
@@ -228,6 +232,7 @@ DXST,Sanitary Services,Decent Holding Inc.
 DXYZ,,Destiny Tech100 Inc.
 EAF,Electrical Industrial Apparatus,GRAFTECH INTERNATIONAL LTD
 EAT,Retail-Eating  Places,"BRINKER INTERNATIONAL, INC"
+EBS,Pharmaceutical Preparations,Emergent BioSolutions Inc.
 ECG,Operative Builders,"Everus Construction Group, Inc."
 ECO,Deep Sea Foreign Transportation of  Freight,Okeanis Eco Tankers Corp.
 EDHL,Services-Advertising,Everbright Digital Holding Ltd.
@@ -238,7 +243,6 @@ EGHT,Services-Computer Processing & Data Preparation,8X8 INC /DE/
 EGO,Gold and Silver Ores,ELDORADO GOLD CORP /FI
 ELE,Gold and Silver Ores,Elemental Royalty Corp
 ELF,"Perfumes, Cosmetics & Other Toilet Preparations","e.l.f. Beauty, Inc."
-ELVN,Pharmaceutical Preparations,"Enliven Therapeutics, Inc."
 EMBC,Surgical & Medical Instruments & Apparatus,Embecta Corp.
 ENGS,Electrical Work,Energys Group Ltd
 ENR,"Miscellaneous Electrical Machinery, Equipment & Supplies","ENERGIZER HOLDINGS, INC."
@@ -251,9 +255,7 @@ ERO,Metal Mining,Ero Copper Corp.
 ESP,"Electronic Components, NEC",ESPEY MFG & ELECTRONICS CORP
 ESTC,Services-Prepackaged Software,Elastic N.V.
 ETON,Pharmaceutical Preparations,"Eton Pharmaceuticals, Inc."
-EVC,Television Broadcasting Stations,ENTRAVISION COMMUNICATIONS CORP
 EWTX,Pharmaceutical Preparations,"Edgewise Therapeutics, Inc."
-EXPE,Transportation Services,"Expedia Group, Inc."
 FA,Services-Computer Processing & Data Preparation,FIRST ADVANTAGE CORP
 FAC,"Miscellaneous Electrical Machinery, Equipment & Supplies",Factorial Energy Inc.
 FATE,"Biological Products, (No Diagnostic Substances)",FATE THERAPEUTICS INC
@@ -285,7 +287,6 @@ FRPT,Grain Mill Products,"Freshpet, Inc."
 FRSH,Services-Prepackaged Software,Freshworks Inc.
 FSLY,Services-Prepackaged Software,"Fastly, Inc."
 FTFT,"Services-Business Services, NEC",Future FinTech Group Inc.
-FTH,Pharmaceutical Preparations,"Faeth Therapeutics, Inc."
 FTK,Miscellaneous Chemical Products,FLOTEK INDUSTRIES INC/CN/
 FTNT,"Computer Peripheral Equipment, NEC","Fortinet, Inc."
 FTRE,Services-Medical Laboratories,Fortrea Holdings Inc.
@@ -294,21 +295,18 @@ FWRD,Arrangement of  Transportation of  Freight & Cargo,FORWARD AIR CORP
 GCO,Retail-Shoe Stores,GENESCO INC
 GCT,Retail-Catalog & Mail-Order Houses,GigaCloud Technology Inc
 GCTS,Semiconductors & Related Devices,"GCT Semiconductor Holding, Inc."
-GDC,Wholesale-Metals & Minerals (No Petroleum),GD Culture Group Ltd
 GDDY,Services-Computer Integrated Systems Design,GoDaddy Inc.
-GDYN,Services-Prepackaged Software,"GRID DYNAMICS HOLDINGS, INC."
 GEMI,Finance Services,"Gemini Space Station, Inc."
+GENB,Pharmaceutical Preparations,"Generate Biomedicines, Inc."
 GEO,General Bldg Contractors - Residential Bldgs,GEO GROUP INC
 GH,Services-Medical Laboratories,"Guardant Health, Inc."
 GHM,General Industrial Machinery & Equipment,GRAHAM CORP
-GHRS,Pharmaceutical Preparations,GH Research PLC
 GKOS,Surgical & Medical Instruments & Apparatus,GLAUKOS Corp
 GLBE,Services-Prepackaged Software,Global-E Online Ltd.
 GLND,Drilling Oil & Gas Wells,Greenland Energy Co
 GLOO,Services-Computer Processing & Data Preparation,"Gloo Holdings, Inc."
 GLSI,Pharmaceutical Preparations,"Greenwich LifeSciences, Inc."
 GLW,Drawing & Insulating of  Nonferrous Wire,CORNING INC /NY
-GLXY,"Security Brokers, Dealers & Flotation Companies",Galaxy Digital Inc.
 GME,Retail-Computer & Computer Software Stores,GameStop Corp.
 GMEX,"Sporting & Athletic Goods, NEC",GMEX Robotics Corp
 GNRC,Motors & Generators,GENERAC HOLDINGS INC.
@@ -330,7 +328,7 @@ GTN,Television Broadcasting Stations,"GRAY MEDIA, INC"
 GWRE,Services-Prepackaged Software,"Guidewire Software, Inc."
 HBB,Electric Housewares & Fans,Hamilton Beach Brands Holding Co
 HBM,Metal Mining,Hudbay Minerals Inc.
-HELE,Electric Housewares & Fans,HELEN OF TROY LTD
+HCC,Silver Ores,"WARRIOR MET COAL, INC."
 HELP,Pharmaceutical Preparations,Helus Pharma Inc.
 HIMS,Services-Offices & Clinics of  Doctors of  Medicine,"Hims & Hers Health, Inc."
 HIMX,Semiconductors & Related Devices,"Himax Technologies, Inc."
@@ -339,6 +337,7 @@ HIVE,Finance Services,HIVE Digital Technologies Ltd.
 HNGE,Services-Computer Processing & Data Preparation,"Hinge Health, Inc."
 HNST,Retail-Catalog & Mail-Order Houses,"Honest Company, Inc."
 HOOD,"Security Brokers, Dealers & Flotation Companies","Robinhood Markets, Inc."
+HP,Drilling Oil & Gas Wells,"Helmerich & Payne, Inc."
 HPE,Computer & office Equipment,Hewlett Packard Enterprise Co
 HPK,Drilling Oil & Gas Wells,"HighPeak Energy, Inc."
 HPQ,Computer & office Equipment,HP INC
@@ -346,8 +345,8 @@ HQ,Services-Computer Programming Services,Horizon Quantum Holdings Ltd.
 HRI,Services-Miscellaneous Equipment Rental & Leasing,HERC HOLDINGS INC
 HSLV,Gold and Silver Ores,Highlander Silver Corp.
 HTFL,Surgical & Medical Instruments & Apparatus,"Heartflow, Inc."
-HUBS,Services-Prepackaged Software,HUBSPOT INC
 HUCK,Services-Prepackaged Software,"Huckleberry.ai, Inc."
+HUM,Hospital & Medical Service Plans,HUMANA INC
 HUT,Finance Services,Hut 8 Corp.
 HYLN,Truck & Bus Bodies,Hyliion Holdings Corp.
 HYPD,Finance Services,"HYPERION DEFI, INC."
@@ -365,7 +364,6 @@ IESC,Electrical Work,"IES Holdings, Inc."
 ILMN,Laboratory Analytical Instruments,"ILLUMINA, INC."
 IMAX,Photographic Equipment & Supplies,IMAX CORP
 IMPP,Deep Sea Foreign Transportation of  Freight,Imperial Petroleum Inc./Marshall Islands
-IMRN,Pharmaceutical Preparations,Immuron Ltd
 INBX,"Biological Products, (No Diagnostic Substances)","Inhibrx Biosciences, Inc."
 INDP,Pharmaceutical Preparations,"Indaptus Therapeutics, Inc."
 INFQ,Services-Computer Processing & Data Preparation,"Infleqtion, Inc."
@@ -375,19 +373,19 @@ INSP,Surgical & Medical Instruments & Apparatus,"Inspire Medical Systems, Inc."
 INSW,Water Transportation,"International Seaways, Inc."
 INTA,Services-Prepackaged Software,"Intapp, Inc."
 INTC,Semiconductors & Related Devices,INTEL CORP
+INTR,"Commercial Banks, NEC","Inter & Co, Inc."
 INVX,Oil & Gas Field Machinery & Equipment,"Innovex International, Inc."
 IONQ,Services-Computer Integrated Systems Design,"IonQ, Inc."
 IOT,Services-Computer Integrated Systems Design,Samsara Inc.
 IOVA,"Biological Products, (No Diagnostic Substances)","IOVANCE BIOTHERAPEUTICS, INC."
 IPDN,"Services-Computer Programming, Data Processing, Etc.","Professional Diversity Network, Inc."
+IQ,Services-Video Tape Rental,"iQIYI, Inc."
 IRD,Pharmaceutical Preparations,"Opus Genetics, Inc."
 IREN,Finance Services,IREN Ltd
 IT,Services-Management Services,GARTNER INC
 ITRG,Gold and Silver Ores,Integra Resources Corp.
-JANX,Pharmaceutical Preparations,"Janux Therapeutics, Inc."
 JDZG,Services-Educational Services,JIADE Ltd
 JELD,"Millwood, Veneer, Plywood, & Structural Wood Members","JELD-WEN Holding, Inc."
-JHX,"Concrete Products, Except Block & Brick",James Hardie Industries plc
 JILL,"Women's, Misses':  and Juniors Outerwear","J.Jill, Inc."
 JZXN,Retail-Auto Dealers & Gasoline Stations,"Jiuzi Holdings, Inc."
 KE,Printed Circuit Boards,"Kimball Electronics, Inc."
@@ -405,7 +403,7 @@ KRO,Industrial Inorganic Chemicals,KRONOS WORLDWIDE INC
 KRSA,Pharmaceutical Preparations,"Korsana Biosciences, Inc."
 KRT,"Plastics Products, NEC",Karat Packaging Inc.
 KSS,Retail-Department Stores,KOHLS Corp
-KURA,Pharmaceutical Preparations,"Kura Oncology, Inc."
+KXIN,Retail-Auto Dealers & Gasoline Stations,Kaixin Holdings
 KYMR,"Biological Products, (No Diagnostic Substances)","Kymera Therapeutics, Inc."
 LBRX,Pharmaceutical Preparations,LB PHARMACEUTICALS INC
 LFCR,Pharmaceutical Preparations,"LIFECORE BIOMEDICAL, INC. \DE\"
@@ -416,12 +414,13 @@ LIND,Transportation Services,"LINDBLAD EXPEDITIONS HOLDINGS, INC."
 LITE,"Communications Equipment, NEC",Lumentum Holdings Inc.
 LMRI,Services-Medical Laboratories,"Lumexa Imaging Holdings, Inc."
 LPG,Deep Sea Foreign Transportation of  Freight,DORIAN LPG LTD.
+LPLA,"Security & Commodity Brokers, Dealers, Exchanges & Services",LPL Financial Holdings Inc.
 LPTH,Semiconductors & Related Devices,LIGHTPATH TECHNOLOGIES INC
 LRCX,"Special Industry Machinery, NEC",LAM RESEARCH CORP
 LSCC,Semiconductors & Related Devices,LATTICE SEMICONDUCTOR CORP
+LTH,Services-Membership Sports & Recreation Clubs,"Life Time Group Holdings, Inc."
 LTRX,Computer Communications Equipment,LANTRONIX INC
 LUXE,Retail-Catalog & Mail-Order Houses,LuxExperience B.V.
-LWLG,Miscellaneous Plastics Products,"Lightwave Logic, Inc."
 LXEH,Services-Educational Services,Lixiang Education Holding Co. Ltd.
 M,Retail-Department Stores,"Macy's, Inc."
 MAAS,Investment Advice,Maase Inc.
@@ -438,7 +437,9 @@ MEI,Electronic Connectors,METHODE ELECTRONICS INC
 META,"Services-Computer Programming, Data Processing, Etc.","Meta Platforms, Inc."
 MGNI,"Services-Computer Programming, Data Processing, Etc.","MAGNITE, INC."
 MH,Miscellaneous Publishing,"McGraw Hill, Inc."
+MI,Finance Services,NFT Ltd
 MITK,"Computer Peripheral Equipment, NEC",MITEK SYSTEMS INC
+MLAB,"Industrial Instruments For Measurement, Display, and Control",MESA LABORATORIES INC /CO/
 MLKN,Office Furniture,"MILLERKNOLL, INC."
 MMED,Surgical & Medical Instruments & Apparatus,"MiniMed Group, Inc."
 MNKD,Pharmaceutical Preparations,MANNKIND CORP
@@ -452,6 +453,7 @@ MRVI,Pharmaceutical Preparations,"MARAVAI LIFESCIENCES HOLDINGS, INC."
 MRVL,Semiconductors & Related Devices,"Marvell Technology, Inc."
 MRX,"Security & Commodity Brokers, Dealers, Exchanges & Services",Marex Group Ltd
 MSGY,Construction - Special Trade Contractors,Masonglory Ltd
+MSS,Retail-Grocery Stores,Maison Solutions Inc.
 MSTR,Finance Services,Strategy Inc
 MTRN,Metal Forgings & Stampings,MATERION Corp
 MTSI,Semiconductors & Related Devices,"MACOM Technology Solutions Holdings, Inc."
@@ -477,7 +479,6 @@ NFE,Natural Gas Distribution,New Fortress Energy Inc.
 NICE,Services-Prepackaged Software,NICE Ltd.
 NMAX,Television Broadcasting Stations,Newsmax Inc.
 NNBR,Metalworkg Machinery & Equipment,NN INC
-NOK,Radio & Tv Broadcasting & Communications Equipment,NOKIA CORP
 NOW,Services-Prepackaged Software,"ServiceNow, Inc."
 NRC,Services-Commercial Physical & Biological Research,NRC HEALTH
 NRGV,"Miscellaneous Electrical Machinery, Equipment & Supplies","Energy Vault Holdings, Inc."
@@ -491,7 +492,9 @@ NUAI,Crude Petroleum & Natural Gas,"New ERA Energy & Digital, Inc."
 NUTX,"Services-Business Services, NEC",Nutex Health Inc.
 NVA,Gold and Silver Ores,Nova Minerals Corp
 NVAX,"Biological Products, (No Diagnostic Substances)",NOVAVAX INC
+NVCR,Surgical & Medical Instruments & Apparatus,NovoCure Ltd
 NVCT,Pharmaceutical Preparations,"Nuvectis Pharma, Inc."
+NVEC,Semiconductors & Related Devices,NVE CORP /NEW/
 NVTS,Semiconductors & Related Devices,Navitas Semiconductor Corp
 NWL,"Plastics Products, NEC",NEWELL BRANDS INC.
 NX,Rolling Drawing & Extruding of  Nonferrous Metals,Quanex Building Products CORP
@@ -514,6 +517,7 @@ ONDS,Radio & Tv Broadcasting & Communications Equipment,Ondas Inc.
 ONTO,"Measuring & Controlling Devices, NEC",ONTO INNOVATION INC.
 OOMA,Services-Computer Processing & Data Preparation,OOMA INC
 OPK,Pharmaceutical Preparations,"OPKO HEALTH, INC."
+OPNW,Finance Services,"OpenWorld, Inc."
 OPRT,Finance Services,Oportun Financial Corp
 OPTX,Optical Instruments & Lenses,"SYNTEC OPTICS HOLDINGS, INC."
 OPY,"Security Brokers, Dealers & Flotation Companies",OPPENHEIMER HOLDINGS INC
@@ -528,19 +532,21 @@ P,Computer Storage Devices,"Everpure, Inc."
 PAAI,Cable & Other Pay Television Services,"Paradium.AI, Inc."
 PACB,Laboratory Analytical Instruments,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC."
 PACS,Services-Skilled Nursing Care Facilities,"PACS Group, Inc."
+PAGS,Services-Computer Processing & Data Preparation,PagSeguro Digital Ltd.
 PANW,"Computer Peripheral Equipment, NEC",Palo Alto Networks Inc
 PARR,Crude Petroleum & Natural Gas,"PAR PACIFIC HOLDINGS, INC."
 PATH,Services-Prepackaged Software,"UiPath, Inc."
 PAY,"Services-Business Services, NEC","Paymentus Holdings, Inc."
-PAYP,"Services-Business Services, NEC",PayPay Corp
 PAYS,"Services-Business Services, NEC","Paysign, Inc."
 PBF,Petroleum Refining,PBF Energy Inc.
 PBYI,Pharmaceutical Preparations,"PUMA BIOTECHNOLOGY, INC."
 PCLA,Electric Lighting & Wiring Equipment,PicoCELA Inc.
 PCOR,Services-Prepackaged Software,"PROCORE TECHNOLOGIES, INC."
+PCVX,"Biological Products, (No Diagnostic Substances)","Vaxcyte, Inc."
 PD,Services-Prepackaged Software,"PagerDuty, Inc."
 PDEX,Surgical & Medical Instruments & Apparatus,PRO DEX INC
 PDFS,Services-Prepackaged Software,PDF SOLUTIONS INC
+PDSB,Pharmaceutical Preparations,PDS Biotechnology Corp
 PEGA,Services-Computer Processing & Data Preparation,PEGASYSTEMS INC
 PENG,Semiconductors & Related Devices,"Penguin Solutions, Inc."
 PEPG,Pharmaceutical Preparations,PepGen Inc.
@@ -548,6 +554,7 @@ PESI,Hazardous Waste Management,PERMA FIX ENVIRONMENTAL SERVICES INC
 PGEN,Pharmaceutical Preparations,"PRECIGEN, INC."
 PGY,Finance Services,Pagaya Technologies Ltd.
 PI,"Electronic Components, NEC",IMPINJ INC
+PICS,Personal Credit Institutions,PicS N.V.
 PLPC,"Water, Sewer, Pipeline, Comm & Power Line Construction",PREFORMED LINE PRODUCTS CO
 PLSE,Surgical & Medical Instruments & Apparatus,"PULSE BIOSCIENCES, INC."
 PLX,"Biological Products, (No Diagnostic Substances)","Protalix BioTherapeutics, Inc."
@@ -561,13 +568,13 @@ PRCH,Accident & Health Insurance,"Porch Group, Inc."
 PRE,Pharmaceutical Preparations,Prenetics Global Ltd
 PRGO,Pharmaceutical Preparations,PERRIGO Co plc
 PRGS,Services-Prepackaged Software,PROGRESS SOFTWARE CORP /MA
+PRIM,"Water, Sewer, Pipeline, Comm & Power Line Construction",Primoris Services Corp
+PRPO,Laboratory Analytical Instruments,"Precipio, Inc."
 PSIG,Arrangement of  Transportation of  Freight & Cargo,PS International Group Ltd.
 PSIX,Engines & Turbines,"POWER SOLUTIONS INTERNATIONAL, INC."
 PTEN,Drilling Oil & Gas Wells,PATTERSON UTI ENERGY INC
 PUBM,"Services-Computer Programming, Data Processing, Etc.","PubMatic, Inc."
 PURR,Finance Services,Hyperliquid Strategies Inc
-PVLA,Pharmaceutical Preparations,"PALVELLA THERAPEUTICS, INC."
-PYXS,Pharmaceutical Preparations,"Pyxis Oncology, Inc."
 QCOM,Radio & Tv Broadcasting & Communications Equipment,QUALCOMM INC/DE
 QLYS,Services-Prepackaged Software,"QUALYS, INC."
 QMCO,Computer Storage Devices,QUANTUM CORP /DE/
@@ -577,15 +584,14 @@ QSI,"Measuring & Controlling Devices, NEC",Quantum-Si Inc
 QTEX,Surgical & Medical Instruments & Apparatus,QTREX Quantum Ltd.
 QTRX,Laboratory Analytical Instruments,Quanterix Corp
 QUAD,Commercial Printing,"Quad/Graphics, Inc."
-QUBT,Services-Prepackaged Software,Quantum Computing Inc.
 RBRK,Services-Prepackaged Software,"Rubrik, Inc."
 RCEL,Surgical & Medical Instruments & Apparatus,"AVITA Medical, Inc."
 RDNT,Services-Medical Laboratories,"RadNet, Inc."
 RDW,Guided Missiles & Space Vehicles & Parts,Redwire Corp
 RDWR,"Services-Business Services, NEC",RADWARE LTD
 REI,Crude Petroleum & Natural Gas,"RING ENERGY, INC."
+RELY,"Services-Business Services, NEC","Remitly Global, Inc."
 REPL,"Biological Products, (No Diagnostic Substances)","Replimune Group, Inc."
-RETO,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods","ReTo Eco-Solutions, Inc."
 RGEN,"Biological Products, (No Diagnostic Substances)",REPLIGEN CORP
 RGTI,Services-Computer Programming Services,"Rigetti Computing, Inc."
 RHI,Services-Help Supply Services,ROBERT HALF INC.
@@ -595,13 +601,12 @@ RLAY,"Biological Products, (No Diagnostic Substances)","Relay Therapeutics, Inc.
 RLGT,Arrangement of  Transportation of  Freight & Cargo,"RADIANT LOGISTICS, INC"
 RMBS,Semiconductors & Related Devices,RAMBUS INC
 RNG,Services-Computer Processing & Data Preparation,"RingCentral, Inc."
-ROCK,"Steel Works, Blast Furnaces & Rolling & Finishing Mills","GIBRALTAR INDUSTRIES, INC."
 ROG,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",ROGERS CORP
 ROIV,Pharmaceutical Preparations,Roivant Sciences Ltd.
 RPD,Services-Prepackaged Software,"Rapid7, Inc."
+RR,"General Industrial Machinery & Equipment, NEC",RICHTECH ROBOTICS INC.
 RSKD,"Services-Business Services, NEC",RISKIFIED LTD.
 RUM,"Services-Computer Programming, Data Processing, Etc.",RUM Group Inc.
-RUSHB,Retail-Auto Dealers & Gasoline Stations,RUSH ENTERPRISES INC \TX\
 RVMD,"Biological Products, (No Diagnostic Substances)","Revolution Medicines, Inc."
 RVTY,Laboratory Analytical Instruments,"REVVITY, INC."
 RXO,Transportation Services,"RXO, Inc."
@@ -633,6 +638,7 @@ SHLS,Semiconductors & Related Devices,"Shoals Technologies Group, Inc."
 SHMD,Misc Industrial & Commercial Machinery & Equipment,SCHMID Group N.V.
 SHOP,Services-Prepackaged Software,SHOPIFY INC.
 SI,Surgical & Medical Instruments & Apparatus,"SHOULDER INNOVATIONS, INC."
+SIBN,Surgical & Medical Instruments & Apparatus,"SI-BONE, Inc."
 SID,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",NATIONAL STEEL CO
 SIG,Retail-Jewelry Stores,SIGNET JEWELERS LTD
 SILC,Computer Communications Equipment,SILICOM LTD.
@@ -642,7 +648,6 @@ SKE,Gold and Silver Ores,Skeena Resources Ltd
 SKYQ,Hazardous Waste Management,Sky Quarry Inc.
 SLGL,Pharmaceutical Preparations,Sol-Gel Technologies Ltd.
 SLN,Pharmaceutical Preparations,Silence Therapeutics plc
-SLNH,Finance Services,"Soluna Holdings, Inc"
 SLS,Pharmaceutical Preparations,"SELLAS Life Sciences Group, Inc."
 SM,Crude Petroleum & Natural Gas,SM Energy Co
 SMCI,Electronic Computers,"Super Micro Computer, Inc."
@@ -665,7 +670,7 @@ SRZN,"Biological Products, (No Diagnostic Substances)","Surrozen, Inc./DE"
 SSTI,Services-Prepackaged Software,"SOUNDTHINKING, INC."
 STIM,Surgical & Medical Instruments & Apparatus,"Neuronetics, Inc."
 STLN,Services-Offices & Clinics of  Doctors of  Medicine,"Starling Oncology, Inc."
-STRL,Heavy Construction Other Than Bldg Const - Contractors,"STERLING INFRASTRUCTURE, INC."
+STNE,Services-Computer Processing & Data Preparation,StoneCo Ltd.
 STTK,Pharmaceutical Preparations,"Shattuck Labs, Inc."
 STVN,Surgical & Medical Instruments & Apparatus,Stevanato Group S.p.A.
 STX,Computer Storage Devices,Seagate Technology Holdings plc
@@ -677,9 +682,9 @@ SVRN,Deep Sea Foreign Transportation of  Freight,OceanPal Inc.
 SVV,Retail-Miscellaneous Retail,"Savers Value Village, Inc."
 SWIM,"Plastics Products, NEC","Latham Group, Inc."
 SWKS,Semiconductors & Related Devices,"SKYWORKS SOLUTIONS, INC."
-SXTC,Pharmaceutical Preparations,"China SXT Pharmaceuticals, Inc."
 SYNA,Semiconductors & Related Devices,SYNAPTICS Inc
 SYRE,Pharmaceutical Preparations,"Spyre Therapeutics, Inc."
+TALO,Crude Petroleum & Natural Gas,TALOS ENERGY INC.
 TARS,"Biological Products, (No Diagnostic Substances)","Tarsus Pharmaceuticals, Inc."
 TASK,Services-Computer Processing & Data Preparation,"TaskUs, Inc."
 TBI,Services-Help Supply Services,"TrueBlue, Inc."
@@ -695,15 +700,16 @@ TH,"Hotels, Rooming Houses, Camps & Other Lodging Places",Target Hospitality Cor
 TIC,"Services-Business Services, NEC","TIC Solutions, Inc."
 TITN,"Retail-Retail Stores, NEC",Titan Machinery Inc.
 TJGC,Services-Advertising Agencies,TJGC GROUP Ltd
+TK,Deep Sea Foreign Transportation of  Freight,TEEKAY CORP LTD
 TKNO,In Vitro & In Vivo Diagnostic Substances,"Alpha Teknova, Inc."
+TLN,Electric Services,Talen Energy Corp
 TLSI,Surgical & Medical Instruments & Apparatus,"TriSalus Life Sciences, Inc."
 TLYS,Retail-Apparel & Accessory Stores,"TILLY'S, INC."
 TMDX,Electromedical & Electrotherapeutic Apparatus,"TransMedics Group, Inc."
-TNDM,Surgical & Medical Instruments & Apparatus,TANDEM DIABETES CARE INC
 TNGX,Pharmaceutical Preparations,"Tango Therapeutics, Inc."
 TNK,Water Transportation,TEEKAY TANKERS LTD.
 TNMG,Services-Advertising,TNL Mediagene
-TRI,Miscellaneous Publishing,THOMSON REUTERS CORP /CAN/
+TRAX,Pharmaceutical Preparations,"First Tracks Biotherapeutics, Inc."
 TRLV,Medicinal Chemicals & Botanical Products,Trulieve Cannabis Corp.
 TRMD,Deep Sea Foreign Transportation of  Freight,TORM plc
 TRNS,Instruments For Meas & Testing of  Electricity & Elec Signals,TRANSCAT INC
@@ -723,17 +729,14 @@ U,Services-Prepackaged Software,Unity Software Inc.
 UCTT,Semiconductors & Related Devices,"Ultra Clean Holdings, Inc."
 ULCC,"Air Transportation, Scheduled","Frontier Group Holdings, Inc."
 UMAC,Radio & Tv Broadcasting & Communications Equipment,"Unusual Machines, Inc."
-UNFI,"Wholesale-Groceries, General Line",UNITED NATURAL FOODS INC
 UPXI,Finance Services,"UPEXI, INC."
 URGN,Pharmaceutical Preparations,UroGen Pharma Ltd.
 UROY,Commodity Contracts Brokers & Dealers,Uranium Royalty Corp.
-VAC,Real Estate Agents & Managers (For Others),MARRIOTT VACATIONS WORLDWIDE Corp
-VBNK,"Commercial Banks, NEC",VersaBank
+VCTR,Investment Advice,"Victory Capital Holdings, Inc."
 VCYT,Services-Medical Laboratories,"VERACYTE, INC."
 VECO,"Special Industry Machinery, NEC",VEECO INSTRUMENTS INC
 VEEA,Services-Computer Integrated Systems Design,VEEA INC.
 VEEE,Ship & Boat Building & Repairing,"Twin Vee PowerCats, Co."
-VELO,"Special Industry Machinery, NEC","Velo3D, Inc."
 VEON,Radiotelephone Communications,VEON Ltd.
 VFF,Agricultural Production-Crops,"Village Farms International, Inc."
 VG,Natural Gas Distribution,"Venture Global, Inc."
@@ -746,10 +749,10 @@ VIR,"Biological Products, (No Diagnostic Substances)","Vir Biotechnology, Inc."
 VIRT,"Security Brokers, Dealers & Flotation Companies","Virtu Financial, Inc."
 VLO,Petroleum Refining,VALERO ENERGY CORP/TX
 VNCE,Retail-Apparel & Accessory Stores,VINCE HOLDING CORP.
+VOR,"Biological Products, (No Diagnostic Substances)",Vor Biopharma Inc.
 VOYG,Guided Missiles & Space Vehicles & Parts,"Voyager Technologies, Inc./TX"
 VPG,Electronic Components & Accessories,"Vishay Precision Group, Inc."
 VRA,Leather & Leather Products,"Vera Bradley, Inc."
-VRDN,Pharmaceutical Preparations,"Viridian Therapeutics, Inc.\DE"
 VRNS,Services-Prepackaged Software,VARONIS SYSTEMS INC
 VSAT,"Communications Services, NEC",VIASAT INC
 VSH,Electronic Components & Accessories,VISHAY INTERTECHNOLOGY INC
@@ -757,19 +760,16 @@ VSTM,Pharmaceutical Preparations,"Verastem, Inc."
 VSTS,Wholesale-Miscellaneous Nondurable Goods,Vestis Corp
 VSXY,Retail-Women's Clothing Stores,Victoria's Secret & Co.
 VUZI,Radio & Tv Broadcasting & Communications Equipment,Vuzix Corp
-VZLA,Gold and Silver Ores,Vizsla Silver Corp.
 W,Retail-Catalog & Mail-Order Houses,Wayfair Inc.
 WAFU,Services-Educational Services,Wah Fu Education Group Ltd
 WAY,Services-Computer Integrated Systems Design,Waystar Holding Corp.
 WBTN,Miscellaneous Publishing,WEBTOON Entertainment Inc.
-WCT,Services-Prepackaged Software,Wellchange Holdings Co Ltd
 WDAY,Services-Computer Processing & Data Preparation,"Workday, Inc."
 WDC,Computer Storage Devices,WESTERN DIGITAL CORP
 WGS,Services-Health Services,GeneDx Holdings Corp.
 WIX,"Services-Computer Programming, Data Processing, Etc.",Wix.com Ltd.
 WK,Services-Prepackaged Software,WORKIVA INC
 WLTH,Finance Services,WEALTHFRONT CORP
-WLY,Books: Publishing or  Publishing & Printing,"JOHN WILEY & SONS, INC."
 WNC,Truck Trailers,WABASH NATIONAL Corp
 WOLF,Semiconductors & Related Devices,"WOLFSPEED, INC."
 WOR,"Steel Works, Blast Furnaces & Rolling & Finishing Mills","WORTHINGTON ENTERPRISES, INC."
@@ -797,4 +797,5 @@ ZBIO,Pharmaceutical Preparations,"Zenas BioPharma, Inc."
 ZETA,Services-Prepackaged Software,Zeta Global Holdings Corp.
 ZH,"Services-Business Services, NEC",Zhihu Inc.
 ZIP,"Services-Computer Programming, Data Processing, Etc.","ZIPRECRUITER, INC."
+ZLAB,Pharmaceutical Preparations,Zai Lab Ltd
 ZS,Services-Computer Programming Services,"Zscaler, Inc."
