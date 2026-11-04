@@ -1,11 +1,11 @@
-generated_utc=2026-11-03T03:34:08Z
-symbols_scanned=6940
-with_history=6408
+generated_utc=2026-11-04T02:22:27Z
+symbols_scanned=6934
+with_history=6407
 survivors=800
-latest_bar=2026-11-02
+latest_bar=2026-11-03
 sector_resolved=800
 insider_status=ok
 sic_profiles=800
-insider_rows=13625
-insider_buy_rows=1122
+insider_rows=13672
+insider_buy_rows=1119
 names_with_open_market_buys=194
