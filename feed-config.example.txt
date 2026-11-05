@@ -1,0 +1,25 @@
+# Copy this file to feed-config.txt (same folder) and fill in the values.
+# feed-config.txt is read by run_feed.bat and is never uploaded anywhere.
+
+# Kiwoom REST API (openapi.kiwoom.com -> 계좌 App Key 관리). Live keys.
+KIWOOM_APP_KEY=
+KIWOOM_APP_SECRET=
+# mock keys would use https://mockapi.kiwoom.com instead
+KIWOOM_BASE=https://api.kiwoom.com
+
+# GitHub fine-grained personal access token for tyim87/htf-feed:
+#   Repository access: only htf-feed
+#   Permissions: Contents = Read and write; Workflows = Read and write (needed once, for --bootstrap)
+GITHUB_TOKEN=
+HTF_FEED_REPO=tyim87/htf-feed
+HTF_FEED_BRANCH=main
+
+# Contact email the SEC requires in the User-Agent of EDGAR requests
+SEC_CONTACT=
+
+# Tuning (defaults shown)
+# PAGES_FULL=3      pages x 100 bars for survivors (3 = ~14 months, 5 = 2 years)
+# MAX_ROWS=0        0 = ship every survivor (no 800 cap)
+# WORKERS=3
+# KIWOOM_RPS=3.0
+# ENRICH=1          try yfinance for sector/summary if installed

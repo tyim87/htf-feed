@@ -2,9 +2,11 @@ name: Build HTF universe
 
 # US close is 20:00 UTC (21:00 during DST). This runs at 22:10 UTC, which is
 # 07:10 KST the next morning - comfortably before the 09:00 KST screen.
+# SCHEDULE OFF since the feed moved to the Kiwoom runner on the user's PC
+# (run_feed.bat, see README-PC.md). Kiwoom's API only accepts the registered
+# PC IP, so it cannot run here. Keep this workflow as a manual fallback:
+# "Run workflow" rebuilds the old 800-name yfinance digest on demand.
 on:
-  schedule:
-    - cron: "10 22 * * 1-5"
   workflow_dispatch:
     inputs:
       smoke_test:
